@@ -1,0 +1,2181 @@
+
+; <<>> DiG 9.20.9-1-Debian <<>> wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5634
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;wyze.com.			IN	A
+
+;; ANSWER SECTION:
+wyze.com.		300	IN	A	23.227.38.33
+
+;; Query time: 55 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:37 IST 2025
+;; MSG SIZE  rcvd: 53
+
+; <<>> DiG 9.20.9-1-Debian <<>> www.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25539
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;www.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+www.wyze.com.		300	IN	CNAME	wyzecom.myshopify.com.
+wyzecom.myshopify.com.	3600	IN	CNAME	shops.myshopify.com.
+shops.myshopify.com.	580	IN	A	23.227.38.74
+
+;; Query time: 327 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:37 IST 2025
+;; MSG SIZE  rcvd: 109
+
+; <<>> DiG 9.20.9-1-Debian <<>> global.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29550
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;global.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+global.wyze.com.	300	IN	CNAME	shops.myshopify.com.
+shops.myshopify.com.	580	IN	A	23.227.38.74
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:37 IST 2025
+;; MSG SIZE  rcvd: 90
+
+; <<>> DiG 9.20.9-1-Debian <<>> auth-beta.api.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43269
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;auth-beta.api.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+auth-beta.api.wyze.com.	60	IN	A	18.161.246.23
+auth-beta.api.wyze.com.	60	IN	A	18.161.246.85
+auth-beta.api.wyze.com.	60	IN	A	18.161.246.50
+auth-beta.api.wyze.com.	60	IN	A	18.161.246.72
+
+;; AUTHORITY SECTION:
+api.wyze.com.		172800	IN	NS	ns-1021.awsdns-63.net.
+api.wyze.com.		172800	IN	NS	ns-1246.awsdns-27.org.
+api.wyze.com.		172800	IN	NS	ns-1714.awsdns-22.co.uk.
+api.wyze.com.		172800	IN	NS	ns-2.awsdns-00.com.
+
+;; Query time: 47 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:37 IST 2025
+;; MSG SIZE  rcvd: 251
+
+; <<>> DiG 9.20.9-1-Debian <<>> supplychain.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11451
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;supplychain.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+supplychain.wyze.com.	60	IN	A	54.191.111.46
+supplychain.wyze.com.	60	IN	A	52.37.210.254
+
+;; AUTHORITY SECTION:
+supplychain.wyze.com.	172800	IN	NS	ns-1305.awsdns-35.org.
+supplychain.wyze.com.	172800	IN	NS	ns-1544.awsdns-01.co.uk.
+supplychain.wyze.com.	172800	IN	NS	ns-383.awsdns-47.com.
+supplychain.wyze.com.	172800	IN	NS	ns-919.awsdns-50.net.
+
+;; Query time: 47 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:37 IST 2025
+;; MSG SIZE  rcvd: 218
+
+; <<>> DiG 9.20.9-1-Debian <<>> pipeline.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31417
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;pipeline.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+pipeline.wyze.com.	60	IN	A	52.32.178.200
+pipeline.wyze.com.	60	IN	A	44.229.174.89
+
+;; AUTHORITY SECTION:
+pipeline.wyze.com.	172800	IN	NS	ns-1248.awsdns-28.org.
+pipeline.wyze.com.	172800	IN	NS	ns-180.awsdns-22.com.
+pipeline.wyze.com.	172800	IN	NS	ns-2036.awsdns-62.co.uk.
+pipeline.wyze.com.	172800	IN	NS	ns-653.awsdns-17.net.
+
+;; Query time: 43 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:37 IST 2025
+;; MSG SIZE  rcvd: 215
+
+; <<>> DiG 9.20.9-1-Debian <<>> beta-oauth.api.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63926
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;beta-oauth.api.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+beta-oauth.api.wyze.com. 60	IN	A	35.160.166.221
+beta-oauth.api.wyze.com. 60	IN	A	54.186.10.165
+
+;; AUTHORITY SECTION:
+api.wyze.com.		172800	IN	NS	ns-1021.awsdns-63.net.
+api.wyze.com.		172800	IN	NS	ns-1246.awsdns-27.org.
+api.wyze.com.		172800	IN	NS	ns-1714.awsdns-22.co.uk.
+api.wyze.com.		172800	IN	NS	ns-2.awsdns-00.com.
+
+;; Query time: 51 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:37 IST 2025
+;; MSG SIZE  rcvd: 220
+
+; <<>> DiG 9.20.9-1-Debian <<>> why.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24061
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;why.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+why.wyze.com.		300	IN	A	104.18.16.124
+why.wyze.com.		300	IN	A	104.18.17.124
+
+;; Query time: 31 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:37 IST 2025
+;; MSG SIZE  rcvd: 73
+
+; <<>> DiG 9.20.9-1-Debian <<>> beta-app-core.cloud.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22630
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;beta-app-core.cloud.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+beta-app-core.cloud.wyze.com. 60 IN	CNAME	app-gateway-lb-beta-964927662.us-west-2.elb.amazonaws.com.
+app-gateway-lb-beta-964927662.us-west-2.elb.amazonaws.com. 60 IN A 52.37.36.130
+app-gateway-lb-beta-964927662.us-west-2.elb.amazonaws.com. 60 IN A 44.237.185.100
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1349 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1349 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1349 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1349 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 47 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:37 IST 2025
+;; MSG SIZE  rcvd: 294
+
+; <<>> DiG 9.20.9-1-Debian <<>> hms.api.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2700
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;hms.api.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+hms.api.wyze.com.	60	IN	A	18.161.229.111
+hms.api.wyze.com.	60	IN	A	18.161.229.69
+hms.api.wyze.com.	60	IN	A	18.161.229.100
+hms.api.wyze.com.	60	IN	A	18.161.229.88
+
+;; AUTHORITY SECTION:
+api.wyze.com.		172800	IN	NS	ns-1021.awsdns-63.net.
+api.wyze.com.		172800	IN	NS	ns-1246.awsdns-27.org.
+api.wyze.com.		172800	IN	NS	ns-1714.awsdns-22.co.uk.
+api.wyze.com.		172800	IN	NS	ns-2.awsdns-00.com.
+
+;; Query time: 171 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:37 IST 2025
+;; MSG SIZE  rcvd: 245
+
+; <<>> DiG 9.20.9-1-Debian <<>> prod.services.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12506
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;prod.services.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+prod.services.wyze.com.	60	IN	CNAME	my.wyze.com.
+my.wyze.com.		300	IN	CNAME	web-app-fe-lb-prod-2095160884.us-west-2.elb.amazonaws.com.
+web-app-fe-lb-prod-2095160884.us-west-2.elb.amazonaws.com. 60 IN A 35.166.124.114
+web-app-fe-lb-prod-2095160884.us-west-2.elb.amazonaws.com. 60 IN A 44.240.120.180
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 215 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 305
+
+; <<>> DiG 9.20.9-1-Debian <<>> my.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45620
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;my.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+my.wyze.com.		300	IN	CNAME	web-app-fe-lb-prod-2095160884.us-west-2.elb.amazonaws.com.
+web-app-fe-lb-prod-2095160884.us-west-2.elb.amazonaws.com. 60 IN A 35.166.124.114
+web-app-fe-lb-prod-2095160884.us-west-2.elb.amazonaws.com. 60 IN A 44.240.120.180
+
+;; Query time: 3 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 132
+
+; <<>> DiG 9.20.9-1-Debian <<>> app-core.cloud.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17912
+;; flags: qr rd ra; QUERY: 1, ANSWER: 9, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;app-core.cloud.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+app-core.cloud.wyze.com. 60	IN	CNAME	core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com.
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 52.38.152.28
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 44.238.255.60
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 44.231.85.221
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 34.214.69.48
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 34.215.207.49
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 35.82.214.202
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 44.241.143.36
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 35.83.152.137
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 67 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 392
+
+; <<>> DiG 9.20.9-1-Debian <<>> support.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57692
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;support.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+support.wyze.com.	300	IN	CNAME	wyzelabs.zendesk.com.
+wyzelabs.zendesk.com.	300	IN	A	216.198.53.6
+wyzelabs.zendesk.com.	300	IN	A	216.198.54.6
+
+;; AUTHORITY SECTION:
+zendesk.com.		43592	IN	NS	ns-1213.awsdns-23.org.
+zendesk.com.		43592	IN	NS	ns-1858.awsdns-40.co.uk.
+zendesk.com.		43592	IN	NS	ns-444.awsdns-55.com.
+zendesk.com.		43592	IN	NS	ns-754.awsdns-30.net.
+
+;; Query time: 31 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 245
+
+; <<>> DiG 9.20.9-1-Debian <<>> forums.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5176
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;forums.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+forums.wyze.com.	300	IN	CNAME	wyze.hosted-by-discourse.com.
+wyze.hosted-by-discourse.com. 300 IN	A	184.105.99.75
+
+;; AUTHORITY SECTION:
+hosted-by-discourse.com. 172595	IN	NS	ns-104.awsdns-13.com.
+hosted-by-discourse.com. 172595	IN	NS	ns-1250.awsdns-28.org.
+hosted-by-discourse.com. 172595	IN	NS	ns-2026.awsdns-61.co.uk.
+hosted-by-discourse.com. 172595	IN	NS	ns-717.awsdns-25.net.
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 236
+
+; <<>> DiG 9.20.9-1-Debian <<>> enterpriseenrollment.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43887
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;enterpriseenrollment.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+enterpriseenrollment.wyze.com. 3600 IN	CNAME	enterpriseenrollment-s.manage.microsoft.com.
+enterpriseenrollment-s.manage.microsoft.com. 3600 IN CNAME manage-pe.trafficmanager.net.
+manage-pe.trafficmanager.net. 54 IN	CNAME	pexsucpap03.koreacentral.cloudapp.azure.com.
+pexsucpap03.koreacentral.cloudapp.azure.com. 4 IN A 20.214.131.176
+
+;; Query time: 47 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 224
+
+; <<>> DiG 9.20.9-1-Debian <<>> devicemgmt-service-beta.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19459
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;devicemgmt-service-beta.wyze.com. IN	A
+
+;; ANSWER SECTION:
+devicemgmt-service-beta.wyze.com. 300 IN CNAME	core-cloud-gateway-lb-beta-1850130188.us-west-2.elb.amazonaws.com.
+core-cloud-gateway-lb-beta-1850130188.us-west-2.elb.amazonaws.com. 60 IN A 35.165.10.78
+core-cloud-gateway-lb-beta-1850130188.us-west-2.elb.amazonaws.com. 60 IN A 52.35.181.209
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 59 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 306
+
+; <<>> DiG 9.20.9-1-Debian <<>> app-resource.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19759
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;app-resource.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+app-resource.wyze.com.	300	IN	CNAME	dgn9s1tyq4rhb.cloudfront.net.
+dgn9s1tyq4rhb.cloudfront.net. 60 IN	A	108.159.15.9
+dgn9s1tyq4rhb.cloudfront.net. 60 IN	A	108.159.15.52
+dgn9s1tyq4rhb.cloudfront.net. 60 IN	A	108.159.15.93
+dgn9s1tyq4rhb.cloudfront.net. 60 IN	A	108.159.15.3
+
+;; AUTHORITY SECTION:
+dgn9s1tyq4rhb.cloudfront.net. 172800 IN	NS	ns-1204.awsdns-22.org.
+dgn9s1tyq4rhb.cloudfront.net. 172800 IN	NS	ns-1892.awsdns-44.co.uk.
+dgn9s1tyq4rhb.cloudfront.net. 172800 IN	NS	ns-469.awsdns-58.com.
+dgn9s1tyq4rhb.cloudfront.net. 172800 IN	NS	ns-772.awsdns-32.net.
+
+;; Query time: 211 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 290
+
+; <<>> DiG 9.20.9-1-Debian <<>> prod-sight-safe-auth.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20845
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;prod-sight-safe-auth.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+prod-sight-safe-auth.wyze.com. 281 IN	CNAME	prod-sight-safe-auth-alb-897847133.us-west-2.elb.amazonaws.com.
+prod-sight-safe-auth-alb-897847133.us-west-2.elb.amazonaws.com.	41 IN A	35.163.212.193
+prod-sight-safe-auth-alb-897847133.us-west-2.elb.amazonaws.com.	41 IN A	52.38.187.138
+prod-sight-safe-auth-alb-897847133.us-west-2.elb.amazonaws.com.	41 IN A	35.95.170.93
+prod-sight-safe-auth-alb-897847133.us-west-2.elb.amazonaws.com.	41 IN A	54.69.22.249
+
+;; Query time: 23 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 195
+
+; <<>> DiG 9.20.9-1-Debian <<>> devicemgmt-service.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53130
+;; flags: qr rd ra; QUERY: 1, ANSWER: 9, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;devicemgmt-service.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+devicemgmt-service.wyze.com. 300 IN	CNAME	core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com.
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 52.38.152.28
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 44.238.255.60
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 44.231.85.221
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 34.214.69.48
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 34.215.207.49
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 35.82.214.202
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 44.241.143.36
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 60 IN	A 35.83.152.137
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1348 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 396
+
+; <<>> DiG 9.20.9-1-Debian <<>> iap.api.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38459
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;iap.api.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+iap.api.wyze.com.	60	IN	A	18.161.229.126
+iap.api.wyze.com.	60	IN	A	18.161.229.55
+iap.api.wyze.com.	60	IN	A	18.161.229.85
+iap.api.wyze.com.	60	IN	A	18.161.229.100
+
+;; AUTHORITY SECTION:
+api.wyze.com.		172799	IN	NS	ns-1021.awsdns-63.net.
+api.wyze.com.		172799	IN	NS	ns-1246.awsdns-27.org.
+api.wyze.com.		172799	IN	NS	ns-1714.awsdns-22.co.uk.
+api.wyze.com.		172799	IN	NS	ns-2.awsdns-00.com.
+
+;; Query time: 55 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:38 IST 2025
+;; MSG SIZE  rcvd: 245
+
+; <<>> DiG 9.20.9-1-Debian <<>> abmail.hello.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19095
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;abmail.hello.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+abmail.hello.wyze.com.	300	IN	CNAME	u15112407.wl158.sendgrid.net.
+
+;; AUTHORITY SECTION:
+wl158.sendgrid.net.	1800	IN	SOA	aisha.ns.cloudflare.com. dns.cloudflare.com. 2380647123 10000 2400 604800 1800
+
+;; Query time: 107 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 152
+
+; <<>> DiG 9.20.9-1-Debian <<>> ca.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55484
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;ca.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+ca.wyze.com.		300	IN	CNAME	shops.myshopify.com.
+shops.myshopify.com.	579	IN	A	23.227.38.74
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 86
+
+; <<>> DiG 9.20.9-1-Debian <<>> bi.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32665
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;bi.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+bi.wyze.com.		60	IN	A	54.212.32.76
+bi.wyze.com.		60	IN	A	44.228.7.93
+
+;; AUTHORITY SECTION:
+bi.wyze.com.		172800	IN	NS	ns-1321.awsdns-37.org.
+bi.wyze.com.		172800	IN	NS	ns-1630.awsdns-11.co.uk.
+bi.wyze.com.		172800	IN	NS	ns-469.awsdns-58.com.
+bi.wyze.com.		172800	IN	NS	ns-903.awsdns-48.net.
+
+;; Query time: 83 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 209
+
+; <<>> DiG 9.20.9-1-Debian <<>> app-shop-prod.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38323
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;app-shop-prod.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+app-shop-prod.wyze.com.	300	IN	CNAME	d6c9psb4ut8d5.cloudfront.net.
+d6c9psb4ut8d5.cloudfront.net. 60 IN	A	108.158.251.49
+d6c9psb4ut8d5.cloudfront.net. 60 IN	A	108.158.251.56
+d6c9psb4ut8d5.cloudfront.net. 60 IN	A	108.158.251.5
+d6c9psb4ut8d5.cloudfront.net. 60 IN	A	108.158.251.59
+
+;; AUTHORITY SECTION:
+d6c9psb4ut8d5.cloudfront.net. 172800 IN	NS	ns-1362.awsdns-42.org.
+d6c9psb4ut8d5.cloudfront.net. 172800 IN	NS	ns-1686.awsdns-18.co.uk.
+d6c9psb4ut8d5.cloudfront.net. 172800 IN	NS	ns-404.awsdns-50.com.
+d6c9psb4ut8d5.cloudfront.net. 172800 IN	NS	ns-602.awsdns-11.net.
+
+;; Query time: 107 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 291
+
+; <<>> DiG 9.20.9-1-Debian <<>> backend.my.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9712
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;backend.my.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+backend.my.wyze.com.	300	IN	CNAME	web-app-be-lb-prod-224264535.us-west-2.elb.amazonaws.com.
+web-app-be-lb-prod-224264535.us-west-2.elb.amazonaws.com. 60 IN	A 52.41.96.234
+web-app-be-lb-prod-224264535.us-west-2.elb.amazonaws.com. 60 IN	A 54.149.112.213
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 63 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 284
+
+; <<>> DiG 9.20.9-1-Debian <<>> shop.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28506
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;shop.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+shop.wyze.com.		300	IN	CNAME	wyzecom.myshopify.com.
+wyzecom.myshopify.com.	3598	IN	CNAME	shops.myshopify.com.
+shops.myshopify.com.	578	IN	A	23.227.38.74
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 110
+
+; <<>> DiG 9.20.9-1-Debian <<>> app-service-resource.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56598
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;app-service-resource.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+app-service-resource.wyze.com. 300 IN	CNAME	d1ti2dlvrgv8pg.cloudfront.net.
+d1ti2dlvrgv8pg.cloudfront.net. 60 IN	A	18.67.161.103
+d1ti2dlvrgv8pg.cloudfront.net. 60 IN	A	18.67.161.77
+d1ti2dlvrgv8pg.cloudfront.net. 60 IN	A	18.67.161.108
+d1ti2dlvrgv8pg.cloudfront.net. 60 IN	A	18.67.161.43
+
+;; AUTHORITY SECTION:
+d1ti2dlvrgv8pg.cloudfront.net. 172800 IN NS	ns-1498.awsdns-59.org.
+d1ti2dlvrgv8pg.cloudfront.net. 172800 IN NS	ns-1774.awsdns-29.co.uk.
+d1ti2dlvrgv8pg.cloudfront.net. 172800 IN NS	ns-407.awsdns-50.com.
+d1ti2dlvrgv8pg.cloudfront.net. 172800 IN NS	ns-932.awsdns-52.net.
+
+;; Query time: 79 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 299
+
+; <<>> DiG 9.20.9-1-Debian <<>> app-shop-beta.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42087
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;app-shop-beta.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+app-shop-beta.wyze.com.	300	IN	CNAME	d3ks7wcym5khca.cloudfront.net.
+d3ks7wcym5khca.cloudfront.net. 60 IN	A	18.67.161.6
+d3ks7wcym5khca.cloudfront.net. 60 IN	A	18.67.161.97
+d3ks7wcym5khca.cloudfront.net. 60 IN	A	18.67.161.58
+d3ks7wcym5khca.cloudfront.net. 60 IN	A	18.67.161.20
+
+;; AUTHORITY SECTION:
+d3ks7wcym5khca.cloudfront.net. 172800 IN NS	ns-1427.awsdns-50.org.
+d3ks7wcym5khca.cloudfront.net. 172800 IN NS	ns-156.awsdns-19.com.
+d3ks7wcym5khca.cloudfront.net. 172800 IN NS	ns-1580.awsdns-05.co.uk.
+d3ks7wcym5khca.cloudfront.net. 172800 IN NS	ns-552.awsdns-05.net.
+
+;; Query time: 91 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 292
+
+; <<>> DiG 9.20.9-1-Debian <<>> aiikb.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10851
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;aiikb.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+aiikb.wyze.com.		300	IN	CNAME	aiikb.customers.edgetag.io.
+aiikb.customers.edgetag.io. 300	IN	A	104.18.39.28
+aiikb.customers.edgetag.io. 300	IN	A	172.64.148.228
+
+;; Query time: 75 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 115
+
+; <<>> DiG 9.20.9-1-Debian <<>> abmail.noreply.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39825
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;abmail.noreply.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+abmail.noreply.wyze.com. 300	IN	CNAME	u15112407.wl158.sendgrid.net.
+
+;; AUTHORITY SECTION:
+wl158.sendgrid.net.	1799	IN	SOA	aisha.ns.cloudflare.com. dns.cloudflare.com. 2380647123 10000 2400 604800 1800
+
+;; Query time: 43 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 154
+
+; <<>> DiG 9.20.9-1-Debian <<>> beta-services.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17486
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;beta-services.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+beta-services.wyze.com.	300	IN	CNAME	web-service-lb-beta-2034465552.us-west-2.elb.amazonaws.com.
+web-service-lb-beta-2034465552.us-west-2.elb.amazonaws.com. 60 IN A 54.186.241.151
+web-service-lb-beta-2034465552.us-west-2.elb.amazonaws.com. 60 IN A 52.39.174.216
+web-service-lb-beta-2034465552.us-west-2.elb.amazonaws.com. 60 IN A 44.225.2.148
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 123 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:39 IST 2025
+;; MSG SIZE  rcvd: 305
+
+; <<>> DiG 9.20.9-1-Debian <<>> enterpriseregistration.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61478
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;enterpriseregistration.wyze.com. IN	A
+
+;; ANSWER SECTION:
+enterpriseregistration.wyze.com. 3600 IN CNAME	enterpriseregistration.windows.net.
+enterpriseregistration.windows.net. 12518 IN CNAME na.privatelink.msidentity.com.
+na.privatelink.msidentity.com. 190 IN	CNAME	prdf.aadg.msidentity.com.
+prdf.aadg.msidentity.com. 85	IN	CNAME	www.tm.f.prd.aadg.trafficmanager.net.
+www.tm.f.prd.aadg.trafficmanager.net. 85 IN A	20.190.145.128
+www.tm.f.prd.aadg.trafficmanager.net. 85 IN A	20.190.145.139
+
+;; Query time: 39 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 251
+
+; <<>> DiG 9.20.9-1-Debian <<>> service-event.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63827
+;; flags: qr rd ra; QUERY: 1, ANSWER: 9, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;service-event.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+service-event.wyze.com.	300	IN	CNAME	core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com.
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 59 IN	A 52.38.152.28
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 59 IN	A 44.238.255.60
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 59 IN	A 44.231.85.221
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 59 IN	A 34.214.69.48
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 59 IN	A 34.215.207.49
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 59 IN	A 35.82.214.202
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 59 IN	A 44.241.143.36
+core-cloud-gateway-lb-prod-456177862.us-west-2.elb.amazonaws.com. 59 IN	A 35.83.152.137
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 39 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 391
+
+; <<>> DiG 9.20.9-1-Debian <<>> beta-new.my.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45308
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;beta-new.my.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+beta-new.my.wyze.com.	300	IN	CNAME	web-app-fe-lb-beta-591377384.us-west-2.elb.amazonaws.com.
+web-app-fe-lb-beta-591377384.us-west-2.elb.amazonaws.com. 60 IN	A 44.233.43.87
+web-app-fe-lb-beta-591377384.us-west-2.elb.amazonaws.com. 60 IN	A 35.84.157.1
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1347 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 59 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 285
+
+; <<>> DiG 9.20.9-1-Debian <<>> developer-api-console.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26273
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;developer-api-console.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+developer-api-console.wyze.com.	300 IN	CNAME	d2xff4h192buxv.cloudfront.net.
+d2xff4h192buxv.cloudfront.net. 60 IN	A	18.161.229.24
+d2xff4h192buxv.cloudfront.net. 60 IN	A	18.161.229.80
+d2xff4h192buxv.cloudfront.net. 60 IN	A	18.161.229.30
+d2xff4h192buxv.cloudfront.net. 60 IN	A	18.161.229.61
+
+;; AUTHORITY SECTION:
+d2xff4h192buxv.cloudfront.net. 172800 IN NS	ns-127.awsdns-15.com.
+d2xff4h192buxv.cloudfront.net. 172800 IN NS	ns-1305.awsdns-35.org.
+d2xff4h192buxv.cloudfront.net. 172800 IN NS	ns-1785.awsdns-31.co.uk.
+d2xff4h192buxv.cloudfront.net. 172800 IN NS	ns-908.awsdns-49.net.
+
+;; Query time: 59 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 300
+
+; <<>> DiG 9.20.9-1-Debian <<>> chatwithme.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8953
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;chatwithme.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+chatwithme.wyze.com.	300	IN	CNAME	chat-with-867018586.us-west-2.elb.amazonaws.com.
+chat-with-867018586.us-west-2.elb.amazonaws.com. 60 IN A 52.89.140.225
+chat-with-867018586.us-west-2.elb.amazonaws.com. 60 IN A 50.112.7.69
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 63 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 275
+
+; <<>> DiG 9.20.9-1-Debian <<>> middleware.auth.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43218
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;middleware.auth.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+middleware.auth.wyze.com. 60	IN	A	52.40.29.38
+middleware.auth.wyze.com. 60	IN	A	52.39.247.185
+
+;; AUTHORITY SECTION:
+auth.wyze.com.		172800	IN	NS	ns-1089.awsdns-08.org.
+auth.wyze.com.		172800	IN	NS	ns-111.awsdns-13.com.
+auth.wyze.com.		172800	IN	NS	ns-1772.awsdns-29.co.uk.
+auth.wyze.com.		172800	IN	NS	ns-619.awsdns-13.net.
+
+;; Query time: 67 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 222
+
+; <<>> DiG 9.20.9-1-Debian <<>> oidc-gateway.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16145
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;oidc-gateway.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+oidc-gateway.wyze.com.	300	IN	CNAME	r9idwoj63g.execute-api.us-west-2.amazonaws.com.
+r9idwoj63g.execute-api.us-west-2.amazonaws.com.	60 IN A	35.167.195.6
+r9idwoj63g.execute-api.us-west-2.amazonaws.com.	60 IN A	52.34.185.232
+
+;; AUTHORITY SECTION:
+execute-api.us-west-2.amazonaws.com. 84064 IN NS ns-1153.awsdns-16.org.
+execute-api.us-west-2.amazonaws.com. 84064 IN NS ns-1623.awsdns-10.co.uk.
+execute-api.us-west-2.amazonaws.com. 84064 IN NS ns-508.awsdns-63.com.
+execute-api.us-west-2.amazonaws.com. 84064 IN NS ns-793.awsdns-35.net.
+
+;; Query time: 67 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 276
+
+; <<>> DiG 9.20.9-1-Debian <<>> wyze-assets-new.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15432
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;wyze-assets-new.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+wyze-assets-new.wyze.com. 300	IN	CNAME	d1a3tjor8mlg7l.cloudfront.net.
+d1a3tjor8mlg7l.cloudfront.net. 60 IN	A	18.161.246.90
+d1a3tjor8mlg7l.cloudfront.net. 60 IN	A	18.161.246.4
+d1a3tjor8mlg7l.cloudfront.net. 60 IN	A	18.161.246.21
+d1a3tjor8mlg7l.cloudfront.net. 60 IN	A	18.161.246.85
+
+;; AUTHORITY SECTION:
+d1a3tjor8mlg7l.cloudfront.net. 172800 IN NS	ns-1304.awsdns-35.org.
+d1a3tjor8mlg7l.cloudfront.net. 172800 IN NS	ns-1733.awsdns-24.co.uk.
+d1a3tjor8mlg7l.cloudfront.net. 172800 IN NS	ns-358.awsdns-44.com.
+d1a3tjor8mlg7l.cloudfront.net. 172800 IN NS	ns-626.awsdns-14.net.
+
+;; Query time: 87 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 294
+
+; <<>> DiG 9.20.9-1-Debian <<>> abmail.shop.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52943
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;abmail.shop.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+abmail.shop.wyze.com.	300	IN	CNAME	u15112407.wl158.sendgrid.net.
+
+;; AUTHORITY SECTION:
+wl158.sendgrid.net.	1798	IN	SOA	aisha.ns.cloudflare.com. dns.cloudflare.com. 2380647123 10000 2400 604800 1800
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 151
+
+; <<>> DiG 9.20.9-1-Debian <<>> app-shop-test.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7886
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;app-shop-test.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+app-shop-test.wyze.com.	300	IN	CNAME	d1rtmb2r5guhx5.cloudfront.net.
+d1rtmb2r5guhx5.cloudfront.net. 60 IN	A	108.159.15.87
+d1rtmb2r5guhx5.cloudfront.net. 60 IN	A	108.159.15.88
+d1rtmb2r5guhx5.cloudfront.net. 60 IN	A	108.159.15.108
+d1rtmb2r5guhx5.cloudfront.net. 60 IN	A	108.159.15.74
+
+;; AUTHORITY SECTION:
+d1rtmb2r5guhx5.cloudfront.net. 172800 IN NS	ns-1062.awsdns-04.org.
+d1rtmb2r5guhx5.cloudfront.net. 172800 IN NS	ns-1669.awsdns-16.co.uk.
+d1rtmb2r5guhx5.cloudfront.net. 172800 IN NS	ns-487.awsdns-60.com.
+d1rtmb2r5guhx5.cloudfront.net. 172800 IN NS	ns-675.awsdns-20.net.
+
+;; Query time: 83 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 292
+
+; <<>> DiG 9.20.9-1-Debian <<>> account.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62053
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;account.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+account.wyze.com.	300	IN	CNAME	shops.myshopify.com.
+shops.myshopify.com.	577	IN	A	23.227.38.74
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 91
+
+; <<>> DiG 9.20.9-1-Debian <<>> view.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45159
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;view.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+view.wyze.com.		300	IN	CNAME	web-app-fe-lb-prod-2095160884.us-west-2.elb.amazonaws.com.
+web-app-fe-lb-prod-2095160884.us-west-2.elb.amazonaws.com. 58 IN A 35.166.124.114
+web-app-fe-lb-prod-2095160884.us-west-2.elb.amazonaws.com. 58 IN A 44.240.120.180
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 39 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 279
+
+; <<>> DiG 9.20.9-1-Debian <<>> wyze-brain-command-test.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24799
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;wyze-brain-command-test.wyze.com. IN	A
+
+;; ANSWER SECTION:
+wyze-brain-command-test.wyze.com. 300 IN CNAME	alb-test-temp-1802667729.us-west-2.elb.amazonaws.com.
+alb-test-temp-1802667729.us-west-2.elb.amazonaws.com. 60 IN A 44.224.97.182
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1346 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 35 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 277
+
+; <<>> DiG 9.20.9-1-Debian <<>> ablink.noreply.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28328
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;ablink.noreply.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+ablink.noreply.wyze.com. 300	IN	A	104.18.17.124
+ablink.noreply.wyze.com. 300	IN	A	104.18.16.124
+
+;; Query time: 31 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:40 IST 2025
+;; MSG SIZE  rcvd: 84
+
+; <<>> DiG 9.20.9-1-Debian <<>> dev.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61712
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;dev.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+dev.wyze.com.		300	IN	CNAME	wyze-playground.myshopify.com.
+wyze-playground.myshopify.com. 3600 IN	CNAME	shops.myshopify.com.
+shops.myshopify.com.	577	IN	A	23.227.38.74
+
+;; Query time: 71 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 117
+
+; <<>> DiG 9.20.9-1-Debian <<>> blog.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53755
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;blog.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+blog.wyze.com.		60	IN	CNAME	wyzecom.shopify.com.
+wyzecom.shopify.com.	60	IN	CNAME	wc.shopify.com.
+wc.shopify.com.		281	IN	A	23.227.38.33
+
+;; Query time: 75 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 105
+
+; <<>> DiG 9.20.9-1-Debian <<>> preview.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40979
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;preview.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+preview.wyze.com.	300	IN	CNAME	wyzecom.myshopify.com.
+wyzecom.myshopify.com.	3596	IN	CNAME	shops.myshopify.com.
+shops.myshopify.com.	576	IN	A	23.227.38.74
+
+;; Query time: 43 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 113
+
+; <<>> DiG 9.20.9-1-Debian <<>> o3.ptr7523.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15137
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;o3.ptr7523.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+o3.ptr7523.wyze.com.	300	IN	A	159.183.108.103
+
+;; Query time: 31 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 64
+
+; <<>> DiG 9.20.9-1-Debian <<>> configservice.api.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8678
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;configservice.api.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+configservice.api.wyze.com. 60	IN	A	18.161.246.20
+configservice.api.wyze.com. 60	IN	A	18.161.246.89
+configservice.api.wyze.com. 60	IN	A	18.161.246.99
+configservice.api.wyze.com. 60	IN	A	18.161.246.11
+
+;; AUTHORITY SECTION:
+api.wyze.com.		172796	IN	NS	ns-1021.awsdns-63.net.
+api.wyze.com.		172796	IN	NS	ns-1246.awsdns-27.org.
+api.wyze.com.		172796	IN	NS	ns-1714.awsdns-22.co.uk.
+api.wyze.com.		172796	IN	NS	ns-2.awsdns-00.com.
+
+;; Query time: 63 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 255
+
+; <<>> DiG 9.20.9-1-Debian <<>> hms.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30673
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;hms.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+hms.wyze.com.		60	IN	A	18.67.161.88
+hms.wyze.com.		60	IN	A	18.67.161.36
+hms.wyze.com.		60	IN	A	18.67.161.14
+hms.wyze.com.		60	IN	A	18.67.161.56
+
+;; AUTHORITY SECTION:
+hms.wyze.com.		172800	IN	NS	ns-1090.awsdns-08.org.
+hms.wyze.com.		172800	IN	NS	ns-162.awsdns-20.com.
+hms.wyze.com.		172800	IN	NS	ns-1693.awsdns-19.co.uk.
+hms.wyze.com.		172800	IN	NS	ns-996.awsdns-60.net.
+
+;; Query time: 207 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 242
+
+; <<>> DiG 9.20.9-1-Debian <<>> appshop.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18825
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;appshop.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+appshop.wyze.com.	60	IN	CNAME	shops.myshopify.com.
+shops.myshopify.com.	576	IN	A	23.227.38.74
+
+;; Query time: 31 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 91
+
+; <<>> DiG 9.20.9-1-Debian <<>> ablink.hello.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59806
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;ablink.hello.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+ablink.hello.wyze.com.	300	IN	A	104.18.16.124
+ablink.hello.wyze.com.	300	IN	A	104.18.17.124
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 82
+
+; <<>> DiG 9.20.9-1-Debian <<>> o2747.abmail.noreply.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5909
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;o2747.abmail.noreply.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+o2747.abmail.noreply.wyze.com. 300 IN	A	149.72.70.198
+
+;; Query time: 43 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 74
+
+; <<>> DiG 9.20.9-1-Debian <<>> affiliate.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37289
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;affiliate.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+affiliate.wyze.com.	300	IN	CNAME	ns-1803.awsdns-33.co.uk.
+ns-1803.awsdns-33.co.uk. 43645	IN	A	205.251.199.11
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 100
+
+; <<>> DiG 9.20.9-1-Debian <<>> autodiscover.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65409
+;; flags: qr rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;autodiscover.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+autodiscover.wyze.com.	3600	IN	CNAME	autodiscover.outlook.com.
+autodiscover.outlook.com. 57	IN	CNAME	atod-g2.tm-4.office.com.
+atod-g2.tm-4.office.com. 31	IN	CNAME	autod.ms-acdc-autod.office.com.
+autod.ms-acdc-autod.office.com.	4 IN	A	40.99.34.216
+autod.ms-acdc-autod.office.com.	4 IN	A	40.99.34.248
+autod.ms-acdc-autod.office.com.	4 IN	A	40.104.107.232
+autod.ms-acdc-autod.office.com.	4 IN	A	40.100.137.248
+
+;; Query time: 43 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 217
+
+; <<>> DiG 9.20.9-1-Debian <<>> forums-oauth.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 7185
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;forums-oauth.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+forums-oauth.wyze.com.	300	IN	CNAME	beta-api-864600634.us-west-2.elb.amazonaws.com.
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 60	IN	SOA	ns-332.awsdns-41.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 60
+
+;; Query time: 75 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:41 IST 2025
+;; MSG SIZE  rcvd: 185
+
+; <<>> DiG 9.20.9-1-Debian <<>> get.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24967
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;get.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+get.wyze.com.		300	IN	CNAME	reploedge.com.
+reploedge.com.		300	IN	A	104.20.41.218
+reploedge.com.		300	IN	A	172.66.155.19
+
+;; Query time: 139 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 97
+
+; <<>> DiG 9.20.9-1-Debian <<>> blogs.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58784
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;blogs.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+blogs.wyze.com.		60	IN	CNAME	wyzecom.shopify.com.
+wyzecom.shopify.com.	59	IN	CNAME	wc.shopify.com.
+wc.shopify.com.		280	IN	A	23.227.38.33
+
+;; Query time: 31 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 106
+
+; <<>> DiG 9.20.9-1-Debian <<>> gamma-oauth-internal.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5524
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;gamma-oauth-internal.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+gamma-oauth-internal.wyze.com. 300 IN	CNAME	core-dev-oauth-svc-internal-0feecdc3b452c2fb.elb.us-west-2.amazonaws.com.
+core-dev-oauth-svc-internal-0feecdc3b452c2fb.elb.us-west-2.amazonaws.com. 60 IN	A 10.30.64.129
+core-dev-oauth-svc-internal-0feecdc3b452c2fb.elb.us-west-2.amazonaws.com. 60 IN	A 10.30.192.79
+
+;; AUTHORITY SECTION:
+elb.us-west-2.amazonaws.com. 43077 IN	NS	ns-1283.awsdns-32.org.
+elb.us-west-2.amazonaws.com. 43077 IN	NS	ns-1870.awsdns-41.co.uk.
+elb.us-west-2.amazonaws.com. 43077 IN	NS	ns-424.awsdns-53.com.
+elb.us-west-2.amazonaws.com. 43077 IN	NS	ns-748.awsdns-29.net.
+
+;; Query time: 147 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 310
+
+; <<>> DiG 9.20.9-1-Debian <<>> auth-internal.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40209
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;auth-internal.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+auth-internal.wyze.com.	300	IN	CNAME	core-prod-oauth-internal-df8229d5faf9d95d.elb.us-west-2.amazonaws.com.
+core-prod-oauth-internal-df8229d5faf9d95d.elb.us-west-2.amazonaws.com. 60 IN A 10.50.194.185
+core-prod-oauth-internal-df8229d5faf9d95d.elb.us-west-2.amazonaws.com. 60 IN A 10.50.66.16
+
+;; AUTHORITY SECTION:
+elb.us-west-2.amazonaws.com. 43077 IN	NS	ns-1283.awsdns-32.org.
+elb.us-west-2.amazonaws.com. 43077 IN	NS	ns-1870.awsdns-41.co.uk.
+elb.us-west-2.amazonaws.com. 43077 IN	NS	ns-424.awsdns-53.com.
+elb.us-west-2.amazonaws.com. 43077 IN	NS	ns-748.awsdns-29.net.
+
+;; Query time: 75 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 300
+
+; <<>> DiG 9.20.9-1-Debian <<>> auth.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28078
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;auth.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+auth.wyze.com.		60	IN	A	54.148.55.125
+auth.wyze.com.		60	IN	A	52.89.109.216
+
+;; AUTHORITY SECTION:
+auth.wyze.com.		172798	IN	NS	ns-1089.awsdns-08.org.
+auth.wyze.com.		172798	IN	NS	ns-111.awsdns-13.com.
+auth.wyze.com.		172798	IN	NS	ns-1772.awsdns-29.co.uk.
+auth.wyze.com.		172798	IN	NS	ns-619.awsdns-13.net.
+
+;; Query time: 51 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 211
+
+; <<>> DiG 9.20.9-1-Debian <<>> o2745.abmail.hello.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17711
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;o2745.abmail.hello.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+o2745.abmail.hello.wyze.com. 300 IN	A	149.72.152.90
+
+;; Query time: 35 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 72
+
+; <<>> DiG 9.20.9-1-Debian <<>> o2.ptr5944.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10273
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;o2.ptr5944.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+o2.ptr5944.wyze.com.	300	IN	A	159.183.9.92
+
+;; Query time: 43 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 64
+
+; <<>> DiG 9.20.9-1-Debian <<>> ablink.shop.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5477
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;ablink.shop.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+ablink.shop.wyze.com.	300	IN	A	104.18.17.124
+ablink.shop.wyze.com.	300	IN	A	104.18.16.124
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 81
+
+; <<>> DiG 9.20.9-1-Debian <<>> hms-beta.api.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53425
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;hms-beta.api.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+hms-beta.api.wyze.com.	60	IN	A	18.161.246.22
+hms-beta.api.wyze.com.	60	IN	A	18.161.246.110
+hms-beta.api.wyze.com.	60	IN	A	18.161.246.23
+hms-beta.api.wyze.com.	60	IN	A	18.161.246.9
+
+;; AUTHORITY SECTION:
+api.wyze.com.		172795	IN	NS	ns-1021.awsdns-63.net.
+api.wyze.com.		172795	IN	NS	ns-1246.awsdns-27.org.
+api.wyze.com.		172795	IN	NS	ns-1714.awsdns-22.co.uk.
+api.wyze.com.		172795	IN	NS	ns-2.awsdns-00.com.
+
+;; Query time: 43 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 250
+
+; <<>> DiG 9.20.9-1-Debian <<>> services.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14442
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;services.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+services.wyze.com.	60	IN	A	54.70.213.176
+services.wyze.com.	60	IN	A	50.112.179.111
+services.wyze.com.	60	IN	A	44.240.67.43
+
+;; AUTHORITY SECTION:
+services.wyze.com.	172795	IN	NS	ns-1185.awsdns-20.org.
+services.wyze.com.	172795	IN	NS	ns-2034.awsdns-62.co.uk.
+services.wyze.com.	172795	IN	NS	ns-279.awsdns-34.com.
+services.wyze.com.	172795	IN	NS	ns-615.awsdns-12.net.
+
+;; Query time: 75 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 231
+
+; <<>> DiG 9.20.9-1-Debian <<>> i.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40269
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;i.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+i.wyze.com.		60	IN	A	34.120.251.165
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 55
+
+; <<>> DiG 9.20.9-1-Debian <<>> auth-prod.api.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 911
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;auth-prod.api.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+auth-prod.api.wyze.com.	60	IN	A	18.161.246.37
+auth-prod.api.wyze.com.	60	IN	A	18.161.246.33
+auth-prod.api.wyze.com.	60	IN	A	18.161.246.69
+auth-prod.api.wyze.com.	60	IN	A	18.161.246.11
+
+;; AUTHORITY SECTION:
+api.wyze.com.		172795	IN	NS	ns-1021.awsdns-63.net.
+api.wyze.com.		172795	IN	NS	ns-1246.awsdns-27.org.
+api.wyze.com.		172795	IN	NS	ns-1714.awsdns-22.co.uk.
+api.wyze.com.		172795	IN	NS	ns-2.awsdns-00.com.
+
+;; Query time: 67 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:42 IST 2025
+;; MSG SIZE  rcvd: 251
+
+; <<>> DiG 9.20.9-1-Debian <<>> go.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25099
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;go.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+go.wyze.com.		300	IN	A	67.199.248.12
+go.wyze.com.		300	IN	A	67.199.248.13
+
+;; Query time: 35 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 72
+
+; <<>> DiG 9.20.9-1-Debian <<>> claims.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8911
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;claims.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+claims.wyze.com.	300	IN	A	34.117.95.104
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 60
+
+; <<>> DiG 9.20.9-1-Debian <<>> i2.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55016
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;i2.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+i2.wyze.com.		60	IN	A	34.120.251.165
+
+;; Query time: 23 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 56
+
+; <<>> DiG 9.20.9-1-Debian <<>> try.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 541
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;try.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+try.wyze.com.		300	IN	A	104.18.17.124
+try.wyze.com.		300	IN	A	104.18.16.124
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 73
+
+; <<>> DiG 9.20.9-1-Debian <<>> beta-webrtc.api.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47407
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;beta-webrtc.api.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+beta-webrtc.api.wyze.com. 60	IN	A	54.185.131.22
+beta-webrtc.api.wyze.com. 60	IN	A	18.236.25.214
+beta-webrtc.api.wyze.com. 60	IN	A	54.203.77.45
+
+;; AUTHORITY SECTION:
+api.wyze.com.		172794	IN	NS	ns-1021.awsdns-63.net.
+api.wyze.com.		172794	IN	NS	ns-1246.awsdns-27.org.
+api.wyze.com.		172794	IN	NS	ns-1714.awsdns-22.co.uk.
+api.wyze.com.		172794	IN	NS	ns-2.awsdns-00.com.
+
+;; Query time: 187 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 237
+
+; <<>> DiG 9.20.9-1-Debian <<>> o2746.abmail.shop.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11665
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;o2746.abmail.shop.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+o2746.abmail.shop.wyze.com. 300	IN	A	149.72.24.234
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 71
+
+; <<>> DiG 9.20.9-1-Debian <<>> webrtc.api.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11905
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;webrtc.api.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+webrtc.api.wyze.com.	60	IN	A	54.213.22.54
+webrtc.api.wyze.com.	60	IN	A	44.237.60.213
+webrtc.api.wyze.com.	60	IN	A	35.165.185.228
+
+;; AUTHORITY SECTION:
+api.wyze.com.		172794	IN	NS	ns-1021.awsdns-63.net.
+api.wyze.com.		172794	IN	NS	ns-1246.awsdns-27.org.
+api.wyze.com.		172794	IN	NS	ns-1714.awsdns-22.co.uk.
+api.wyze.com.		172794	IN	NS	ns-2.awsdns-00.com.
+
+;; Query time: 43 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 232
+
+; <<>> DiG 9.20.9-1-Debian <<>> bundle-management-tool.api.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6781
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;bundle-management-tool.api.wyze.com. IN	A
+
+;; ANSWER SECTION:
+bundle-management-tool.api.wyze.com. 60	IN CNAME core-prod-bd-mngmt-tool-lb-212269661.us-west-2.elb.amazonaws.com.
+core-prod-bd-mngmt-tool-lb-212269661.us-west-2.elb.amazonaws.com. 60 IN	A 44.237.76.50
+core-prod-bd-mngmt-tool-lb-212269661.us-west-2.elb.amazonaws.com. 60 IN	A 44.236.158.157
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 95 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 308
+
+; <<>> DiG 9.20.9-1-Debian <<>> beta.gateway.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56378
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;beta.gateway.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+beta.gateway.wyze.com.	60	IN	A	52.33.195.159
+beta.gateway.wyze.com.	60	IN	A	52.35.74.24
+
+;; AUTHORITY SECTION:
+gateway.wyze.com.	172800	IN	NS	ns-1331.awsdns-38.org.
+gateway.wyze.com.	172800	IN	NS	ns-150.awsdns-18.com.
+gateway.wyze.com.	172800	IN	NS	ns-1834.awsdns-37.co.uk.
+gateway.wyze.com.	172800	IN	NS	ns-906.awsdns-49.net.
+
+;; Query time: 59 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 219
+
+; <<>> DiG 9.20.9-1-Debian <<>> wyzecam.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56250
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;wyzecam.com.			IN	A
+
+;; ANSWER SECTION:
+wyzecam.com.		300	IN	A	104.18.17.228
+wyzecam.com.		300	IN	A	104.18.16.228
+
+;; Query time: 171 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 72
+
+; <<>> DiG 9.20.9-1-Debian <<>> beta-oauth.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 324
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;beta-oauth.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+beta-oauth.wyze.com.	300	IN	A	104.18.17.124
+beta-oauth.wyze.com.	300	IN	A	104.18.16.124
+
+;; Query time: 27 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:43 IST 2025
+;; MSG SIZE  rcvd: 80
+
+; <<>> DiG 9.20.9-1-Debian <<>> jenkins-prod.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32144
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;jenkins-prod.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+jenkins-prod.wyze.com.	300	IN	CNAME	jenkins-prod-lb-229499832.us-west-2.elb.amazonaws.com.
+jenkins-prod-lb-229499832.us-west-2.elb.amazonaws.com. 60 IN A 100.20.31.218
+jenkins-prod-lb-229499832.us-west-2.elb.amazonaws.com. 60 IN A 35.163.115.19
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 63 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:44 IST 2025
+;; MSG SIZE  rcvd: 283
+
+; <<>> DiG 9.20.9-1-Debian <<>> jenkins-dr.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58648
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;jenkins-dr.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+jenkins-dr.wyze.com.	300	IN	CNAME	jenkins-dr-lb-102709261.us-west-2.elb.amazonaws.com.
+jenkins-dr-lb-102709261.us-west-2.elb.amazonaws.com. 60	IN A 44.227.140.13
+jenkins-dr-lb-102709261.us-west-2.elb.amazonaws.com. 60	IN A 52.33.219.18
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1343 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 47 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:44 IST 2025
+;; MSG SIZE  rcvd: 279
+
+; <<>> DiG 9.20.9-1-Debian <<>> jenkins-dev.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59332
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;jenkins-dev.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+jenkins-dev.wyze.com.	300	IN	CNAME	jenkins-dev-lb-545690185.us-west-1.elb.amazonaws.com.
+jenkins-dev-lb-545690185.us-west-1.elb.amazonaws.com. 60 IN A 54.193.56.166
+jenkins-dev-lb-545690185.us-west-1.elb.amazonaws.com. 60 IN A 54.215.202.31
+
+;; AUTHORITY SECTION:
+us-west-1.elb.amazonaws.com. 56	IN	NS	ns-1036.awsdns-01.org.
+us-west-1.elb.amazonaws.com. 56	IN	NS	ns-1850.awsdns-39.co.uk.
+us-west-1.elb.amazonaws.com. 56	IN	NS	ns-467.awsdns-58.com.
+us-west-1.elb.amazonaws.com. 56	IN	NS	ns-699.awsdns-23.net.
+
+;; Query time: 199 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:44 IST 2025
+;; MSG SIZE  rcvd: 281
+
+; <<>> DiG 9.20.9-1-Debian <<>> jenkins-dev-test.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 6501
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;jenkins-dev-test.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+jenkins-dev-test.wyze.com. 300	IN	CNAME	jenkins-dev-test-lb-1276231246.us-west-1.elb.amazonaws.com.
+
+;; AUTHORITY SECTION:
+us-west-1.elb.amazonaws.com. 60	IN	SOA	ns-699.awsdns-23.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 60
+
+;; Query time: 55 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:44 IST 2025
+;; MSG SIZE  rcvd: 204
+
+; <<>> DiG 9.20.9-1-Debian <<>> billing.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52189
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;billing.wyze.com.		IN	A
+
+;; ANSWER SECTION:
+billing.wyze.com.	300	IN	CNAME	hosted-checkout.stripecdn.com.
+hosted-checkout.stripecdn.com. 60 IN	CNAME	hosted-checkout.stripecdn.com.cdn.cloudflare.net.
+hosted-checkout.stripecdn.com.cdn.cloudflare.net. 300 IN A 172.64.152.100
+hosted-checkout.stripecdn.com.cdn.cloudflare.net. 300 IN A 104.18.35.156
+
+;; Query time: 79 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:44 IST 2025
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.20.9-1-Debian <<>> hjzvq.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62827
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;hjzvq.wyze.com.			IN	A
+
+;; ANSWER SECTION:
+hjzvq.wyze.com.		60	IN	CNAME	fallback.wyzedata.io.
+fallback.wyzedata.io.	300	IN	A	172.67.133.111
+fallback.wyzedata.io.	300	IN	A	104.21.13.237
+
+;; Query time: 43 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:44 IST 2025
+;; MSG SIZE  rcvd: 109
+
+; <<>> DiG 9.20.9-1-Debian <<>> wyze-bhs-service.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 41655
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;wyze-bhs-service.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+wyze-bhs-service.wyze.com. 300	IN	CNAME	alb-bhs-service-prod-992456381.us-west-2.elb.amazonaws.com.
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 60	IN	SOA	ns-332.awsdns-41.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 60
+
+;; Query time: 31 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:44 IST 2025
+;; MSG SIZE  rcvd: 201
+
+; <<>> DiG 9.20.9-1-Debian <<>> url3692.support.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63375
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;url3692.support.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+url3692.support.wyze.com. 300	IN	A	104.18.16.124
+url3692.support.wyze.com. 300	IN	A	104.18.17.124
+
+;; Query time: 31 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:44 IST 2025
+;; MSG SIZE  rcvd: 85
+
+; <<>> DiG 9.20.9-1-Debian <<>> core-api.brain.wyze.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53020
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 4, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;core-api.brain.wyze.com.	IN	A
+
+;; ANSWER SECTION:
+core-api.brain.wyze.com. 300	IN	CNAME	app-gateway-lb-prod-551282432.us-west-2.elb.amazonaws.com.
+app-gateway-lb-prod-551282432.us-west-2.elb.amazonaws.com. 60 IN A 34.208.96.11
+app-gateway-lb-prod-551282432.us-west-2.elb.amazonaws.com. 60 IN A 44.238.219.174
+
+;; AUTHORITY SECTION:
+us-west-2.elb.amazonaws.com. 1342 IN	NS	ns-1475.awsdns-56.org.
+us-west-2.elb.amazonaws.com. 1342 IN	NS	ns-1769.awsdns-29.co.uk.
+us-west-2.elb.amazonaws.com. 1342 IN	NS	ns-332.awsdns-41.com.
+us-west-2.elb.amazonaws.com. 1342 IN	NS	ns-560.awsdns-06.net.
+
+;; Query time: 55 msec
+;; SERVER: 2401:4900:6322:865a::7a#53(2401:4900:6322:865a::7a) (UDP)
+;; WHEN: Thu Aug 14 14:21:44 IST 2025
+;; MSG SIZE  rcvd: 289
