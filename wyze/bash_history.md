@@ -90,9 +90,10 @@ rustscan -a alive_domain.txt --range 1-65535 --ulimit 3500
 Place the output in a file
 
 ```
-cat scan.txt| awk '{split($2,a,":"); ip=a[1]; port=a[2]; ports[ip] = ports[ip] ? ports[ip] "," port : port} \n     END {for (i in ports) print i " | " ports[i]}' list.txt
-This will help better visualize the ports with ip
+awk '{split($2,a,":"); ip=a[1]; port=a[2]; ports[ip] = ports[ip] ? ports[ip] "," port : port} \n     END {for (i in ports) print i " | " ports[i]}' scan.txt > better_scan.txt
 ```
+
+This will help better visualize the ports with ip.
 
 ## Web exploits
 
