@@ -144,3 +144,15 @@ core-api.brain.wyze.com | app-gateway-lb-prod-551282432.us-west-2.elb.amazonaws.
 104.18.16.228 | 80,443,2052,2053,2082,2083,2086,2087,2095,2096,8080,8443,8880
 104.18.17.124 | 80,443,2052,2053,2082,2083,2086,2087,2096,2095,8080,8443,8880
 ```
+
+---
+
+### Nuclei Vulnerability Discovery  
+
+1. **Leaked Credentials**
+
+```sh
+$ echo wyze.com | katana -d 3 | grep -E "\.js$" | nuclei -t /home/kali/.local/nuclei-templates/http/exposures/ -c 30   
+
+[credentials-disclosure] [http] [unknown] https://www.wyze.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js ["apiKey=t","apiKey:n","Api-Key":n","apiKey:e","Api-Key":e","apiKey:"e6b446c1ebe782e2b2fc7eb8ef0dc791"","accessToken:this"]
+```  
