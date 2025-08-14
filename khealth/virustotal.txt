@@ -1,0 +1,10 @@
+platforms.khealth.com	
+gdpr.khealth.com	
+1p-scim.khealth.com	
+hero-force.khealth.com	
+care-manager.khealth.com	
+ro-temp.khealth.com	
+ml-models.khealth.com	
+retool.khealth.com	
+apps-retool.khealth.com	
+chimera.khealth.com	

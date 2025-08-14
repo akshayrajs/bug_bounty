@@ -1,0 +1,17 @@
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+554/tcp  open  rtsp       syn-ack ttl 64
+1723/tcp open  pptp       syn-ack ttl 64
+2052/tcp open  clearvisn  syn-ack ttl 64
+2053/tcp open  knetd      syn-ack ttl 64
+2082/tcp open  infowave   syn-ack ttl 64
+2083/tcp open  radsec     syn-ack ttl 64
+2086/tcp open  gnunet     syn-ack ttl 64
+2087/tcp open  eli        syn-ack ttl 64
+2095/tcp open  nbx-ser    syn-ack ttl 64
+2096/tcp open  nbx-dir    syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+8443/tcp open  https-alt  syn-ack ttl 64
+8880/tcp open  cddbp-alt  syn-ack ttl 64
+

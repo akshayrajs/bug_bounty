@@ -1,0 +1,16 @@
+mpa.ekyc.backoffice.m-pesa.com
+mpa.ekyc.selfregister.m-pesa.com
+openapiportal.m-pesa.com
+openapi.m-pesa.com
+mpa.qr.web.m-pesa.com
+m-pesa.com
+business.m-pesa.com
+org.ke.m-pesa.com
+ke.m-pesa.com
+uat.openapi.m-pesa.com
+api.m-pesa.com
+mz.m-pesa.com
+ra.ls.m-pesa.com
+www.m-pesa.com
+uat.openapiportal.m-pesa.com
+smartphone.ls.fintech-prod.m-pesa.com

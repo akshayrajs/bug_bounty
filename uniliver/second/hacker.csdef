@@ -1,0 +1,21 @@
+
+<ServiceDefinition name="MyCloudService"
+                   xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition"
+                   schemaVersion="2015-04.2.6">
+  <WebRole name="MyWebRole" vmsize="Standard_D2">
+    <Sites>
+      <Site name="Web">
+        <Bindings>
+          <Binding name="HttpEndpoint" endpointName="HttpIn" />
+        </Bindings>
+      </Site>
+    </Sites>
+    <Endpoints>
+      <InputEndpoint name="HttpIn" protocol="http" port="80" />
+    </Endpoints>
+    <ConfigurationSettings>
+      <Setting name="Setting1" />
+    </ConfigurationSettings>
+  </WebRole>
+</ServiceDefinition>
+

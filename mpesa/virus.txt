@@ -1,0 +1,10 @@
+artifactory.m-pesa.com	
+tz-tsap01.m-pesa.com	
+tz-ap203.m-pesa.com	
+ke-app201.m-pesa.com	
+cos-ke.m-pesa.com	
+ke-web201.m-pesa.com	
+tz-hm.m-pesa.com	
+tz-ap202.m-pesa.com	
+mpesabytes-partners.m-pesa.com	
+ke-db201.m-pesa.com	

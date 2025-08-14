@@ -1,0 +1,106 @@
+
+Target ==> wyze.com
+
+Searching in the CertSpotter API... 🔍
+Searching in the Crtsh database API... 🔍
+Searching in the Sublist3r API... 🔍
+Searching in the Threatcrowd API... 🔍
+Searching in the AnubisDB API... 🔍
+Searching in the Urlscan.io API... 🔍
+Searching in the Archive.org API... 🔍
+Searching in the Threatminer API... 🔍
+❌ A error has occurred while querying the Crtsh database. Error: db error: ERROR: Sorry, the "certificate_identity" table has been superseded by a Full Text Search index on the "certificate" table.. Trying the API method...
+Searching in the Crtsh API... 🔍
+
+
+bundle-management-tool.api.wyze.com
+jenkins-dr.wyze.com
+view.wyze.com
+mw.beta-services.wyze.com
+mcstaging.wyze.com
+go.wyze.com
+b.wyze.com
+wyze-brain-command-test.wyze.com
+supplychain.wyze.com
+beta-bhs-service.wyze.com
+gamma.gamma-services.wyze.com
+choice.wyze.com
+i.wyze.com
+efun.wyze.com
+app-shop-prod.wyze.com
+pipeline.wyze.com
+hello.wyze.com
+rancher-wyzelabs.view.wyze.com
+mw.beta.beta-services.wyze.com
+ca.wyze.com
+www.business.wyze.com
+app-shop-test.wyze.com
+preview.wyze.com
+beta.beta-services.wyze.com
+hms.wyze.com
+blog.wyze.com
+auth.wyze.com
+app-service-resource.wyze.com
+try.wyze.com
+aiikb.wyze.com
+kibana1.view.wyze.com
+notebook.wyze.com
+developer-api-console.wyze.com
+jenkins-dev.wyze.com
+blogs.wyze.com
+test-frontend-services.wyze.com
+www.wyze.com
+business.wyze.com
+i2.wyze.com
+wyze-assets-new.wyze.com
+gamma-services.wyze.com
+appshop.mcstaging.wyze.com
+beta.gateway.wyze.com
+support.wyze.com
+insiders.wyze.com
+wyze.com
+woo.wyze.com
+ablink.shop.wyze.com
+parcel-cdn.orders.wyze.com
+ablink.hello.wyze.com
+forums.wyze.com
+rancher.view.wyze.com
+services.wyze.com
+parcel-api.orders.wyze.com
+realtimedashboard.wyze.com
+jenkins-dev-test.wyze.com
+beta.view.wyze.com
+bi.wyze.com
+shop.wyze.com
+wyzelabs.view.wyze.com
+beta-services.wyze.com
+get.wyze.com
+appshop.wyze.com
+dev.wyze.com
+wyze-bhs-service.wyze.com
+app-shop-beta.wyze.com
+darkstar.wyze.com
+billing.wyze.com
+brain.wyze.com
+mcprod.wyze.com
+account.wyze.com
+hjzvq.wyze.com
+prod.services.wyze.com
+chatwithme.wyze.com
+claims.wyze.com
+jenkins-prod.wyze.com
+why.wyze.com
+my.wyze.com
+global.wyze.com
+app-resource.wyze.com
+api.wyze.com
+rancher.es.efun.wyze.com
+ablink.noreply.wyze.com
+beta.my.wyze.com
+oidc-gateway.wyze.com
+cloud.wyze.com
+
+Job finished in 52 seconds.
+
+Good luck Hax0r 💀!
+

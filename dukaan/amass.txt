@@ -1,0 +1,16 @@
+[92mdukaan.io[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns2.afternic.com[0m[94m (FQDN)[0m
+[92mdukaan.io[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns1.afternic.com[0m[94m (FQDN)[0m
+[92mns2.afternic.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m173.201.66.69[0m[94m (IPAddress)[0m
+[92mns2.afternic.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2603:5:2226::45[0m[94m (IPAddress)[0m
+[92mns1.afternic.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m97.74.98.69[0m[94m (IPAddress)[0m
+[92mns1.afternic.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2603:5:2126::45[0m[94m (IPAddress)[0m
+[92m97.74.96.0/20[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m97.74.98.69[0m[94m (IPAddress)[0m
+[92m2603:5:2100::/40[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m2603:5:2126::45[0m[94m (IPAddress)[0m
+[92m173.201.64.0/20[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m173.201.66.69[0m[94m (IPAddress)[0m
+[92m44273[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mDYNAMICNET[0m[94m (RIROrganization)[0m
+[92m44273[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m97.74.96.0/20[0m[94m (Netblock)[0m
+[92m44273[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m2603:5:2100::/40[0m[94m (Netblock)[0m
+[92m44273[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m173.201.64.0/20[0m[94m (Netblock)[0m
+[92m2603:5:2220::/44[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m2603:5:2226::45[0m[94m (IPAddress)[0m
+[92m44273[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mGODADDY-DNS, DE[0m[94m (RIROrganization)[0m
+[92m44273[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m2603:5:2220::/44[0m[94m (Netblock)[0m
