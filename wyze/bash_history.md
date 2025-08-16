@@ -95,11 +95,25 @@ awk '{split($2,a,":"); ip=a[1]; port=a[2]; ports[ip] = ports[ip] ? ports[ip] ","
 
 This will help better visualize the ports with ip.
 
-## Web exploits
+# Web exploits
+
+### Subdomain Takeover  
+
+```
+subzy run --targets domains.txt --concurrency 100 --hide_fails --verify_ssl
+```
+
+### Basic Exploit
 
 ```
 echo alive_domain.txt | katana -d 3 | nuclei -t xss,ssrf,ssti,rce,sqli -c 30
-subzy run --targets domains.txt --concurrency 100 --hide_fails --verify_ssl
+```
+
+### Open Redirect
+
+```
+cat allurl.txt | gf redirect > redirecturl.txt
+cat redirecturl.txt | qsreplace "https://evil.com" | httpx-toolkit -silent -fr -mr "evil.com"
 ```
 
 # futhur to be added web discovery not completed on my end sedly
