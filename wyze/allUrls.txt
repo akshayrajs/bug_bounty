@@ -1,7 +1,0 @@
-https://why.wyze.com/
-https://why.wyze.com/robots.txt
-https://why.wyze.com/simplified-approach-to-cable-free-outdoor-camera-setups-with-wyze-solar-panel-wyze-battery-cam-solar-panel
-https://services.wyze.com/detail/cmc
-https://services.wyze.com/robots.txt
-https://prod.services.wyze.com/purchase/hms/plan
-https://prod.services.wyze.com/robots.txt

@@ -1,0 +1,1127 @@
+http://announcements.kraken.tech/
+http://aquarium.kraken.tech/
+http://argo-monitor.kraken.tech/
+http://click.leep.kraken.tech/
+http://click.pwl.kraken.tech/
+http://e.kraken.tech/
+http://evdb.services.kraken.tech/
+http://info.kraken.tech/
+http://kraken.tech/
+http://kraken.tech/assets/docs/case-study-intelligent-
+http://kraken.tech/Kraken
+http://kraken.tech/mercury
+http://kraken.tech/mercury?trk=organization_guest_main-feed-card-text
+http://kraken.tech/press-releases/kraken-opens-first-uk-entech-superhub
+http://kraken.tech/robots.txt
+http://login.argocd.kraken.tech/
+http://meetings.kraken.tech/
+http://prometheus.leep.kraken.tech/
+http://registry.services.kraken.tech/
+https://announcements.kraken.tech/announcements/public/
+https://announcements.kraken.tech/announcements/public/130/
+https://announcements.kraken.tech/announcements/public/131/
+https://announcements.kraken.tech/announcements/public/132/
+https://announcements.kraken.tech/announcements/public/133/
+https://announcements.kraken.tech/announcements/public/166/
+https://announcements.kraken.tech/announcements/public/199/
+https://announcements.kraken.tech/announcements/public/40/
+https://announcements.kraken.tech/announcements/public/51/
+https://announcements.kraken.tech/announcements/public/52/
+https://announcements.kraken.tech/announcements/public/53/
+https://announcements.kraken.tech/announcements/public/56/
+https://announcements.kraken.tech/announcements/public/57/
+https://announcements.kraken.tech/announcements/public/62/
+https://announcements.kraken.tech/announcements/public/63/
+https://announcements.kraken.tech/announcements/public/7/
+https://announcements.kraken.tech/announcements/public/79/
+https://announcements.kraken.tech/announcements/public/81/
+https://announcements.kraken.tech/announcements/public/82/
+https://announcements.kraken.tech/announcements/public/92/
+https://announcements.kraken.tech/announcements/public/94/
+https://announcements.kraken.tech/announcements/public/97/
+https://announcements.kraken.tech/announcements/subscribe/
+https://announcements.kraken.tech/login/
+https://announcements.kraken.tech/login/?next=/announcements/
+https://announcements.kraken.tech/rss/public/
+https://approveman.kraken.tech/
+https://assets.kraken.tech/1032x522/3e0d8f7b87/go-banner.svg
+https://assets.kraken.tech/103x27/0278380f2f/gh-logo-white.svg
+https://assets.kraken.tech/110x135/db57366141/origin.svg
+https://assets.kraken.tech/110x135/db57366141/origin.svg 1x, https://assets.kraken.tech/110x135/db57366141/origin.svg 2x
+https://assets.kraken.tech/112x150/4d82ec4a88/migrate-icon.svg
+https://assets.kraken.tech/118x55/97ff87a165/tokyo-gas.svg
+https://assets.kraken.tech/119x150/3fc266bcc9/offshore-specialist.svg
+https://assets.kraken.tech/128x150/289abed9cb/lightbulb.svg
+https://assets.kraken.tech/128x48/9d4df71081/st-john-logo.svg
+https://assets.kraken.tech/135x37/45bdae94fa/accenture.svg
+https://assets.kraken.tech/136x150/14c4f02ecd/cogs.svg
+https://assets.kraken.tech/137x43/f01c292a3a/frost_and_sullivan-stacked.svg
+https://assets.kraken.tech/143x150/622dede255/ngo.svg
+https://assets.kraken.tech/143x150/7d9e983b4f/billing.svg
+https://assets.kraken.tech/144x150/1407a085b1/turbine-scada.svg
+https://assets.kraken.tech/144x54/85ac2c5595/reuters.svg
+https://assets.kraken.tech/145x150/01dc3d7502/icon-customer-relationship-management.svg
+https://assets.kraken.tech/145x150/1e295f8f35/offshore-wind-website-page-illustrations_work-management.svg
+https://assets.kraken.tech/145x150/2aabc9c0a4/icon-meter-data-management.svg
+https://assets.kraken.tech/145x150/320a8e6691/offshore-wind-website-page-illustrations_operations.svg
+https://assets.kraken.tech/145x150/4059f8bfcf/offshore-wind-website-page-illustrations_permit-control.svg
+https://assets.kraken.tech/145x150/460c896d5b/icon-ai-enabled.svg
+https://assets.kraken.tech/145x150/4e45a608be/icon-billing.svg
+https://assets.kraken.tech/145x150/557fbc61f1/icon-product-management.svg
+https://assets.kraken.tech/145x150/56e44b2ec3/offshore-wind-website-page-illustrations_learning-management.svg
+https://assets.kraken.tech/145x150/69b3eee0b3/offshore-wind-website-page-illustrations_-health-safety-and-environment-hse.svg
+https://assets.kraken.tech/145x150/6ea03c4a88/icon-customer-information-system.svg
+https://assets.kraken.tech/145x150/a5be7abc8e/offshore-wind-website-page-illustrations_construction.svg
+https://assets.kraken.tech/145x150/db91dae4fc/offshore-wind-website-page-illustrations_marine-coordination.svg
+https://assets.kraken.tech/145x150/e10af583ca/build-customer-loyalty.svg
+https://assets.kraken.tech/145x150/f0f29c8a78/offshore-wind-website-page-illustrations_metocean.svg
+https://assets.kraken.tech/147x47/3f104b4643/fortune-logo.svg
+https://assets.kraken.tech/148x150/d489ec9959/leep-logo-white.svg
+https://assets.kraken.tech/149x150/230f71a5e0/calendar-icon.svg
+https://assets.kraken.tech/149x150/8a512be792/bmw-white.svg
+https://assets.kraken.tech/152x150/724263bf71/optimization.svg
+https://assets.kraken.tech/152x150/9b557a4083/platform-that-can-scale.svg
+https://assets.kraken.tech/152x151/1de6cb365e/utility-week.svg
+https://assets.kraken.tech/152x151/1de6cb365e/utility-week.svg 1x, https://assets.kraken.tech/152x151/1de6cb365e/utility-week.svg 2x
+https://assets.kraken.tech/155x150/b0567ff88f/field-icon.svg
+https://assets.kraken.tech/157x47/58f7d75e33/eon.svg
+https://assets.kraken.tech/157x47/58f7d75e33/eon.svg 1x, https://assets.kraken.tech/157x47/58f7d75e33/eon.svg 2x
+https://assets.kraken.tech/166x235/a9c42d852c/offshore-wind-on-the-ocean-on-a-rainy-day.svg
+https://assets.kraken.tech/167x150/8723e5fe76/purple-star.svg
+https://assets.kraken.tech/169x150/c5f7196ab4/ev-icon.svg
+https://assets.kraken.tech/169x169/eaf044a8ae/bd.svg
+https://assets.kraken.tech/169x169/eaf044a8ae/bd.svg 1x, https://assets.kraken.tech/169x169/eaf044a8ae/bd.svg 2x
+https://assets.kraken.tech/170x55/59342e168a/plentitude-logo.svg
+https://assets.kraken.tech/172x150/9a63989e97/news-icon.svg
+https://assets.kraken.tech/202x111/6641b79749/octopus-energy.svg
+https://assets.kraken.tech/202x111/6641b79749/octopus-energy.svg 1x, https://assets.kraken.tech/202x111/6641b79749/octopus-energy.svg 2x
+https://assets.kraken.tech/230x12/3eac1272d4/f-s-logo.svg
+https://assets.kraken.tech/230x150/58474796d1/optimization-optimize-everything.svg
+https://assets.kraken.tech/232x150/a8cb43775b/water-home-scene-01.svg
+https://assets.kraken.tech/240x83/1e86cbe492/cnbc.svg
+https://assets.kraken.tech/244x150/26ef8b3868/offer-excellent-service.svg
+https://assets.kraken.tech/244x150/5951ae99e5/devices.svg
+https://assets.kraken.tech/244x150/8885c5feea/innovation-made-easy.svg
+https://assets.kraken.tech/244x150/97fe170e19/easily-service-customers-on-new-products-and-tariffs.svg
+https://assets.kraken.tech/244x150/9e81af8a4b/billing.svg
+https://assets.kraken.tech/244x150/c1d92ca186/enabling-new-way-of-working.svg
+https://assets.kraken.tech/244x150/df2420f065/ai-enabled.svg
+https://assets.kraken.tech/244x150/f742b453a7/customer-communications-history.svg
+https://assets.kraken.tech/245x150/c4010297dc/customer-service-chat-02.svg
+https://assets.kraken.tech/246x150/bc0975080d/proven-at-scale.svg
+https://assets.kraken.tech/246x56/197947bd7d/cleanie.svg
+https://assets.kraken.tech/249x150/db3e3015ff/customer-service-chat.svg
+https://assets.kraken.tech/251x150/a59ebbe97a/amazon_web_services_logo.svg
+https://assets.kraken.tech/253x150/b0f0669481/customer-serviuce-agent.svg
+https://assets.kraken.tech/259x94/37765e52d1/tokyo-gas.svg
+https://assets.kraken.tech/259x94/37765e52d1/tokyo-gas.svg 1x, https://assets.kraken.tech/259x94/37765e52d1/tokyo-gas.svg 2x
+https://assets.kraken.tech/268x150/5912178983/centralized-and-unified-customer-data.svg
+https://assets.kraken.tech/273x37/dbb1b0c6cc/octopus-energy-logo-text.svg
+https://assets.kraken.tech/278x54/8c13ac88b4/cast.svg
+https://assets.kraken.tech/283x150/5edfa057dd/anwb-white-logo.svg
+https://assets.kraken.tech/300x132/9bbfa440e0/mini-logo-white.svg
+https://assets.kraken.tech/300x137/f9a2317b46/ukbia.svg
+https://assets.kraken.tech/300x137/f9a2317b46/ukbia.svg 1x, https://assets.kraken.tech/300x137/f9a2317b46/ukbia.svg 2x
+https://assets.kraken.tech/300x147/175b971947/safety-as-standard.svg
+https://assets.kraken.tech/300x46/bb98a65204/tesla-white.svg
+https://assets.kraken.tech/300x54/d9d654ca07/maingau-energy-white.svg
+https://assets.kraken.tech/300x62/2177d95f9f/national-grid-logo-white.svg
+https://assets.kraken.tech/300x67/eb5054935a/enphase_logo_white.svg
+https://assets.kraken.tech/300x69/295cbfad0f/my-energi-white.svg
+https://assets.kraken.tech/300x69/6be96a20bf/meridian-white-logo.svg
+https://assets.kraken.tech/300x71/78d7ede0b6/solaredge_white.svg
+https://assets.kraken.tech/300x77/cca20c841a/get-in-touch.svg
+https://assets.kraken.tech/300x97/49043b9368/indra-white.svg
+https://assets.kraken.tech/346x84/042cba820c/fast-50.svg
+https://assets.kraken.tech/346x84/042cba820c/fast-50.svg 1x, https://assets.kraken.tech/346x84/042cba820c/fast-50.svg 2x
+https://assets.kraken.tech/354x266/97c12a1f00/optimising-assets.svg
+https://assets.kraken.tech/359x173/10127ccf50/ukbt.svg
+https://assets.kraken.tech/359x173/10127ccf50/ukbt.svg 1x, https://assets.kraken.tech/359x173/10127ccf50/ukbt.svg 2x
+https://assets.kraken.tech/370x251/ededd6feaa/upgrade-the-network.svg
+https://assets.kraken.tech/37x64/2a991f1f89/distribution-utilities.svg
+https://assets.kraken.tech/396x121/5124c179e7/bbe.svg
+https://assets.kraken.tech/396x121/5124c179e7/bbe.svg 1x, https://assets.kraken.tech/396x121/5124c179e7/bbe.svg 2x
+https://assets.kraken.tech/396x269/2bce19881d/provide-seamless-experience.svg
+https://assets.kraken.tech/400x347/4969ae7849/car-charging.svg
+https://assets.kraken.tech/404x371/b4063620d5/transmission-detailed-rgb-1.svg
+https://assets.kraken.tech/405x259/8feb41a8e5/simplify-your-field-tech.svg
+https://assets.kraken.tech/435x245/1889b21ab0/grid-flexability.svg
+https://assets.kraken.tech/476x240/7cab77ba1f/customer-feedback.svg
+https://assets.kraken.tech/568x179/6726537e5b/optimize_your_workforce.svg
+https://assets.kraken.tech/58x65/5aa5923507/offshore-wind.svg
+https://assets.kraken.tech/600x150/320269eb95/orsted-logo.svg
+https://assets.kraken.tech/60x35/25cab1e509/de.svg
+https://assets.kraken.tech/60x35/34235fedf8/ca.svg
+https://assets.kraken.tech/60x35/373a1cb1b3/nz.svg
+https://assets.kraken.tech/60x35/373a1cb1b3/nz.svg 1x, https://assets.kraken.tech/60x35/373a1cb1b3/nz.svg 2x
+https://assets.kraken.tech/60x35/3b4729fc63/au.svg
+https://assets.kraken.tech/60x35/4ade653874/pt.svg
+https://assets.kraken.tech/60x35/5f304f6c72/us.svg
+https://assets.kraken.tech/60x35/5f304f6c72/us.svg 1x, https://assets.kraken.tech/60x35/5f304f6c72/us.svg 2x
+https://assets.kraken.tech/60x35/c1e18facb5/ch.svg
+https://assets.kraken.tech/60x35/c1e18facb5/ch.svg 1x, https://assets.kraken.tech/60x35/c1e18facb5/ch.svg 2x
+https://assets.kraken.tech/60x35/c240ccc7bb/tr.svg
+https://assets.kraken.tech/60x35/c240ccc7bb/tr.svg 1x, https://assets.kraken.tech/60x35/c240ccc7bb/tr.svg 2x
+https://assets.kraken.tech/60x36/2c68f314db/be.svg
+https://assets.kraken.tech/60x36/2c68f314db/be.svg 1x, https://assets.kraken.tech/60x36/2c68f314db/be.svg 2x
+https://assets.kraken.tech/60x36/3809c7e1c7/si.svg
+https://assets.kraken.tech/60x36/3809c7e1c7/si.svg 1x, https://assets.kraken.tech/60x36/3809c7e1c7/si.svg 2x
+https://assets.kraken.tech/60x36/3a3af2305d/es.svg
+https://assets.kraken.tech/60x36/3a3af2305d/es.svg 1x, https://assets.kraken.tech/60x36/3a3af2305d/es.svg 2x
+https://assets.kraken.tech/60x36/8984f0bf96/uk.svg
+https://assets.kraken.tech/60x36/8984f0bf96/uk.svg 1x, https://assets.kraken.tech/60x36/8984f0bf96/uk.svg 2x
+https://assets.kraken.tech/60x36/9400ec4e13/it.svg
+https://assets.kraken.tech/60x36/a1da7d58b8/gr.svg
+https://assets.kraken.tech/60x36/a1da7d58b8/gr.svg 1x, https://assets.kraken.tech/60x36/a1da7d58b8/gr.svg 2x
+https://assets.kraken.tech/60x36/b42f67064e/jp.svg
+https://assets.kraken.tech/60x36/b42f67064e/jp.svg 1x, https://assets.kraken.tech/60x36/b42f67064e/jp.svg 2x
+https://assets.kraken.tech/60x36/fcabec0dfa/fr.svg
+https://assets.kraken.tech/61x54/900f2fc99c/customer-utilities.svg
+https://assets.kraken.tech/62x61/7b966f28d7/asset-management.svg
+https://assets.kraken.tech/643x426/b94c7ddd99/revenue-save-money-through-efficient-operations.svg
+https://assets.kraken.tech/662x114/b59fd4bb31/good-energy.svg
+https://assets.kraken.tech/730x746/c03757399b/kraken-tentacle.svg
+https://assets.kraken.tech/765x437/63a1a19d44/road-to-net-zero.svg
+https://assets.kraken.tech/87x150/d0f1fe2c8e/water.svg
+https://assets.kraken.tech/92x124/6317fd8a97/edf.svg
+https://assets.kraken.tech/92x124/6317fd8a97/edf.svg 1x, https://assets.kraken.tech/92x124/6317fd8a97/edf.svg 2x
+https://assets.kraken.tech/98x31/b1f25d49a0/quotes.svg
+https://assets.kraken.tech/favicon.ico
+https://assets.kraken.tech/robots.txt
+https://deployment-dyff.kraken.tech/
+https://engineering.kraken.tech/
+https://engineering.kraken.tech/ads.txt
+https://engineering.kraken.tech/app-ads.txt
+https://engineering.kraken.tech/assets/img/kraken-logo-light-rgb.svg
+https://engineering.kraken.tech/assets/img/platform-icons/apple-touch-icon.png
+https://engineering.kraken.tech/assets/img/platform-icons/favicon-16x16.png
+https://engineering.kraken.tech/assets/img/platform-icons/favicon-32x32.png
+https://engineering.kraken.tech/assets/img/platform-icons/favicon.ico
+https://engineering.kraken.tech/assets/img/platform-icons/manifest.json
+https://engineering.kraken.tech/assets/img/platform-icons/safari-pinned-tab.svg
+https://engineering.kraken.tech/assets/img/posts/2024-02-19-using-eventbridge-pipes/eventbridge-pipe-architecture.png
+https://engineering.kraken.tech/assets/img/posts/2024-02-19-using-eventbridge-pipes/eventbridge-pipe-dashboard.png
+https://engineering.kraken.tech/assets/img/posts/2024-02-19-using-eventbridge-pipes/eventbridge-pipe-error-handling.png
+https://engineering.kraken.tech/assets/img/posts/2024-02-19-using-eventbridge-pipes/eventbridge-pipe-stages.png
+https://engineering.kraken.tech/assets/img/posts/2024-02-19-using-eventbridge-pipes/serverless-architecture.png
+https://engineering.kraken.tech/assets/img/posts/2024-02-19-using-eventbridge-pipes/system-change-notification-banner.png
+https://engineering.kraken.tech/assets/img/posts/2024-05-13-stream-consumer-performance/dynamodb-iterator-age-average.png
+https://engineering.kraken.tech/assets/img/posts/2024-05-13-stream-consumer-performance/dynamodb-iterator-age-maximum.png
+https://engineering.kraken.tech/assets/img/posts/2024-05-13-stream-consumer-performance/dynamodb-stream-consumers.png
+https://engineering.kraken.tech/assets/img/posts/2024-05-13-stream-consumer-performance/fan-out-consumer.png
+https://engineering.kraken.tech/assets/img/posts/2024-05-13-stream-consumer-performance/fan-out-iterator-age-average.png
+https://engineering.kraken.tech/assets/img/posts/2024-05-13-stream-consumer-performance/fan-out-iterator-age-maximum.png
+https://engineering.kraken.tech/assets/img/posts/2024-05-13-stream-consumer-performance/kinesis-iterator-age-average.png
+https://engineering.kraken.tech/assets/img/posts/2024-05-13-stream-consumer-performance/kinesis-iterator-age-maximum.png
+https://engineering.kraken.tech/assets/img/posts/2024-05-13-stream-consumer-performance/kinesis-stream.png
+https://engineering.kraken.tech/assets/img/posts/2024-09-02-onepassword-connect.png
+https://engineering.kraken.tech/assets/img/posts/2025-01-20-mysql-race-conditions/api-architecture.png
+https://engineering.kraken.tech/assets/img/posts/2025-01-20-mysql-race-conditions/race-condition-example.png
+https://engineering.kraken.tech/assets/img/posts/2025-03-smartflex/dashboard.png
+https://engineering.kraken.tech/assets/img/posts/2025-03-smartflex/energy-ladder.png
+https://engineering.kraken.tech/assets/img/posts/2025-03-smartflex/one-billion-people.png
+https://engineering.kraken.tech/assets//img//posts/2025-03-smartflex/optimisaed-ev-charging.png
+https://engineering.kraken.tech/assets/img/posts/2025-03-smartflex/primary-particulate-matter.png
+https://engineering.kraken.tech/assets/img/posts/2025-03-smartflex/safest-form-energy.png
+https://engineering.kraken.tech/assets/img/posts/2025-03-smartflex/uk-sources-pm-no.png
+https://engineering.kraken.tech/assets/js/app.js
+https://engineering.kraken.tech/assets/vendor/bootstrap/css/bootstrap.min.css
+https://engineering.kraken.tech/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+https://engineering.kraken.tech/assets/vendor/font-awesome/css/font-awesome.min.css
+https://engineering.kraken.tech/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot
+https://engineering.kraken.tech/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+https://engineering.kraken.tech/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+https://engineering.kraken.tech/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+https://engineering.kraken.tech/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+https://engineering.kraken.tech/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+https://engineering.kraken.tech/assets/vendor/jquery/jquery.min.js
+https://engineering.kraken.tech/atom.xml
+https://engineering.kraken.tech/css/main.css
+https://engineering.kraken.tech/favicon.ico
+https://engineering.kraken.tech/?featured_on=talkpython
+https://engineering.kraken.tech/feed/
+https://engineering.kraken.tech/feeds/all.atom.xml
+https://engineering.kraken.tech/feed.xml
+https://engineering.kraken.tech/?__hstc=181257784.3df477de488419e22782e3cc9c7aec1f.1718879048657.1747307735451.1747312898125.207&__hssc=181257784.1.1747312898125&__hsfp=1074324405
+https://engineering.kraken.tech/index.xml
+https://engineering.kraken.tech/news/2015/11/23/tech-jobs.html
+https://engineering.kraken.tech/news/2016/01/21/testing-for-missing-migrations-in-django.html
+https://engineering.kraken.tech/news/2016/03/23/organising-styles-for-a-react-django-hybrid.html
+https://engineering.kraken.tech/news/2016/05/05/django-elb-health-checks.html
+https://engineering.kraken.tech/news/2016/07/22/improving-accessibility-at-octopus-energy.html
+https://engineering.kraken.tech/news/2017/10/13/custom-sentry-client.html
+https://engineering.kraken.tech/news/2018/06/28/django-project-structure.html
+https://engineering.kraken.tech/news/2019/02/28/conventions-repo.html
+https://engineering.kraken.tech/news/2019/03/18/django-related-name-outage.html
+https://engineering.kraken.tech/news/2019/03/21/python-interfaces-a-la-go.html
+https://engineering.kraken.tech/news/2020/11/30/durable-transactions.html
+https://engineering.kraken.tech/news/2021/04/25/integrating-asana-and-github.html
+https://engineering.kraken.tech/news/2022/05/23/flakey-python-tests.html
+https://engineering.kraken.tech/news/2023/06/21/pull-request-conventions.html
+https://engineering.kraken.tech/news/2024/01/05/linting-and-formatting.html
+https://engineering.kraken.tech/news/2024/02/19/using-eventbridge-pipes.html
+https://engineering.kraken.tech/news/2024/05/13/stream-consumer-performance.html
+https://engineering.kraken.tech/news/2024/08/19/mypy-imports.html
+https://engineering.kraken.tech/news/2024/09/02/onepassword-connect.html
+https://engineering.kraken.tech/news/2024/09/23/databricks-table-cost.html
+https://engineering.kraken.tech/news/2025/01/20/mysql-race-conditions.html
+https://engineering.kraken.tech/news/2025/02/07/how-we-ship.html
+https://engineering.kraken.tech/news/2025/03/27/building-the-largest-ev-vpp-in-the-world.html
+https://engineering.kraken.tech/robots.txt
+https://engineering.kraken.tech/sitemap.xml
+https://engineering.kraken.tech/.well-known/ai-plugin.json
+https://engineering.kraken.tech/.well-known/assetlinks.json
+https://engineering.kraken.tech/.well-known/dnt-policy.txt
+https://engineering.kraken.tech/.well-known/gpc.json
+https://engineering.kraken.tech/.well-known/nodeinfo
+https://engineering.kraken.tech/.well-known/openid-configuration
+https://engineering.kraken.tech/.well-known/security.txt
+https://engineering.kraken.tech/.well-known/trust.txt
+https://info.kraken.tech/404
+https://info.kraken.tech/hs-fs/hubfs/Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png?height=1546&name=Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png&width=2125
+https://info.kraken.tech/hs-fs/hubfs/Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png?height=2319&name=Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png&width=3188
+https://info.kraken.tech/hs-fs/hubfs/Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png?height=3092&name=Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png&width=4250
+https://info.kraken.tech/hs-fs/hubfs/Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png?height=3865&name=Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png&width=5313
+https://info.kraken.tech/hs-fs/hubfs/Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png?height=4638&name=Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png&width=6375
+https://info.kraken.tech/hs-fs/hubfs/Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png?height=773&name=Kraken Logos for Digital_KrakenLogo_DarkBackground_DIGITAL ONLY.png&width=1063
+https://info.kraken.tech/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js
+https://info.kraken.tech/hs/hsstatic/HubspotToolsMenu/static-1.354/js/index.js
+https://info.kraken.tech/?hsLang=en
+https://info.kraken.tech/hubfs/Kraken Favicon.png
+https://kraken.tech/
+https://kraken.tech/&
+https://kraken.tech/about
+https://kraken.tech/ads.txt
+https://kraken.tech/app-ads.txt
+https://kraken.tech/asset-optimization
+https://kraken.tech/assets/awards/bbe.svg
+https://kraken.tech/assets/awards/bbe.svg 1x, /assets/awards/bbe.svg 2x
+https://kraken.tech/assets/awards/bd.svg
+https://kraken.tech/assets/awards/bd.svg 1x, /assets/awards/bd.svg 2x
+https://kraken.tech/assets/awards/cast.svg
+https://kraken.tech/assets/awards/cast.svg 1x, /assets/awards/cast.svg 2x
+https://kraken.tech/assets/awards/fast-50.svg
+https://kraken.tech/assets/awards/fast-50.svg 1x, /assets/awards/fast-50.svg 2x
+https://kraken.tech/assets/awards/ukbia.svg
+https://kraken.tech/assets/awards/ukbia.svg 1x, /assets/awards/ukbia.svg 2x
+https://kraken.tech/assets/awards/ukbt.svg
+https://kraken.tech/assets/awards/ukbt.svg 1x, /assets/awards/ukbt.svg 2x
+https://kraken.tech/assets/awards/utility-week.svg
+https://kraken.tech/assets/awards/utility-week.svg 1x, /assets/awards/utility-week.svg 2x
+https://kraken.tech/assets/docs/case-study-eon.pdf
+https://kraken.tech/assets/docs/case-study-intelligent-octopus.pdf
+https://kraken.tech/assets/docs/kraken-case-study-eon-next.pdf
+https://kraken.tech/assets/docs/Kraken_Technologies_AR_2021_Final.pdf
+https://kraken.tech/assets/extended-aaron.jpg
+https://kraken.tech/assets/flags/au.svg
+https://kraken.tech/assets/flags/au.svg 1x, /assets/flags/au.svg 2x
+https://kraken.tech/assets/flags/de.svg
+https://kraken.tech/assets/flags/de.svg 1x, /assets/flags/de.svg 2x
+https://kraken.tech/assets/flags/es.svg
+https://kraken.tech/assets/flags/es.svg 1x, /assets/flags/es.svg 2x
+https://kraken.tech/assets/flags/fr.svg
+https://kraken.tech/assets/flags/fr.svg 1x, /assets/flags/fr.svg 2x
+https://kraken.tech/assets/flags/it.svg
+https://kraken.tech/assets/flags/it.svg 1x, /assets/flags/it.svg 2x
+https://kraken.tech/assets/flags/jp.svg
+https://kraken.tech/assets/flags/jp.svg 1x, /assets/flags/jp.svg 2x
+https://kraken.tech/assets/flags/nz.svg
+https://kraken.tech/assets/flags/nz.svg 1x, /assets/flags/nz.svg 2x
+https://kraken.tech/assets/flags/uk.svg
+https://kraken.tech/assets/flags/uk.svg 1x, /assets/flags/uk.svg 2x
+https://kraken.tech/assets/flags/us.svg
+https://kraken.tech/assets/flags/us.svg 1x, /assets/flags/us.svg 2x
+https://kraken.tech/assets/icon-192.png
+https://kraken.tech/assets/icon-512.png
+https://kraken.tech/assets/logos/angle-down.svg
+https://kraken.tech/assets/logos/apple-touch-icon.png
+https://kraken.tech/assets/logos/favicon.ico
+https://kraken.tech/assets/logos/icon-192.png
+https://kraken.tech/assets/logos/icon-512.png
+https://kraken.tech/assets/logos/kraken-full-logo.svg
+https://kraken.tech/assets/logos/kraken-logo.svg
+https://kraken.tech/assets/logos/kraken-logo.svg 1x, /assets/logos/kraken-logo.svg 2x
+https://kraken.tech/assets/logos/kraken-small.svg
+https://kraken.tech/assets/logos/kraken-small.svg 1x, /assets/logos/kraken-small.svg 2x
+https://kraken.tech/assets/logos/kraken.svg
+https://kraken.tech/assets/logos/kraken-tech.svg
+https://kraken.tech/assets/logos/kraken-tech.svg 1x, /assets/logos/kraken-tech.svg 2x
+https://kraken.tech/assets/logos/linkedin-logo.png
+https://kraken.tech/assets/logos/movemberKraken.svg
+https://kraken.tech/assets/logos/movemberKraken.svg 1x, /assets/logos/movemberKraken.svg 2x
+https://kraken.tech/assets/logos/octopus-energy-logo.svg
+https://kraken.tech/assets/logos/octopus-energy.svg
+https://kraken.tech/assets/logos/octopus-energy.svg 1x, /assets/logos/octopus-energy.svg 2x
+https://kraken.tech/assets/logos/part-of-octoenergy-group.svg
+https://kraken.tech/assets/logos/part-of-octoenergy-group.svg 1x, /assets/logos/part-of-octoenergy-group.svg 2x
+https://kraken.tech/assets/partners/edf.svg
+https://kraken.tech/assets/partners/edf.svg 1x, /assets/partners/edf.svg 2x
+https://kraken.tech/assets/partners/eon.svg
+https://kraken.tech/assets/partners/eon.svg 1x, /assets/partners/eon.svg 2x
+https://kraken.tech/assets/partners/origin.svg
+https://kraken.tech/assets/partners/origin.svg 1x, /assets/partners/origin.svg 2x
+https://kraken.tech/assets/partners/tokyo-gas.svg
+https://kraken.tech/assets/partners/tokyo-gas.svg 1x, /assets/partners/tokyo-gas.svg 2x
+https://kraken.tech/assets/stars.svg
+https://kraken.tech/assets/stars.svg 1x, /assets/stars.svg 2x
+https://kraken.tech/assets/svg/eon.svg
+https://kraken.tech/atom.xml
+https://kraken.tech/blog
+https://kraken.tech/blog-posts
+https://kraken.tech/blog-posts/blog-post/energy-storage-making-100-renewable-power-a-reality
+https://kraken.tech/blog-posts/our-world-leading-customer-management-platform-now-supports-commercial-and-industrial-c-i-accounts
+https://kraken.tech/broadband-utilities
+https://kraken.tech/case-studies
+https://kraken.tech/case-studies/case-study/origin
+https://kraken.tech/case-studies/edf
+https://kraken.tech/case-studies/edf-renewables-for-offshore-wind
+https://kraken.tech/case-studies/eon-next
+https://kraken.tech/case-studies/good-energy-c-i
+https://kraken.tech/case-studies/octopus-energy
+https://kraken.tech/case-studies/origin
+https://kraken.tech/case-studies/orsted-for-offshore-wind
+https://kraken.tech/case-studies/plenitude
+https://kraken.tech/case-studies/ssen
+https://kraken.tech/case-studies/tokyo-gas
+https://kraken.tech/cgi-bin/
+https://kraken.tech/commercial-and-industrial-customer-management
+https://kraken.tech/cookie-notice
+https://kraken.tech/customer-management
+https://kraken.tech/customer-utilities
+https://kraken.tech/distributed-energy-resource-optimization
+https://kraken.tech/distributed-energy-resource-optimization-us
+https://kraken.tech/distributed-utilities
+https://kraken.tech/distribution-grids
+https://kraken.tech/dpa
+https://kraken.tech/energy-act-ukraine-fundraiser
+https://kraken.tech/&esheet=53900637&newsitemid=20240226207417&lan=en-US&anchor=Kraken&index=1&md5=ba4f995772bcdebfeb5acf9a9fc4348e
+https://kraken.tech/&esheet=53983611&newsitemid=20240510925654&lan=en-US&anchor=Kraken&index=1&md5=de32233312c9e0abeb611c0bdc310fee
+https://kraken.tech/&esheet=54098879&newsitemid=20240724918332&lan=en-US&anchor=Kraken Technologies&index=1&md5=dcfbc8a37bfe747a0556516c7dbd544e
+https://kraken.tech/&esheet=54102831&newsitemid=20240801091814&lan=en-US&anchor=website&index=2&md5=6b7476d200d8326f2a1fdf4d4e0b3545
+https://kraken.tech/favicon.ico
+https://kraken.tech/feed/
+https://kraken.tech/feeds/all.atom.xml
+https://kraken.tech/feed.xml
+https://kraken.tech/field
+https://kraken.tech/?_gl=1*8mook5*_gcl_au*NzA2MzU1ODMyLjE3MTU3ODIyMzM.*_ga*MTA3ODI4MzgwLjE3MTU3ODIyMzY.*_ga_Y9JNFMEXNR*MTcxOTIzNjc4Mi40LjEuMTcxOTIzNzAyOS40NC4wLjE1NjA1NTMwNjg.
+https://kraken.tech/&index=13&md5=5d6e1411836976f4e520a6eb345bb9a9
+https://kraken.tech/&index=1&md5=589d0df4aec7232052b87f42a87c2d81
+https://kraken.tech/&index=5&md5=654ef28a7080ea7a8677f12f46698bf3
+https://kraken.tech/&index=7&md5=fb95e5c140e953f350db6b860c37c16c
+https://kraken.tech/&index=8&md5=4ac933cb74c2efd2759e096ade3761ba
+https://kraken.tech/index.xml
+https://kraken.tech/jobs
+https://kraken.tech/kraken-employee-benefits-australia
+https://kraken.tech/kraken-employee-benefits-france
+https://kraken.tech/kraken-employee-benefits-germany
+https://kraken.tech/kraken-employee-benefits-italy
+https://kraken.tech/kraken-employee-benefits-japan
+https://kraken.tech/kraken-employee-benefits-netherlands
+https://kraken.tech/kraken-employee-benefits-spain
+https://kraken.tech/kraken-employee-benefits-uk
+https://kraken.tech/kraken-employee-benefits-usa
+https://kraken.tech/[Kraken](https://kraken.tech/)
+https://kraken.tech/kraken-og-image.png
+https://kraken.tech/mercury
+https://kraken.tech/_next/data/25WNs9DuJce9kG5fXqIk_/customer-utilities.json?landingPage=customer-utilities
+https://kraken.tech/_next/data/25WNs9DuJce9kG5fXqIk_/distributed-utilities.json?landingPage=distributed-utilities
+https://kraken.tech/_next/data/25WNs9DuJce9kG5fXqIk_/index.json
+https://kraken.tech/_next/data/25WNs9DuJce9kG5fXqIk_/request-demo.json
+https://kraken.tech/_next/data/2CAzqohmFA8jSoQdbys1O/blog.json
+https://kraken.tech/_next/data/2CAzqohmFA8jSoQdbys1O/index.json
+https://kraken.tech/_next/data/2CAzqohmFA8jSoQdbys1O/press.json
+https://kraken.tech/_next/data/2CAzqohmFA8jSoQdbys1O/request-demo.json
+https://kraken.tech/_next/data/56ov4JlemRkrXTGwWN4hA/index.json
+https://kraken.tech/_next/data/6Anhftv8_duII3DYSfU0V/customer-utilities.json?landingPage=customer-utilities
+https://kraken.tech/_next/data/6Anhftv8_duII3DYSfU0V/distributed-utilities.json?landingPage=distributed-utilities
+https://kraken.tech/_next/data/6Anhftv8_duII3DYSfU0V/index.json
+https://kraken.tech/_next/data/6Anhftv8_duII3DYSfU0V/request-demo.json
+https://kraken.tech/_next/data/8rCT7rZsXra6tczvBCDC6/en.json
+https://kraken.tech/_next/data/HqLxMWR2t3oVQCE6Xh6ar/blog-posts.json
+https://kraken.tech/_next/data/HqLxMWR2t3oVQCE6Xh6ar/index.json
+https://kraken.tech/_next/data/HqLxMWR2t3oVQCE6Xh6ar/press-releases.json
+https://kraken.tech/_next/data/HqLxMWR2t3oVQCE6Xh6ar/working-at-kraken.json?landingPage=working-at-kraken
+https://kraken.tech/_next/data/kN2bBjzjs6uVswkWkSf6T/blog-posts.json
+https://kraken.tech/_next/data/kN2bBjzjs6uVswkWkSf6T/index.json
+https://kraken.tech/_next/data/kN2bBjzjs6uVswkWkSf6T/press-releases.json
+https://kraken.tech/_next/data/kN2bBjzjs6uVswkWkSf6T/working-at-kraken.json?landingPage=working-at-kraken
+https://kraken.tech/_next/data/QN5wVm8I7lzjWPuj3dd5g/blog-posts.json
+https://kraken.tech/_next/data/QN5wVm8I7lzjWPuj3dd5g/index.json
+https://kraken.tech/_next/data/QN5wVm8I7lzjWPuj3dd5g/press-releases.json
+https://kraken.tech/_next/data/QN5wVm8I7lzjWPuj3dd5g/request-demo.json
+https://kraken.tech/_next/image?q=75&url=https://assets.kraken.tech/1310x576/4ac524b78c/renewable-grid-illustration.png&w=1920
+https://kraken.tech/_next/image?q=75&url=https://assets.kraken.tech/1920x1080/d4e7b81db0/globe_v1_fd.png&w=828
+https://kraken.tech/_next/image?q=75&url=https://assets.kraken.tech/3000x622/3fef7d4d18/leep-logo.png&w=3840
+https://kraken.tech/_next/image?q=75&url=https://assets.kraken.tech/329x361/ca5a723558/lower-costs-icon.png&w=256
+https://kraken.tech/_next/image?q=75&url=https://assets.kraken.tech/3712x1481/5b45376c9a/severn-trent-logo.png&w=3840
+https://kraken.tech/_next/image?q=75&url=https://assets.kraken.tech/426x167/44ffd1d51d/talk-talk-logo.png&w=3840
+https://kraken.tech/_next/image?q=75&url=https://assets.kraken.tech/426x167/44ffd1d51d/talk-talk-logo.png&w=750
+https://kraken.tech/_next/image?q=75&url=https://assets.kraken.tech/448x245/b59b1fc6ae/portsmouth-water-logo.png&w=1200
+https://kraken.tech/_next/image?q=75&url=https://assets.kraken.tech/448x245/b59b1fc6ae/portsmouth-water-logo.png&w=750
+https://kraken.tech/_next/image?q=75&url=https://assets.kraken.tech/476x268/561348ee89/powerline-stats.png&w=640
+https://kraken.tech/_next/image?url=/assets/extended-aaron.jpg&w=1080&q=75
+https://kraken.tech/_next/image?url=/assets/extended-aaron.jpg&w=1200&q=75
+https://kraken.tech/_next/image?url=/assets/extended-aaron.jpg&w=1920&q=75
+https://kraken.tech/_next/image?url=/assets/extended-aaron.jpg&w=2048&q=75
+https://kraken.tech/_next/image?url=/assets/extended-aaron.jpg&w=3840&q=75
+https://kraken.tech/_next/image?url=/assets/extended-aaron.jpg&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/extended-aaron.jpg&w=640&q=75 640w, /_next/image?url=/assets/extended-aaron.jpg&w=750&q=75 750w, /_next/image?url=/assets/extended-aaron.jpg&w=828&q=75 828w, /_next/image?url=/assets/extended-aaron.jpg&w=1080&q=75 1080w, /_next/image?url=/assets/extended-aaron.jpg&w=1200&q=75 1200w, /_next/image?url=/assets/extended-aaron.jpg&w=1920&q=75 1920w, /_next/image?url=/assets/extended-aaron.jpg&w=2048&q=75 2048w, /_next/image?url=/assets/extended-aaron.jpg&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/assets/extended-aaron.jpg&w=750&q=75
+https://kraken.tech/_next/image?url=/assets/extended-aaron.jpg&w=828&q=75
+https://kraken.tech/_next/image?url=/assets/images/greg.webp&w=1080&q=75
+https://kraken.tech/_next/image?url=/assets/images/greg.webp&w=1200&q=75
+https://kraken.tech/_next/image?url=/assets/images/greg.webp&w=1920&q=75
+https://kraken.tech/_next/image?url=/assets/images/greg.webp&w=2048&q=75
+https://kraken.tech/_next/image?url=/assets/images/greg.webp&w=3840&q=75
+https://kraken.tech/_next/image?url=/assets/images/greg.webp&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/images/greg.webp&w=750&q=75
+https://kraken.tech/_next/image?url=/assets/images/greg.webp&w=828&q=75
+https://kraken.tech/_next/image?url=/assets/images/iaroslava.jpg&w=1080&q=75
+https://kraken.tech/_next/image?url=/assets/images/iaroslava.jpg&w=1200&q=75
+https://kraken.tech/_next/image?url=/assets/images/iaroslava.jpg&w=1920&q=75
+https://kraken.tech/_next/image?url=/assets/images/iaroslava.jpg&w=2048&q=75
+https://kraken.tech/_next/image?url=/assets/images/iaroslava.jpg&w=3840&q=75
+https://kraken.tech/_next/image?url=/assets/images/iaroslava.jpg&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/images/iaroslava.jpg&w=750&q=75
+https://kraken.tech/_next/image?url=/assets/images/iaroslava.jpg&w=828&q=75
+https://kraken.tech/_next/image?url=/assets/images/kevin.jpg&w=1080&q=75
+https://kraken.tech/_next/image?url=/assets/images/kevin.jpg&w=1200&q=75
+https://kraken.tech/_next/image?url=/assets/images/kevin.jpg&w=1920&q=75
+https://kraken.tech/_next/image?url=/assets/images/kevin.jpg&w=2048&q=75
+https://kraken.tech/_next/image?url=/assets/images/kevin.jpg&w=3840&q=75
+https://kraken.tech/_next/image?url=/assets/images/kevin.jpg&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/images/kevin.jpg&w=750&q=75
+https://kraken.tech/_next/image?url=/assets/images/kevin.jpg&w=828&q=75
+https://kraken.tech/_next/image?url=/assets/images/Krasnosilsk Lyceum.png&w=1080&q=75
+https://kraken.tech/_next/image?url=/assets/images/Krasnosilsk Lyceum.png&w=1200&q=75
+https://kraken.tech/_next/image?url=/assets/images/Krasnosilsk Lyceum.png&w=1920&q=75
+https://kraken.tech/_next/image?url=/assets/images/Krasnosilsk Lyceum.png&w=2048&q=75
+https://kraken.tech/_next/image?url=/assets/images/Krasnosilsk Lyceum.png&w=3840&q=75
+https://kraken.tech/_next/image?url=/assets/images/Krasnosilsk Lyceum.png&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/images/Krasnosilsk Lyceum.png&w=750&q=75
+https://kraken.tech/_next/image?url=/assets/images/Krasnosilsk Lyceum.png&w=828&q=75
+https://kraken.tech/_next/image?url=/assets/images/Kryvyi Rih Central District Hospital.png&w=1080&q=75
+https://kraken.tech/_next/image?url=/assets/images/Kryvyi Rih Central District Hospital.png&w=1200&q=75
+https://kraken.tech/_next/image?url=/assets/images/Kryvyi Rih Central District Hospital.png&w=1920&q=75
+https://kraken.tech/_next/image?url=/assets/images/Kryvyi Rih Central District Hospital.png&w=2048&q=75
+https://kraken.tech/_next/image?url=/assets/images/Kryvyi Rih Central District Hospital.png&w=3840&q=75
+https://kraken.tech/_next/image?url=/assets/images/Kryvyi Rih Central District Hospital.png&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/images/Kryvyi Rih Central District Hospital.png&w=750&q=75
+https://kraken.tech/_next/image?url=/assets/images/Kryvyi Rih Central District Hospital.png&w=828&q=75
+https://kraken.tech/_next/image?url=/assets/images/malaia.jpg&w=1080&q=75
+https://kraken.tech/_next/image?url=/assets/images/malaia.jpg&w=1200&q=75
+https://kraken.tech/_next/image?url=/assets/images/malaia.jpg&w=1920&q=75
+https://kraken.tech/_next/image?url=/assets/images/malaia.jpg&w=2048&q=75
+https://kraken.tech/_next/image?url=/assets/images/malaia.jpg&w=3840&q=75
+https://kraken.tech/_next/image?url=/assets/images/malaia.jpg&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/images/malaia.jpg&w=750&q=75
+https://kraken.tech/_next/image?url=/assets/images/malaia.jpg&w=828&q=75
+https://kraken.tech/_next/image?url=/assets/images/Odesa Regional Clinical Hospital.png&w=1080&q=75
+https://kraken.tech/_next/image?url=/assets/images/Odesa Regional Clinical Hospital.png&w=1200&q=75
+https://kraken.tech/_next/image?url=/assets/images/Odesa Regional Clinical Hospital.png&w=1920&q=75
+https://kraken.tech/_next/image?url=/assets/images/Odesa Regional Clinical Hospital.png&w=2048&q=75
+https://kraken.tech/_next/image?url=/assets/images/Odesa Regional Clinical Hospital.png&w=3840&q=75
+https://kraken.tech/_next/image?url=/assets/images/Odesa Regional Clinical Hospital.png&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/images/Odesa Regional Clinical Hospital.png&w=750&q=75
+https://kraken.tech/_next/image?url=/assets/images/Odesa Regional Clinical Hospital.png&w=828&q=75
+https://kraken.tech/_next/image?url=/assets/images/roman.webp&w=1080&q=75
+https://kraken.tech/_next/image?url=/assets/images/roman.webp&w=1200&q=75
+https://kraken.tech/_next/image?url=/assets/images/roman.webp&w=1920&q=75
+https://kraken.tech/_next/image?url=/assets/images/roman.webp&w=2048&q=75
+https://kraken.tech/_next/image?url=/assets/images/roman.webp&w=3840&q=75
+https://kraken.tech/_next/image?url=/assets/images/roman.webp&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/images/roman.webp&w=750&q=75
+https://kraken.tech/_next/image?url=/assets/images/roman.webp&w=828&q=75
+https://kraken.tech/_next/image?url=/assets/images/yuliana.webp&w=1080&q=75
+https://kraken.tech/_next/image?url=/assets/images/yuliana.webp&w=1200&q=75
+https://kraken.tech/_next/image?url=/assets/images/yuliana.webp&w=1920&q=75
+https://kraken.tech/_next/image?url=/assets/images/yuliana.webp&w=2048&q=75
+https://kraken.tech/_next/image?url=/assets/images/yuliana.webp&w=3840&q=75
+https://kraken.tech/_next/image?url=/assets/images/yuliana.webp&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/images/yuliana.webp&w=750&q=75
+https://kraken.tech/_next/image?url=/assets/images/yuliana.webp&w=828&q=75
+https://kraken.tech/_next/image?url=/assets/logos/EAFU.webp&w=256&q=75
+https://kraken.tech/_next/image?url=/assets/logos/EAFU.webp&w=640&q=75
+https://kraken.tech/_next/image?url=/assets/logos/enlit.webp&w=128&q=75
+https://kraken.tech/_next/image?url=/assets/logos/enlit.webp&w=64&q=75
+https://kraken.tech/_next/image?url=/assets/logos/linkedin-logo.png&w=128&q=75
+https://kraken.tech/_next/image?url=/assets/logos/linkedin-logo.png&w=64&q=75
+https://kraken.tech/_next/image?url=/assets/logos/linkedin-logo.png&w=64&q=75 1x, /_next/image?url=/assets/logos/linkedin-logo.png&w=128&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1080x720/1ce491d3d6/dom-pointing.png&w=750&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1080x810/c82ca0b5a8/solar-and-turbine.jpg&w=750&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1129x488/507a48dd9e/ev-charging.png&w=1200&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1129x488/507a48dd9e/ev-charging.png&w=1200&q=75 1x, /_next/image?url=https://assets.kraken.tech/1129x488/507a48dd9e/ev-charging.png&w=3840&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1129x488/507a48dd9e/ev-charging.png&w=3840&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1200x467/f844a39690/saving_sessions_final-02-width-1200.png&w=1200&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1200x467/f844a39690/saving_sessions_final-02-width-1200.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1200x467/f844a39690/saving_sessions_final-02-width-1200.png&w=640&q=75 1x, /_next/image?url=https://assets.kraken.tech/1200x467/f844a39690/saving_sessions_final-02-width-1200.png&w=1200&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1200x800/0cde158d05/greg-heat.jpg&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1200x800/0cde158d05/greg-heat.jpg&w=640&q=75 1x, /_next/image?url=https://assets.kraken.tech/1200x800/0cde158d05/greg-heat.jpg&w=828&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1200x800/0cde158d05/greg-heat.jpg&w=828&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1310x576/4ac524b78c/renewable-grid-illustration.png&w=1920&q=75 1x, /_next/image?url=https://assets.kraken.tech/1310x576/4ac524b78c/renewable-grid-illustration.png&w=3840&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1310x576/4ac524b78c/renewable-grid-illustration.png&w=3840&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1544x411/56ac7009f3/cnbc_disruptor_50_2024_primary.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1544x411/56ac7009f3/cnbc_disruptor_50_2024_primary.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1618x911/217ebc1347/offshore-wind-o-and-m.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1618x911/217ebc1347/offshore-wind-o-and-m.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1618x911/217ebc1347/offshore-wind-o-and-m.png&w=750&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/178x272/4ffbd56abb/electricity-icons-rgb.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/178x272/4ffbd56abb/electricity-icons-rgb.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1920x1080/4cf542da0a/cnbc_disruptor_50_2024_logo_white.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1920x1080/4cf542da0a/cnbc_disruptor_50_2024_logo_white.png&w=384&q=75 1x, /_next/image?url=https://assets.kraken.tech/1920x1080/4cf542da0a/cnbc_disruptor_50_2024_logo_white.png&w=640&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1920x1080/4cf542da0a/cnbc_disruptor_50_2024_logo_white.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/1920x1080/d4e7b81db0/globe_v1_fd.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/2324x1276/ca4cc3ab0d/car-charging.png&w=750&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/280x313/17f5423297/wrench-illustration.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/280x313/17f5423297/wrench-illustration.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/280x313/17f5423297/wrench-illustration.png&w=384&q=75 1x, /_next/image?url=https://assets.kraken.tech/280x313/17f5423297/wrench-illustration.png&w=640&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/280x313/17f5423297/wrench-illustration.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/2880x1920/5654261d1c/techcentre2.jpg&w=1920&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/2880x1920/5654261d1c/techcentre2.jpg&w=828&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3000x622/3fef7d4d18/leep-logo.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3000x622/3fef7d4d18/leep-logo.png&w=1200&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3000x622/3fef7d4d18/leep-logo.png&w=1920&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3000x622/3fef7d4d18/leep-logo.png&w=2048&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3000x622/3fef7d4d18/leep-logo.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x304/cda2e6dc32/integration-icon.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x304/cda2e6dc32/integration-icon.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x304/cda2e6dc32/integration-icon.png&w=384&q=75 1x, /_next/image?url=https://assets.kraken.tech/329x304/cda2e6dc32/integration-icon.png&w=640&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x304/cda2e6dc32/integration-icon.png&w=384&q=75 1x, /_next/image?url=https://assets.kraken.tech/329x304/cda2e6dc32/integration-icon.png&w=750&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x304/cda2e6dc32/integration-icon.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x304/cda2e6dc32/integration-icon.png&w=750&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x361/ca5a723558/lower-costs-icon.png&w=256&q=75 1x, /_next/image?url=https://assets.kraken.tech/329x361/ca5a723558/lower-costs-icon.png&w=640&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x361/ca5a723558/lower-costs-icon.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x361/ca5a723558/lower-costs-icon.png&w=384&q=75 1x, /_next/image?url=https://assets.kraken.tech/329x361/ca5a723558/lower-costs-icon.png&w=750&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x361/ca5a723558/lower-costs-icon.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/329x361/ca5a723558/lower-costs-icon.png&w=750&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3712x1481/5b45376c9a/severn-trent-logo.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3712x1481/5b45376c9a/severn-trent-logo.png&w=1200&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3712x1481/5b45376c9a/severn-trent-logo.png&w=1920&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3712x1481/5b45376c9a/severn-trent-logo.png&w=2048&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3712x1481/5b45376c9a/severn-trent-logo.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3712x1481/5b45376c9a/severn-trent-logo.png&w=750&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3712x1481/5b45376c9a/severn-trent-logo.png&w=828&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/3876x2906/f3a9e356dd/blackhillock_battery_site.jpg&w=1920&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4203/435f1e1afb/anja_langer_jacquin_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4203/435f1e1afb/anja_langer_jacquin_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4203/8848f16725/lara_beers_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4203/8848f16725/lara_beers_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4203/9582bd6375/amir_orad_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4203/9582bd6375/amir_orad_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4203/cb077fc6bd/deepak_ravindran_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4203/cb077fc6bd/deepak_ravindran_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4203/d4ff664fe0/devrim_celal_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4203/d4ff664fe0/devrim_celal_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4204/453f093f67/nigel_broda_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4009x4204/453f093f67/nigel_broda_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/27390f0ed6/kristina_agassi_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/27390f0ed6/kristina_agassi_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/7c85f39d74/assaf_biderman_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/7c85f39d74/assaf_biderman_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/7dfa014a86/kiel_dolence_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/7dfa014a86/kiel_dolence_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/9935cc6bea/kelly_james_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/9935cc6bea/kelly_james_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/9d23dd4898/tara_mullen_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/9d23dd4898/tara_mullen_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/e6262ebed0/james_eddison_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4203/e6262ebed0/james_eddison_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4204/1662d04b99/sorooban_selvaratnam_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4204/1662d04b99/sorooban_selvaratnam_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4204/d021bd13ad/mike_yorwerth_headshot.png&w=256&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4010x4204/d021bd13ad/mike_yorwerth_headshot.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4230x6918/57a4ea4762/ctw_2023.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4230x6918/57a4ea4762/ctw_2023.png&w=384&q=75 1x, /_next/image?url=https://assets.kraken.tech/4230x6918/57a4ea4762/ctw_2023.png&w=640&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/4230x6918/57a4ea4762/ctw_2023.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/426x167/44ffd1d51d/talk-talk-logo.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/426x167/44ffd1d51d/talk-talk-logo.png&w=1200&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/426x167/44ffd1d51d/talk-talk-logo.png&w=1920&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/426x167/44ffd1d51d/talk-talk-logo.png&w=2048&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/426x167/44ffd1d51d/talk-talk-logo.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/426x167/44ffd1d51d/talk-talk-logo.png&w=828&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/448x245/b59b1fc6ae/portsmouth-water-logo.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/448x245/b59b1fc6ae/portsmouth-water-logo.png&w=2048&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/448x245/b59b1fc6ae/portsmouth-water-logo.png&w=3840&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/448x245/b59b1fc6ae/portsmouth-water-logo.png&w=828&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/472x235/2df57fc7a1/cloud.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/472x235/2df57fc7a1/cloud.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/472x235/2df57fc7a1/cloud.png&w=640&q=75 1x, /_next/image?url=https://assets.kraken.tech/472x235/2df57fc7a1/cloud.png&w=1080&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/476x268/561348ee89/powerline-stats.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/476x268/561348ee89/powerline-stats.png&w=640&q=75 1x, /_next/image?url=https://assets.kraken.tech/476x268/561348ee89/powerline-stats.png&w=1080&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/478x245/24886cdb93/migration-icon.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/478x245/24886cdb93/migration-icon.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/478x245/24886cdb93/migration-icon.png&w=640&q=75 1x, /_next/image?url=https://assets.kraken.tech/478x245/24886cdb93/migration-icon.png&w=1080&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/481x455/695ca9413c/star.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/481x455/695ca9413c/star.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/481x455/695ca9413c/star.png&w=384&q=75 1x, /_next/image?url=https://assets.kraken.tech/481x455/695ca9413c/star.png&w=640&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/481x455/695ca9413c/star.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/481x455/695ca9413c/star.png&w=640&q=75 1x, /_next/image?url=https://assets.kraken.tech/481x455/695ca9413c/star.png&w=1080&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/483x221/01356b3f25/van-icon.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/483x221/01356b3f25/van-icon.png&w=384&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/483x221/01356b3f25/van-icon.png&w=384&q=75 1x, /_next/image?url=https://assets.kraken.tech/483x221/01356b3f25/van-icon.png&w=750&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/483x221/01356b3f25/van-icon.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/483x221/01356b3f25/van-icon.png&w=640&q=75 1x, /_next/image?url=https://assets.kraken.tech/483x221/01356b3f25/van-icon.png&w=1080&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/483x221/01356b3f25/van-icon.png&w=750&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/503x515/1a0df11b8b/electricity-icon.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/503x515/1a0df11b8b/electricity-icon.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/503x515/1a0df11b8b/electricity-icon.png&w=640&q=75 1x, /_next/image?url=https://assets.kraken.tech/503x515/1a0df11b8b/electricity-icon.png&w=1080&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/503x515/1a0df11b8b/electricity-icon.png&w=640&q=75 1x, /_next/image?url=https://assets.kraken.tech/503x515/1a0df11b8b/electricity-icon.png&w=828&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/503x515/1a0df11b8b/electricity-icon.png&w=828&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/545x140/5da359d4fb/contact-us.png&w=1200&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/545x140/5da359d4fb/contact-us.png&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/545x140/5da359d4fb/contact-us.png&w=640&q=75 1x, /_next/image?url=https://assets.kraken.tech/545x140/5da359d4fb/contact-us.png&w=1200&q=75 2x
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/556x584/00ab59979b/uk.png&w=64&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/556x584/54ba828675/france.png&w=64&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/556x584/7bd92115e7/spain.png&w=64&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/556x584/a54454c658/italy.png&w=64&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/556x584/d47eb449fb/netherlands.png&w=64&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/556x584/eb9d299d7d/germany.png&w=64&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/6458x4305/b48879a6f9/wencie.jpg&w=640&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/736x240/7ec3eb6ee4/cuckoo-logo.png&w=1080&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/736x240/7ec3eb6ee4/cuckoo-logo.png&w=1200&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/736x240/7ec3eb6ee4/cuckoo-logo.png&w=1920&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/736x240/7ec3eb6ee4/cuckoo-logo.png&w=2048&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/736x240/7ec3eb6ee4/cuckoo-logo.png&w=3840&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/736x240/7ec3eb6ee4/cuckoo-logo.png&w=750&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/800x450/4b780d70df/batteries.png&w=750&q=75
+https://kraken.tech/_next/image?url=https://assets.kraken.tech/960x320/272071360c/grey-clouds-and-turbines.jpg&w=750&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/constantine-wave.1216551b.jpg&w=1200&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/constantine-wave.1216551b.jpg&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/current-news_24-03-2021.0ada8889.png&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/current-news_24-03-2021.0ada8889.png&w=640&q=75 640w, /_next/image?url=/_next/static/media/current-news_24-03-2021.0ada8889.png&w=750&q=75 750w, /_next/image?url=/_next/static/media/current-news_24-03-2021.0ada8889.png&w=828&q=75 828w, /_next/image?url=/_next/static/media/current-news_24-03-2021.0ada8889.png&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/current-news_24-03-2021.0ada8889.png&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/current-news_24-03-2021.0ada8889.png&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/current-news_24-03-2021.0ada8889.png&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/current-news_24-03-2021.0ada8889.png&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/_next/static/media/eon-next.b3d428b4.jpg&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/eon-next.b3d428b4.jpg&w=640&q=75 640w, /_next/image?url=/_next/static/media/eon-next.b3d428b4.jpg&w=750&q=75 750w, /_next/image?url=/_next/static/media/eon-next.b3d428b4.jpg&w=828&q=75 828w, /_next/image?url=/_next/static/media/eon-next.b3d428b4.jpg&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/eon-next.b3d428b4.jpg&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/eon-next.b3d428b4.jpg&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/eon-next.b3d428b4.jpg&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/eon-next.b3d428b4.jpg&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/_next/static/media/fan-club.119018f6.jpg&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/fan-club.119018f6.jpg&w=640&q=75 640w, /_next/image?url=/_next/static/media/fan-club.119018f6.jpg&w=750&q=75 750w, /_next/image?url=/_next/static/media/fan-club.119018f6.jpg&w=828&q=75 828w, /_next/image?url=/_next/static/media/fan-club.119018f6.jpg&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/fan-club.119018f6.jpg&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/fan-club.119018f6.jpg&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/fan-club.119018f6.jpg&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/fan-club.119018f6.jpg&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/_next/static/media/good-energy.96fceca7.jpg&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/good-energy.96fceca7.jpg&w=640&q=75 640w, /_next/image?url=/_next/static/media/good-energy.96fceca7.jpg&w=750&q=75 750w, /_next/image?url=/_next/static/media/good-energy.96fceca7.jpg&w=828&q=75 828w, /_next/image?url=/_next/static/media/good-energy.96fceca7.jpg&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/good-energy.96fceca7.jpg&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/good-energy.96fceca7.jpg&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/good-energy.96fceca7.jpg&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/good-energy.96fceca7.jpg&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/_next/static/media/itn_17-02-2022.7083b2b0.png&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/itn_17-02-2022.7083b2b0.png&w=640&q=75 640w, /_next/image?url=/_next/static/media/itn_17-02-2022.7083b2b0.png&w=750&q=75 750w, /_next/image?url=/_next/static/media/itn_17-02-2022.7083b2b0.png&w=828&q=75 828w, /_next/image?url=/_next/static/media/itn_17-02-2022.7083b2b0.png&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/itn_17-02-2022.7083b2b0.png&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/itn_17-02-2022.7083b2b0.png&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/itn_17-02-2022.7083b2b0.png&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/itn_17-02-2022.7083b2b0.png&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/_next/static/media/itn-logo.4940b0dc.png&w=256&q=75 1x, /_next/image?url=/_next/static/media/itn-logo.4940b0dc.png&w=384&q=75 2x
+https://kraken.tech/_next/image?url=/_next/static/media/itn-logo.4940b0dc.png&w=384&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/roles-at-kraken.45caa4f1.jpg&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/roles-at-kraken.45caa4f1.jpg&w=640&q=75 640w, /_next/image?url=/_next/static/media/roles-at-kraken.45caa4f1.jpg&w=750&q=75 750w, /_next/image?url=/_next/static/media/roles-at-kraken.45caa4f1.jpg&w=828&q=75 828w, /_next/image?url=/_next/static/media/roles-at-kraken.45caa4f1.jpg&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/roles-at-kraken.45caa4f1.jpg&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/roles-at-kraken.45caa4f1.jpg&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/roles-at-kraken.45caa4f1.jpg&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/roles-at-kraken.45caa4f1.jpg&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/_next/static/media/smartflex.a032f938.jpg&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/smartflex.a032f938.jpg&w=640&q=75 640w, /_next/image?url=/_next/static/media/smartflex.a032f938.jpg&w=750&q=75 750w, /_next/image?url=/_next/static/media/smartflex.a032f938.jpg&w=828&q=75 828w, /_next/image?url=/_next/static/media/smartflex.a032f938.jpg&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/smartflex.a032f938.jpg&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/smartflex.a032f938.jpg&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/smartflex.a032f938.jpg&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/smartflex.a032f938.jpg&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/_next/static/media/spotlight-ruby.e244e203.png&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/spotlight-ruby.e244e203.png&w=640&q=75 640w, /_next/image?url=/_next/static/media/spotlight-ruby.e244e203.png&w=750&q=75 750w, /_next/image?url=/_next/static/media/spotlight-ruby.e244e203.png&w=828&q=75 828w, /_next/image?url=/_next/static/media/spotlight-ruby.e244e203.png&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/spotlight-ruby.e244e203.png&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/spotlight-ruby.e244e203.png&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/spotlight-ruby.e244e203.png&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/spotlight-ruby.e244e203.png&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/_next/static/media/spotlight-suraj.56015270.png&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/spotlight-suraj.56015270.png&w=640&q=75 640w, /_next/image?url=/_next/static/media/spotlight-suraj.56015270.png&w=750&q=75 750w, /_next/image?url=/_next/static/media/spotlight-suraj.56015270.png&w=828&q=75 828w, /_next/image?url=/_next/static/media/spotlight-suraj.56015270.png&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/spotlight-suraj.56015270.png&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/spotlight-suraj.56015270.png&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/spotlight-suraj.56015270.png&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/spotlight-suraj.56015270.png&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/_next/static/media/the-telegraph_14-12-2022.a96e79f9.png&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/the-telegraph_14-12-2022.a96e79f9.png&w=640&q=75 640w, /_next/image?url=/_next/static/media/the-telegraph_14-12-2022.a96e79f9.png&w=750&q=75 750w, /_next/image?url=/_next/static/media/the-telegraph_14-12-2022.a96e79f9.png&w=828&q=75 828w, /_next/image?url=/_next/static/media/the-telegraph_14-12-2022.a96e79f9.png&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/the-telegraph_14-12-2022.a96e79f9.png&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/the-telegraph_14-12-2022.a96e79f9.png&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/the-telegraph_14-12-2022.a96e79f9.png&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/the-telegraph_14-12-2022.a96e79f9.png&w=3840&q=75 3840w
+https://kraken.tech/_next/image?url=/_next/static/media/utility-week_18-06-2021.b43f2062.png&w=3840&q=75
+https://kraken.tech/_next/image?url=/_next/static/media/utility-week_18-06-2021.b43f2062.png&w=640&q=75 640w, /_next/image?url=/_next/static/media/utility-week_18-06-2021.b43f2062.png&w=750&q=75 750w, /_next/image?url=/_next/static/media/utility-week_18-06-2021.b43f2062.png&w=828&q=75 828w, /_next/image?url=/_next/static/media/utility-week_18-06-2021.b43f2062.png&w=1080&q=75 1080w, /_next/image?url=/_next/static/media/utility-week_18-06-2021.b43f2062.png&w=1200&q=75 1200w, /_next/image?url=/_next/static/media/utility-week_18-06-2021.b43f2062.png&w=1920&q=75 1920w, /_next/image?url=/_next/static/media/utility-week_18-06-2021.b43f2062.png&w=2048&q=75 2048w, /_next/image?url=/_next/static/media/utility-week_18-06-2021.b43f2062.png&w=3840&q=75 3840w
+https://kraken.tech/_next/image?w=640&q=75&url=https://assets.kraken.tech/448x245/b59b1fc6ae/portsmouth-water-logo.png
+https://kraken.tech/_next/image?w=640&q=75&url=https://assets.kraken.tech/478x245/24886cdb93/migration-icon.png
+https://kraken.tech/_next/image?w=640&q=75&url=https://assets.kraken.tech/736x240/7ec3eb6ee4/cuckoo-logo.png
+https://kraken.tech/_next/image?w=828&q=75&url=https://assets.kraken.tech/3000x622/3fef7d4d18/leep-logo.png
+https://kraken.tech/_next/image?w=828&q=75&url=https://assets.kraken.tech/545x140/5da359d4fb/contact-us.png
+https://kraken.tech/_next/static/0DD8tGpQGBHIMOsO3lfh6/_buildManifest.js
+https://kraken.tech/_next/static/0DD8tGpQGBHIMOsO3lfh6/_ssgManifest.js
+https://kraken.tech/_next/static/25WNs9DuJce9kG5fXqIk_/_buildManifest.js
+https://kraken.tech/_next/static/25WNs9DuJce9kG5fXqIk_/_ssgManifest.js
+https://kraken.tech/_next/static/28KlMga_9xDFih1Zk4A0G/_buildManifest.js
+https://kraken.tech/_next/static/28KlMga_9xDFih1Zk4A0G/_ssgManifest.js
+https://kraken.tech/_next/static/2CAzqohmFA8jSoQdbys1O/_buildManifest.js
+https://kraken.tech/_next/static/2CAzqohmFA8jSoQdbys1O/_middlewareManifest.js
+https://kraken.tech/_next/static/2CAzqohmFA8jSoQdbys1O/_ssgManifest.js
+https://kraken.tech/_next/static/56ov4JlemRkrXTGwWN4hA/_buildManifest.js
+https://kraken.tech/_next/static/56ov4JlemRkrXTGwWN4hA/_ssgManifest.js
+https://kraken.tech/_next/static/5lYYS8Ke4Ejn_lhyfZeoP/_buildManifest.js
+https://kraken.tech/_next/static/5lYYS8Ke4Ejn_lhyfZeoP/_middlewareManifest.js
+https://kraken.tech/_next/static/5lYYS8Ke4Ejn_lhyfZeoP/_ssgManifest.js
+https://kraken.tech/_next/static/6Anhftv8_duII3DYSfU0V/_buildManifest.js
+https://kraken.tech/_next/static/6Anhftv8_duII3DYSfU0V/_ssgManifest.js
+https://kraken.tech/_next/static/8rCT7rZsXra6tczvBCDC6/_buildManifest.js
+https://kraken.tech/_next/static/8rCT7rZsXra6tczvBCDC6/_ssgManifest.js
+https://kraken.tech/_next/static/96-qQNkLQznVGp1AtnhaH/_buildManifest.js
+https://kraken.tech/_next/static/96-qQNkLQznVGp1AtnhaH/_ssgManifest.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/_buildManifest.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/_ssgManifest.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/29107295-a3480e51fe70b9c7.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/713-4613d22765b5fb93.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/pages/404-af557d508f556670.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/pages/blog-posts-3c886a2432c54ad5.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/pages/case-studies-ca69f937b9461af8.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/pages/_error-10090a8ee211d5fd.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/pages/index-3db3954b9cc1a4e3.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/pages/jobs-8428f6486bc1ac6e.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/pages/press-releases-071a0247879feedf.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/pages/request-demo-a3b5a75401369b5b.js
+https://kraken.tech/_next/static/aFzcfUHXQz-GJZHeZI5OX/static/chunks/pages/welcome-33331c04d9f0f696.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/_buildManifest.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/_ssgManifest.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/260-a72dc1bb4ad913b1.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/606-b7982c31d0b76d6b.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/pages/404-d9f569eb7ddd70ae.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/pages/blog-posts-973d5cbfc3d59f17.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/pages/case-studies-b93c628af2da9474.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/pages/energy-act-ukraine-fundraiser-dfefdcb676306524.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/pages/_error-77823ddac6993d35.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/pages/index-26c5e84a828e7474.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/pages/press-releases-9b3694842a647ddb.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/pages/request-demo-0cfb1ac9000871eb.js
+https://kraken.tech/_next/static/AkBQKSlC_-PvYnCONDaAr/static/chunks/pages/welcome-e3ba774697c43b31.js
+https://kraken.tech/_next/static/ASyiuckBhBTfEjapZCYYp/_buildManifest.js
+https://kraken.tech/_next/static/ASyiuckBhBTfEjapZCYYp/_ssgManifest.js
+https://kraken.tech/_next/static/chunks/123-42a62d947648adcc.js
+https://kraken.tech/_next/static/chunks/29107295-a3480e51fe70b9c7.js
+https://kraken.tech/_next/static/chunks/33-a2e5a58c05c1614b.js
+https://kraken.tech/_next/static/chunks/547-4608b1f4b1933b2d.js
+https://kraken.tech/_next/static/chunks/574-f7d92bc2ebe7c382.js
+https://kraken.tech/_next/static/chunks/606-b7982c31d0b76d6b.js
+https://kraken.tech/_next/static/chunks/606-ed5c81a8a1be6b6b.js
+https://kraken.tech/_next/static/chunks/713-4613d22765b5fb93.js
+https://kraken.tech/_next/static/chunks/73-4397f3a22fee8201.js
+https://kraken.tech/_next/static/chunks/83d054cf-1a33789d35c53a80.js
+https://kraken.tech/_next/static/chunks/83d054cf-d063b52396079956.js
+https://kraken.tech/_next/static/chunks/893-55b84e7ee9100551.js
+https://kraken.tech/_next/static/chunks/893-cf987b4ce174e2df.js
+https://kraken.tech/_next/static/chunks/959-5ed5305426131b7a.js
+https://kraken.tech/_next/static/chunks/framework-49c6cecf1f6d5795.js
+https://kraken.tech/_next/static/chunks/framework-5f4595e5518b5600.js
+https://kraken.tech/_next/static/chunks/framework-63d16ff2f5e08230.js
+https://kraken.tech/_next/static/chunks/framework-66d32731bdd20e83.js
+https://kraken.tech/_next/static/chunks/framework-bb5c596eafb42b22.js
+https://kraken.tech/_next/static/chunks/main-12e6506840a43db3.js
+https://kraken.tech/_next/static/chunks/main-277ddfb2860b300c.js
+https://kraken.tech/_next/static/chunks/main-428ffe0b61bdf877.js
+https://kraken.tech/_next/static/chunks/main-b95bb5c6430408ba.js
+https://kraken.tech/_next/static/chunks/main-bac2f07e2c919777.js
+https://kraken.tech/_next/static/chunks/main-cafd2476dee120ab.js
+https://kraken.tech/_next/static/chunks/main-d1043dcba7e00888.js
+https://kraken.tech/_next/static/chunks/main-df5111e63f5027ae.js
+https://kraken.tech/_next/static/chunks/main-e01cded5f2581ebd.js
+https://kraken.tech/_next/static/chunks/main-fa8b5c2f94d8018d.js
+https://kraken.tech/_next/static/chunks/next.config.js
+https://kraken.tech/_next/static/chunks/next.config.mjs
+https://kraken.tech/_next/static/chunks/pages/404-af557d508f556670.js
+https://kraken.tech/_next/static/chunks/pages/_app-052de2179f0f912a.js
+https://kraken.tech/_next/static/chunks/pages/_app-077f39cb33492c70.js
+https://kraken.tech/_next/static/chunks/pages/_app-0f0548583c578d6b.js
+https://kraken.tech/_next/static/chunks/pages/_app-12ac0ee1a4564441.js
+https://kraken.tech/_next/static/chunks/pages/_app-16b64fde908e8ef3.js
+https://kraken.tech/_next/static/chunks/pages/_app-20af0e543dd4aae4.js
+https://kraken.tech/_next/static/chunks/pages/_app-366cc9602a6b70e3.js
+https://kraken.tech/_next/static/chunks/pages/_app-3c3da359beaf7e75.js
+https://kraken.tech/_next/static/chunks/pages/_app-4836b248fc985666.js
+https://kraken.tech/_next/static/chunks/pages/_app-4fc7f6549627807d.js
+https://kraken.tech/_next/static/chunks/pages/_app-5cb70856f4f8736f.js
+https://kraken.tech/_next/static/chunks/pages/_app-70897a7384a9e3cc.js
+https://kraken.tech/_next/static/chunks/pages/_app-72c9ddd2744e4ea3.js
+https://kraken.tech/_next/static/chunks/pages/_app-778f13ff137f6132.js
+https://kraken.tech/_next/static/chunks/pages/_app-8eb0ad1e8ccb33bb.js
+https://kraken.tech/_next/static/chunks/pages/_app-9070ca86d5816ca2.js
+https://kraken.tech/_next/static/chunks/pages/_app-9ef569deabee72e1.js
+https://kraken.tech/_next/static/chunks/pages/_app-a06e6b0b985448f4.js
+https://kraken.tech/_next/static/chunks/pages/_app-a1405c67e3ec97f5.js
+https://kraken.tech/_next/static/chunks/pages/_app-a3d918f6d67f5cc7.js
+https://kraken.tech/_next/static/chunks/pages/_app-b1e6e7a3c49646e7.js
+https://kraken.tech/_next/static/chunks/pages/_app-b91a26a0cbe4ee44.js
+https://kraken.tech/_next/static/chunks/pages/_app-c2f02bd3c0ffc22a.js
+https://kraken.tech/_next/static/chunks/pages/_app-c7119cc4c6a870b3.js
+https://kraken.tech/_next/static/chunks/pages/_app-d761fb89cb5e41e3.js
+https://kraken.tech/_next/static/chunks/pages/_app-e4aa1290cbc1e88e.js
+https://kraken.tech/_next/static/chunks/pages/_app-e5a96b49dcdbcdf3.js
+https://kraken.tech/_next/static/chunks/pages/_app-f70bd14bf39a06b0.js
+https://kraken.tech/_next/static/chunks/pages/_app-f963b1f924da9641.js
+https://kraken.tech/_next/static/chunks/pages/_app-ffc7cdf93186ccbd.js
+https://kraken.tech/_next/static/chunks/pages/blog-31748da706fab817.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-0ded6d0d72d31b4c.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-3828c35acc8b348b.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-3c886a2432c54ad5.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-580635793670ec97.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-6d8ddd9ecd522789.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-8913745a6587bda6.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-98d0394ec731feec.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-9f737ea4766af949.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-a2676b58bca05f48.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-e08c3d060ba549d7.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-ecafd83856309628.js
+https://kraken.tech/_next/static/chunks/pages/blog-posts-fa4c7a1a3dfc10eb.js
+https://kraken.tech/_next/static/chunks/pages/case-studies-68b86e1be6ea5c5b.js
+https://kraken.tech/_next/static/chunks/pages/case-studies-afddcf15cbd29495.js
+https://kraken.tech/_next/static/chunks/pages/case-studies/[caseStudy]-1a914c6146f3f41f.js
+https://kraken.tech/_next/static/chunks/pages/case-studies/[caseStudy]-679a575db7f2fb54.js
+https://kraken.tech/_next/static/chunks/pages/case-studies/[caseStudy]-8bf55d9c5607a2e3.js
+https://kraken.tech/_next/static/chunks/pages/energy-act-ukraine-fundraiser-44fa523d1ebe1ed0.js
+https://kraken.tech/_next/static/chunks/pages/gtm.js
+https://kraken.tech/_next/static/chunks/pages/index-21f4bf2689d45036.js
+https://kraken.tech/_next/static/chunks/pages/index-23097dbe3a567c49.js
+https://kraken.tech/_next/static/chunks/pages/index-26c5e84a828e7474.js
+https://kraken.tech/_next/static/chunks/pages/index-3a0aeac522305beb.js
+https://kraken.tech/_next/static/chunks/pages/index-3db3954b9cc1a4e3.js
+https://kraken.tech/_next/static/chunks/pages/index-3f690de49c91870f.js
+https://kraken.tech/_next/static/chunks/pages/index-420b036acfd97353.js
+https://kraken.tech/_next/static/chunks/pages/index-465c9e71810c0903.js
+https://kraken.tech/_next/static/chunks/pages/index-514cdee4a5dfd617.js
+https://kraken.tech/_next/static/chunks/pages/index-57a38c9a63f4d4ee.js
+https://kraken.tech/_next/static/chunks/pages/index-59d6be67cc275775.js
+https://kraken.tech/_next/static/chunks/pages/index-648947362df66bdc.js
+https://kraken.tech/_next/static/chunks/pages/index-907e5aa3461afefa.js
+https://kraken.tech/_next/static/chunks/pages/index-9526fe8ceccdd039.js
+https://kraken.tech/_next/static/chunks/pages/index-982dc43a785db858.js
+https://kraken.tech/_next/static/chunks/pages/index-bd474f00c0928e34.js
+https://kraken.tech/_next/static/chunks/pages/index-c4d3c2e4506b15f8.js
+https://kraken.tech/_next/static/chunks/pages/index-cdd28df0fa88107c.js
+https://kraken.tech/_next/static/chunks/pages/index-db787673d7e4bcfe.js
+https://kraken.tech/_next/static/chunks/pages/index-dd3542f08562b20a.js
+https://kraken.tech/_next/static/chunks/pages/index-e0ae93eff4e5053c.js
+https://kraken.tech/_next/static/chunks/pages/index-e53732959fd1766c.js
+https://kraken.tech/_next/static/chunks/pages/index-fa380bee037a2687.js
+https://kraken.tech/_next/static/chunks/pages/jobs-1a87157fd9595438.js
+https://kraken.tech/_next/static/chunks/pages/jobs-8428f6486bc1ac6e.js
+https://kraken.tech/_next/static/chunks/pages/jobs-eb19508a08c25799.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-1a97d7c9d17154df.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-3981b4f30f71f32a.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-4a41c77e42ee6d7f.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-4df9b517f93aa104.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-615120d909b6b628.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-77f8156ad22f23d7.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-8d3d4a5c85263aee.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-9a3da130cdfa1fed.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-ab45382369bf0594.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-b5491f6147645773.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-c7c81abe36db2e95.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-d5193dbafb54c1e5.js
+https://kraken.tech/_next/static/chunks/pages/[landingPage]-fa1643a6724874d6.js
+https://kraken.tech/_next/static/chunks/pages/press-177c328bba18fb77.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-071a0247879feedf.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-2d3dca2c5621edac.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-3a827bc139a107d0.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-559fbb9b448017fe.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-76823084b2d87887.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-82bd54a846b44707.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-84a7f9fabd7759bc.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-8f09d933d942f942.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-a76807ee2b28ba4f.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-b03e36a7e06b1e76.js
+https://kraken.tech/_next/static/chunks/pages/press-releases-b523bba5611c967a.js
+https://kraken.tech/_next/static/chunks/pages/press-releases/[pressRelease]-1a5497ab2da47bb4.js
+https://kraken.tech/_next/static/chunks/pages/press-releases/press-release/[pressRelease]-57cbbd86cccd581b.js
+https://kraken.tech/_next/static/chunks/pages/request-demo-47da9fdf6ad5dc7c.js
+https://kraken.tech/_next/static/chunks/pages/request-demo-8189c2b1945846bc.js
+https://kraken.tech/_next/static/chunks/pages/request-demo-a8d964f929d92f0d.js
+https://kraken.tech/_next/static/chunks/pages/request-demo-f2893906b37a9d26.js
+https://kraken.tech/_next/static/chunks/polyfills-42372ed130431b0a.js
+https://kraken.tech/_next/static/chunks/polyfills-5cd94c89d3acac5f.js
+https://kraken.tech/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+https://kraken.tech/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+https://kraken.tech/_next/static/chunks/webpack-003473b4e6591344.js
+https://kraken.tech/_next/static/chunks/webpack-63094901c021189b.js
+https://kraken.tech/_next/static/chunks/webpack-8cf92f6c9a1b60e0.js
+https://kraken.tech/_next/static/chunks/webpack-c93430406aa108b7.js
+https://kraken.tech/_next/static/chunks/webpack-dbca7c9a1026ae6e.js
+https://kraken.tech/_next/static/chunks/webpack-f2cc7d1d784d66df.js
+https://kraken.tech/_next/static/-cmZaxq-9J2-aMrqGiX3A/_buildManifest.js
+https://kraken.tech/_next/static/-cmZaxq-9J2-aMrqGiX3A/_ssgManifest.js
+https://kraken.tech/_next/static/gbITixEVUV871fB0RW3ZJ/_buildManifest.js
+https://kraken.tech/_next/static/gbITixEVUV871fB0RW3ZJ/_ssgManifest.js
+https://kraken.tech/_next/static/HghCOw-I-0xPZerzkGQ2u/_buildManifest.js
+https://kraken.tech/_next/static/HghCOw-I-0xPZerzkGQ2u/_middlewareManifest.js
+https://kraken.tech/_next/static/HghCOw-I-0xPZerzkGQ2u/_ssgManifest.js
+https://kraken.tech/_next/static/HqLxMWR2t3oVQCE6Xh6ar/_buildManifest.js
+https://kraken.tech/_next/static/HqLxMWR2t3oVQCE6Xh6ar/_ssgManifest.js
+https://kraken.tech/_next/static/iZ-rUoaIk6H6possZTFb9/_buildManifest.js
+https://kraken.tech/_next/static/iZ-rUoaIk6H6possZTFb9/_ssgManifest.js
+https://kraken.tech/_next/static/_JjlPVNHsFzwCxK3KmBel/_buildManifest.js
+https://kraken.tech/_next/static/_JjlPVNHsFzwCxK3KmBel/_middlewareManifest.js
+https://kraken.tech/_next/static/_JjlPVNHsFzwCxK3KmBel/_ssgManifest.js
+https://kraken.tech/_next/static/jztwnJefLgwDLs4hx5rIP/_buildManifest.js
+https://kraken.tech/_next/static/jztwnJefLgwDLs4hx5rIP/_ssgManifest.js
+https://kraken.tech/_next/static/kC5q3eS0U7cOV7Jm5XhND/_buildManifest.js
+https://kraken.tech/_next/static/kC5q3eS0U7cOV7Jm5XhND/_middlewareManifest.js
+https://kraken.tech/_next/static/kC5q3eS0U7cOV7Jm5XhND/_ssgManifest.js
+https://kraken.tech/_next/static/kN2bBjzjs6uVswkWkSf6T/_buildManifest.js
+https://kraken.tech/_next/static/kN2bBjzjs6uVswkWkSf6T/_ssgManifest.js
+https://kraken.tech/_next/static/lfm9BIewfBs181NQD2Dhy/_buildManifest.js
+https://kraken.tech/_next/static/lfm9BIewfBs181NQD2Dhy/_ssgManifest.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/_buildManifest.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/_ssgManifest.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/260-e7b4bbbb1f0989c9.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/29107295-a3480e51fe70b9c7.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/51-5b59981a82ec663e.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/713-4613d22765b5fb93.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/pages/404-08abeb4e53b8e02c.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/pages/blog-posts-3d0796e3a2cffc7f.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/pages/case-studies-992f7d3c79d00cb4.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/pages/_error-8447282b6bcee29e.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/pages/index-db787673d7e4bcfe.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/pages/jobs-1f16bd29168a57df.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/pages/press-releases-3a827bc139a107d0.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/pages/request-demo-b5682870532269eb.js
+https://kraken.tech/_next/static/lRBmQCCqE1kKlLGjLjXJC/static/chunks/pages/welcome-ae011ee5475d0e49.js
+https://kraken.tech/_next/static/MbJPwf7hs5eo4BBntBUpb/_buildManifest.js
+https://kraken.tech/_next/static/MbJPwf7hs5eo4BBntBUpb/_ssgManifest.js
+https://kraken.tech/_next/static/mbUXv8b18FO2_yoO1aoc-/_buildManifest.js
+https://kraken.tech/_next/static/mbUXv8b18FO2_yoO1aoc-/_ssgManifest.js
+https://kraken.tech/_next/static/media/asset-management.a87ba404.svg
+https://kraken.tech/_next/static/media/current-news-logo.f9d8e9ac.svg
+https://kraken.tech/_next/static/media/current-news-logo.f9d8e9ac.svg 1x, /_next/static/media/current-news-logo.f9d8e9ac.svg 2x
+https://kraken.tech/_next/static/media/customer-utilities.93171bb8.svg
+https://kraken.tech/_next/static/media/distribution-utilities.b095dc7c.svg
+https://kraken.tech/_next/static/media/eon.36ce7e5a.svg
+https://kraken.tech/_next/static/media/eon.6f96e789.svg
+https://kraken.tech/_next/static/media/eon-next.b3d428b4.jpg
+https://kraken.tech/_next/static/media/fan-club.119018f6.jpg
+https://kraken.tech/_next/static/media/good-energy.96fceca7.jpg
+https://kraken.tech/_next/static/media/kraken_tentacle.85635abd.svg
+https://kraken.tech/_next/static/media/octopus-energy-logo.5df1c0c3.svg
+https://kraken.tech/_next/static/media/offshore-wind.87e06548.svg
+https://kraken.tech/_next/static/media/origin.81469866.svg
+https://kraken.tech/_next/static/media/origin.9c774ef1.svg
+https://kraken.tech/_next/static/media/origin-net-promoter-score.ed5cc79d.svg
+https://kraken.tech/_next/static/media/road-to-net-zero.1d13115a.svg
+https://kraken.tech/_next/static/media/smartflex.a032f938.jpg
+https://kraken.tech/_next/static/media/support-user.0a4de8d1.svg
+https://kraken.tech/_next/static/media/support-user.0a4de8d1.svg 1x, /_next/static/media/support-user.0a4de8d1.svg 2x
+https://kraken.tech/_next/static/media/the-telegraph-logo.d4b094fd.svg
+https://kraken.tech/_next/static/media/the-telegraph-logo.d4b094fd.svg 1x, /_next/static/media/the-telegraph-logo.d4b094fd.svg 2x
+https://kraken.tech/_next/static/media/turbine.793a624a.svg
+https://kraken.tech/_next/static/media/turbine.793a624a.svg 1x, /_next/static/media/turbine.793a624a.svg 2x
+https://kraken.tech/_next/static/media/utility-week-logo.74aafc8f.svg
+https://kraken.tech/_next/static/media/utility-week-logo.74aafc8f.svg 1x, /_next/static/media/utility-week-logo.74aafc8f.svg 2x
+https://kraken.tech/_next/static/N4y1Z1p3Pgh467W9hsSQC/_buildManifest.js
+https://kraken.tech/_next/static/N4y1Z1p3Pgh467W9hsSQC/_ssgManifest.js
+https://kraken.tech/_next/static/NPpf14mlmrCeaKkth7aiF/_buildManifest.js
+https://kraken.tech/_next/static/NPpf14mlmrCeaKkth7aiF/_middlewareManifest.js
+https://kraken.tech/_next/static/NPpf14mlmrCeaKkth7aiF/_ssgManifest.js
+https://kraken.tech/_next/static/PCzCyLWWbh0h5HZGvEv0g/_buildManifest.js
+https://kraken.tech/_next/static/PCzCyLWWbh0h5HZGvEv0g/_ssgManifest.js
+https://kraken.tech/_next/static/QN5wVm8I7lzjWPuj3dd5g/_buildManifest.js
+https://kraken.tech/_next/static/QN5wVm8I7lzjWPuj3dd5g/_ssgManifest.js
+https://kraken.tech/_next/static/qsCCK1mSmgacQdZ5N9HJY/_buildManifest.js
+https://kraken.tech/_next/static/qsCCK1mSmgacQdZ5N9HJY/_ssgManifest.js
+https://kraken.tech/_next/static/rtx-zN46SRzUHXN9KQHVg/_buildManifest.js
+https://kraken.tech/_next/static/rtx-zN46SRzUHXN9KQHVg/_ssgManifest.js
+https://kraken.tech/_next/static/SXX_2qTq-JwpXt0RKcVrI/_buildManifest.js
+https://kraken.tech/_next/static/SXX_2qTq-JwpXt0RKcVrI/_ssgManifest.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/_buildManifest.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/_ssgManifest.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/260-a72dc1bb4ad913b1.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/606-b7982c31d0b76d6b.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/pages/404-d9f569eb7ddd70ae.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/pages/blog-posts-a2676b58bca05f48.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/pages/case-studies-c37aa82e808ae981.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/pages/energy-act-ukraine-fundraiser-44fa523d1ebe1ed0.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/pages/_error-77823ddac6993d35.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/pages/index-514cdee4a5dfd617.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/pages/press-releases-4a5cfee712aa5901.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/pages/request-demo-0cfb1ac9000871eb.js
+https://kraken.tech/_next/static/syIxgScGWTZb1lsRr21lf/static/chunks/pages/welcome-178b97249a470de2.js
+https://kraken.tech/_next/static/U4Q9-di4oNhMk2LMzjk02/_buildManifest.js
+https://kraken.tech/_next/static/U4Q9-di4oNhMk2LMzjk02/_ssgManifest.js
+https://kraken.tech/_next/static/VIzySckVVMt_QOZKx_VUO/_buildManifest.js
+https://kraken.tech/_next/static/VIzySckVVMt_QOZKx_VUO/_ssgManifest.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/_buildManifest.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/_ssgManifest.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/260-a72dc1bb4ad913b1.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/606-b7982c31d0b76d6b.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/pages/404-d9f569eb7ddd70ae.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/pages/blog-posts-973d5cbfc3d59f17.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/pages/case-studies-b93c628af2da9474.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/pages/energy-act-ukraine-fundraiser-df931475463fbfb8.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/pages/_error-77823ddac6993d35.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/pages/index-26c5e84a828e7474.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/pages/press-releases-9b3694842a647ddb.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/pages/request-demo-0cfb1ac9000871eb.js
+https://kraken.tech/_next/static/vthKBDOLTGj_VE_VHG8vI/static/chunks/pages/welcome-e3ba774697c43b31.js
+https://kraken.tech/_next/static/WYLc2gcQ2IMJbOxbrMrsA/_buildManifest.js
+https://kraken.tech/_next/static/WYLc2gcQ2IMJbOxbrMrsA/_ssgManifest.js
+https://kraken.tech/_next/static/yRb5-OQwKckFWnjjqLlEU/_buildManifest.js
+https://kraken.tech/_next/static/yRb5-OQwKckFWnjjqLlEU/_ssgManifest.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/_buildManifest.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/_ssgManifest.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/728-4498b85ebc1484b2.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/73-4397f3a22fee8201.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/83d054cf-1a33789d35c53a80.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/995-0d69f50aa63ebf4e.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/pages/blog-posts-8913745a6587bda6.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/pages/case-studies-eecd3cb97d4da0d8.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/pages/_error-ee5b5fb91d29d86f.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/pages/index-21f4bf2689d45036.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/pages/press-releases-8f09d933d942f942.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/pages/request-demo-ebeed93995b5968c.js
+https://kraken.tech/_next/static/zLh-QSrYXqlymhoN_3X6Y/static/chunks/pages/xcel-de4775fbd2a48d7d.js
+https://kraken.tech/_next/static/ZYvR7-gZArpZw-TSMJBin/_buildManifest.js
+https://kraken.tech/_next/static/ZYvR7-gZArpZw-TSMJBin/_ssgManifest.js
+https://kraken.tech/offshore-wind
+https://kraken.tech/offshore-wind-farm-construction
+https://kraken.tech/press
+https://kraken.tech/press-releases
+https://kraken.tech/press-releases/kraken-acquires-jedlix
+https://kraken.tech/press-releases/kraken-opens-first-uk-entech-superhub?utm_source=ecodansocial&utm_medium=&utm_term=&utm_content=&utm_campaign=
+https://kraken.tech/press-releases/kraken-unleashes-europes-biggest-battery
+https://kraken.tech/press-releases/mercury-consortium-launched-to-boost-adoption-of-clean-energy-tech
+https://kraken.tech/press-releases/national-grid-kraken
+https://kraken.tech/press-releases/press-release/kraken-s-customer-platform-signs-first-north-american-utility-licensee-with-saint-john-energy
+https://kraken.tech/privacy-notice
+https://kraken.tech/&quot;&gt;Kraken&lt;/a&gt;&lt;span
+https://kraken.tech/?ref=blog.europython.eu
+https://kraken.tech/?ref=climatetechlist.com&utm_source=climatetechlist.com&utm_medium=referral
+https://kraken.tech/?ref=jprutha.com
+https://kraken.tech/?ref=machine.news
+https://kraken.tech/request-demo
+https://kraken.tech/sitemap.xml
+https://kraken.tech/subprocessors
+https://kraken.tech/?trk=article-ssr-frontend-pulse_little-text-block
+https://kraken.tech/trust-centre
+https://kraken.tech/?utm_campaign=Kraken - Q3 2024 Podcast Ads&utm_source=Podcast Ad Campaign&utm_medium=podcast ads
+https://kraken.tech/?utm_medium=Social&utm_source=Twitter
+https://kraken.tech/?utm_source=himalayas.app&utm_medium=himalayas.app&utm_campaign=himalayas.app&ref=himalayas.app&source=himalayas.app
+https://kraken.tech/?utm_source=otta.com
+https://kraken.tech/?utm_source=website&utm_medium=leaddev&utm_campaign=sponsorship
+https://kraken.tech/?utm_source=www.michaelinasia.com&utm_medium=referral&utm_campaign=japan-and-taiwan-personal-finance-tips-japanese-permanent-residency-documents
+https://kraken.tech/?utm_term=kraken platform octopus&utm_source=adwords&utm_medium=ppc&utm_campaign=&hsa_cam=17082468911&hsa_grp=136877907979&hsa_mt=p&hsa_src=g&hsa_ad=597751977744&hsa_acc={6800166228}&hsa_net=adwords&hsa_kw=kraken platform octopus&hsa_tgt=kwd-1656715256875&hsa_ver=3&gad=1&gclid=Cj0KCQjw_O2lBhCFARIsAB0E8B-UolJUKM7z_4OVZQxJVjG09_dFgYl8OJg0bsOIouyj5m96w9bK4nwaAtkwEALw_wcB
+https://kraken.tech/_vercel/speed-insights/script.js
+https://kraken.tech/water-utilities
+https://kraken.tech/.well-known/ai-plugin.json
+https://kraken.tech/.well-known/assetlinks.json
+https://kraken.tech/.well-known/dnt-policy.txt
+https://kraken.tech/.well-known/gpc.json
+https://kraken.tech/.well-known/nodeinfo
+https://kraken.tech/.well-known/openid-configuration
+https://kraken.tech/.well-known/security.txt
+https://kraken.tech/.well-known/trust.txt
+https://kraken.tech/working-at-kraken
+https://legacy-developer.kraken.tech/oede/developer-guide
+https://legacy-developer.kraken.tech/oede/static/Chromatophore-Bold.woff2
+https://legacy-developer.kraken.tech/oede/static/Chromatophore-Light.woff2
+https://legacy-developer.kraken.tech/oede/static/Chromatophore-Medium.woff2
+https://legacy-developer.kraken.tech/oede/static/default-styling.min.css
+https://legacy-developer.kraken.tech/oede/static/favicon.ico
+https://legacy-developer.kraken.tech/oede/static/layout.min.css
+https://legacy-developer.kraken.tech/oede/static/main.min.css
+https://legacy-developer.kraken.tech/oede/static/styling.min.css
+https://legacy-developer.kraken.tech/oede/static/tako.umd.min.js
+https://legacy-developer.kraken.tech/oegb/developer-guide
+https://legacy-developer.kraken.tech/oegb/static/Chromatophore-Bold.woff2
+https://legacy-developer.kraken.tech/oegb/static/Chromatophore-Medium.woff2
+https://legacy-developer.kraken.tech/oegb/static/default-styling.min.css
+https://legacy-developer.kraken.tech/oegb/static/favicon.ico
+https://legacy-developer.kraken.tech/oegb/static/layout.min.css
+https://legacy-developer.kraken.tech/oegb/static/logo.svg
+https://legacy-developer.kraken.tech/oegb/static/main.min.css
+https://legacy-developer.kraken.tech/oegb/static/styling.min.css
+https://legacy-developer.kraken.tech/oegb/static/tako.umd.min.687263dc6965.js
+https://login.argocd.kraken.tech/favicon.ico
+https://login.argocd.kraken.tech/null/null/css/bootstrap.min.css
+https://login.argocd.kraken.tech/null/null/css/cognito-login.css
+https://login.argocd.kraken.tech/null/null/js/amazon-cognito-advanced-security-data.min.js
+https://login.argocd.kraken.tech/null/null/js/jquery-3.5.1.min.js
+https://prometheus.leep.kraken.tech/
+https://registry.services.kraken.tech/
+https://url1784.st.kraken.tech/
+https://url1784.st.kraken.tech/ls/click?upn=u001.HPVSnMpbzsVOgntaZ5NwBjB00RiInllO22mTmexgNvDQtF9foGI2VKvvlolDfTUUBxxD-2BBFYBOfkD6KO2Za-2FKmbZyEvqIhEgdws-2BI9yua1BcOnsU7Nr0pazibxNq38O4Yh5eeaEFeCObVddxypDK0w-3D-3Dn2i2_n6qbRE-2Bt6qY-2F3OV11Z-2FyPIwx07cepl-2FIRaB9ZTqmaLkr79iAkHdJaZFdynpZF4wgcWcYBfSsA3mrwsuVoYDPxJpookHbKvVf7P5GjCa0jj28S9Y8O3iQYvrnDI1zyG-2FAS5D8UYiHp3jTGxfU5BwAxThGm1GxKhjDEdoaGsFFhqHgG8kMcuCOH3F8bunwkTnO-2BwE-2FPegNoPqe65hVqnsTjNVXYKHaGzedd20Fe5CAdxPUooFnbVG-2BG0qYYNU0S2v-2F8Q-2FZ7k-2Fp950sowjpYKfVAoGFY9aNC1Jv4ic2HJaEPNUMw-2BO8tk3F8-2BCq-2BQwsOE-2Fb
+https://www.prometheus.leep.kraken.tech/
+https://www.registry.services.kraken.tech/
+http://tako.kraken.tech/
+http://tako.kraken.tech/gh-pages/styles.css
+http://tako.kraken.tech/gh-pages/tako.min.css
+http://tako.kraken.tech/gh-pages/tako.min.mjs
+http://url1784.st.kraken.tech/
+http://url1784.st.kraken.tech/asm/unsubscribe/
+http://url1784.st.kraken.tech/wf/open
+http://versions.kraken.tech/
+http://www.prometheus.leep.kraken.tech/
+http://www.registry.services.kraken.tech/

@@ -75,11 +75,9 @@ pwl.kraken.tech
 registry-eks.services.kraken.tech
 registry.services.kraken.tech
 run-trigger-approver.services.kraken.tech
-sentby.spotler.com
 services.kraken.tech
 siren.kraken.tech
 spacelift.kraken.tech
-spotler.com
 st.kraken.tech
 svc.ktl-external.kraken.tech
 svc.navigator.cuckoogb.kraken.tech
@@ -89,7 +87,6 @@ talktalk.kraken.tech
 uk.flow.kraken.tech
 url1784.st.kraken.tech
 url7485.st.kraken.tech
-url.uk.m.mimecastprotect.com
 versions.kraken.tech
 wayfinding.kraken.tech
 wayfinding.kraken.tech	
