@@ -1,0 +1,94 @@
+
+Target ==> kraken.tech
+
+Searching in the CertSpotter API... 🔍
+Searching in the Crtsh database API... 🔍
+Searching in the Urlscan.io API... 🔍
+Searching in the Threatcrowd API... 🔍
+Searching in the Sublist3r API... 🔍
+Searching in the AnubisDB API... 🔍
+Searching in the Archive.org API... 🔍
+Searching in the Threatminer API... 🔍
+❌ A error has occurred while querying the Crtsh database. Error: db error: ERROR: Sorry, the "certificate_identity" table has been superseded by a Full Text Search index on the "certificate" table.. Trying the API method...
+Searching in the Crtsh API... 🔍
+
+
+apac.demo.kraken.tech
+evdb-reef.services.kraken.tech
+demo.kraken.tech
+click.pwl.kraken.tech
+api.docs.kraken.tech
+auth.talktalk.kraken.tech
+int.coverage.services.kraken.tech
+tako.kraken.tech
+mta-sts.kraken.tech
+st.kraken.tech
+versions.kraken.tech
+pwl.kraken.tech
+click.leep.kraken.tech
+mq.apac.demo.kraken.tech
+cuckoogb.kraken.tech
+kraken.tech
+deep.ktl-external.kraken.tech
+docs.kraken.tech
+oesde.kraken.tech
+uk.flow.kraken.tech
+navigator.cuckoogb.kraken.tech
+dashboard.kraken.tech
+registry-eks.services.kraken.tech
+deployment-dyff.kraken.tech
+mq.st.kraken.tech
+assets.kraken.tech
+cd.oesgb.kraken.tech
+e.kraken.tech
+cd.int.ktl-external.kraken.tech
+wayfinding.kraken.tech
+data.pwl.kraken.tech
+url1784.st.kraken.tech
+latitude.kraken.tech
+aquarium.kraken.tech
+prometheus.oesde.kraken.tech
+meetings.kraken.tech
+cd.services.kraken.tech
+data.st.kraken.tech
+www.breakglass2.kraken.tech
+cd.oesde.kraken.tech
+legacy-developer.kraken.tech
+ktl-external.kraken.tech
+developer.apac.demo.kraken.tech
+breakglass1.kraken.tech
+mq.leep.kraken.tech
+mq.cuckoogb.kraken.tech
+announcements.kraken.tech
+argo-monitor.kraken.tech
+url7485.st.kraken.tech
+spacelift.kraken.tech
+www.kraken.tech
+breakglass2.kraken.tech
+grafana.services.kraken.tech
+info.kraken.tech
+oesgb.kraken.tech
+evdb.services.kraken.tech
+leep.kraken.tech
+edi.pwl.kraken.tech
+api-status.kraken.tech
+svc.ktl-external.kraken.tech
+login.argocd.kraken.tech
+registry.services.kraken.tech
+int.apac.demo.kraken.tech
+talktalk.kraken.tech
+approveman.kraken.tech
+prometheus.oesgb.kraken.tech
+svc.navigator.cuckoogb.kraken.tech
+mq.pwl.kraken.tech
+energyaustralia.demo.kraken.tech
+mq.talktalk.kraken.tech
+cd.navigator.cuckoogb.kraken.tech
+payments.kraken.tech
+engineering.kraken.tech
+edi.st.kraken.tech
+
+Job finished in 65 seconds.
+
+Good luck Hax0r 💀!
+

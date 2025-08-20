@@ -1,0 +1,10 @@
+dashboard.kraken.tech	
+latitude.kraken.tech	
+wayfinding.kraken.tech	
+meetings.kraken.tech	
+engineering.kraken.tech	
+developers.kraken.tech	
+legacy-developer.kraken.tech	
+tako.kraken.tech	
+deployment-dyff.kraken.tech	
+info.kraken.tech	
