@@ -1,0 +1,22 @@
+kustomer.com
+ ▌     ▌          ▌    ▌          ▗
+	▞▀▌▄▜▀ ▛▀▖▌ ▌▛▀▖  ▞▀▘▌ ▌▛▀▖▞▀▌▞▀▖▛▚▀▖▝▀▖▄ ▛▀▖▞▀▘
+	▚▄▌▐▐ ▖▌ ▌▌ ▌▌ ▌  ▝▀▖▌ ▌▌ ▌▌ ▌▌ ▌▌▐ ▌▞▀▌▐ ▌ ▌▝▀▖
+	▗▄▘▀▘▀ ▘ ▘▝▀▘▀▀   ▀▀ ▝▀▘▀▀ ▝▀▘▝▀ ▘▝ ▘▝▀▘▀▘▘ ▘▀▀
+	       by @gwendallecoguic                          
+
+[1;37m[15:39:43] Domain:kustomer.com, Output:/home/kali/Documents/bug_bounty/kustomer/kustomer.com.txt[0m
+[1;37m[15:39:43] Tokens:1, Delay:2200ms[0m
+[1;37m[15:39:43] Token rehab:true, Quick mode:false[0m
+[1;37m[15:39:43] Languages:20, Noise:7[0m
+[1;38;5;245m[15:39:43] keyword:%22kustomer.com%22, sort:indexed, order:desc, language:, noise:[][0m
+[1;38;5;245m[15:39:45] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22kustomer.com%22&page=1[0m
+[1;38;5;245m[15:39:47] current search returned 438 results[0m
+[1;33m[15:39:48] https://github.com/konfig-dev/konfig/blob/bec3d36b9a341f30707a4ab3d9de6c4154809ada/sdks/db/spec-data/from-custom-request_kustomer.com.json[0m
+[1;32m[15:39:48] kustomer.com[0m
+[1;38;5;245m[15:39:52] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22kustomer.com%22&page=2[0m
+[1;38;5;245m[15:39:58] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22kustomer.com%22&page=3[0m
+[1;38;5;245m[15:40:06] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22kustomer.com%22&page=4[0m
+[1;38;5;245m[15:40:11] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22kustomer.com%22&page=5[0m
+[1;37m[15:40:15] 1 searches performed[0m
+[1;37m[15:40:15] 1 subdomains found[0m
