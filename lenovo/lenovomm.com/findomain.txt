@@ -1,0 +1,21 @@
+Target ==> lenovomm.com
+uefsr.lenovomm.com
+osfsr.lenovomm.com
+appdaily-apk.lenovomm.com
+pushapi.lenovomm.com
+uss-us.lenovomm.com
+appdaily-apk-test.lenovomm.com
+mbgtest.lenovomm.com
+weatherbd1.lenovomm.com
+fsr.lenovomm.com
+www2-dandomaineronfire.xue.lenovomm.com
+www.lenovomm.com
+appdaily-img-test.lenovomm.com
+rag.mbgtest.lenovomm.com
+chifsr.lenovomm.com
+weatherbd2.lenovomm.com
+uki.lenovomm.com
+susapi.lenovomm.com
+apk4.lenovomm.com
+appdaily-img.lenovomm.com
+cloud-rest.mbgtest.lenovomm.com

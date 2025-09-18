@@ -1,0 +1,18 @@
+
+
+	   ▗▐  ▌     ▌          ▌    ▌          ▗
+	▞▀▌▄▜▀ ▛▀▖▌ ▌▛▀▖  ▞▀▘▌ ▌▛▀▖▞▀▌▞▀▖▛▚▀▖▝▀▖▄ ▛▀▖▞▀▘
+	▚▄▌▐▐ ▖▌ ▌▌ ▌▌ ▌  ▝▀▖▌ ▌▌ ▌▌ ▌▌ ▌▌▐ ▌▞▀▌▐ ▌ ▌▝▀▖
+	▗▄▘▀▘▀ ▘ ▘▝▀▘▀▀   ▀▀ ▝▀▘▀▀ ▝▀▘▝▀ ▘▝ ▘▝▀▘▀▘▘ ▘▀▀
+	       by @gwendallecoguic                          
+
+[1;37m[13:58:37] Domain:motorola.com.br, Output:/home/kali/Documents/bug_bounty/lenovo/motorola.com.br/motorola.com.br.txt[0m
+[1;37m[13:58:37] Tokens:1, Delay:2200ms[0m
+[1;37m[13:58:37] Token rehab:true, Quick mode:false[0m
+[1;37m[13:58:37] Languages:20, Noise:7[0m
+[1;38;5;245m[13:58:37] keyword:%22motorola.com.br%22, sort:indexed, order:desc, language:, noise:[][0m
+[1;38;5;245m[13:58:40] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22motorola.com.br%22&page=1[0m
+[1;38;5;245m[13:58:41] current search returned 145 results[0m
+[1;38;5;245m[13:58:46] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22motorola.com.br%22&page=2[0m
+[1;37m[13:58:53] 1 searches performed[0m
+[1;37m[13:58:53] 0 subdomains found[0m

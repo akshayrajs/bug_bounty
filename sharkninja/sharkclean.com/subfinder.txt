@@ -1,0 +1,67 @@
+
+               __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
+[[34mINF[0m] Loading provider config from /home/kali/.config/subfinder/provider-config.yaml
+[[34mINF[0m] Enumerating subdomains for sharkclean.com
+[[34mINF[0m] Found 54 subdomains for sharkclean.com in 11 seconds 909 milliseconds
+apps.sharkclean.com
+origin-www.sharkclean.com
+data.sharkclean.com
+master.sharkclean.com
+m.sharkclean.com
+support.sharkclean.com
+ns3.sharkclean.com
+refer.sharkclean.com
+azure-m.sharkclean.com
+ns1.sharkclean.com
+ns2.sharkclean.com
+sharkclean.com
+origin-m.sharkclean.com
+www5.sharkclean.com
+links.sharkclean.com
+r2.sharkclean.com
+www6.sharkclean.com
+uat.sharkclean.com
+preview-tags.sharkclean.com
+azure-www.sharkclean.com
+ns5.sharkclean.com
+uat.direct.sharkclean.com
+offer.sharkclean.com
+m.test.sharkclean.com
+m.uat.sharkclean.com
+qr.sharkclean.com
+checkout.sharkclean.com
+floorcarebootcamp.sharkclean.com
+test-m.outlet.sharkclean.com
+mobile.sharkclean.com
+www.checkout.sharkclean.com
+www.m.test.sharkclean.com
+fdm4-m.sharkclean.com
+fonts.sharkclean.com
+www.sharkclean.com
+appsupport.sharkclean.com
+bpgeo.sharkclean.com
+content.sharkclean.com
+cfs.sharkclean.com
+rvstatic.sharkclean.com
+test.sharkclean.com
+apr0.sharkclean.com
+amc.sharkclean.com
+m1.sharkclean.com
+cdn.sharkclean.com
+azure-direct.sharkclean.com
+app2dev.sharkclean.com
+tags.sharkclean.com
+ns4.sharkclean.com
+app2test.sharkclean.com
+mikmak.sharkclean.com
+direct.sharkclean.com
+intercept.sharkclean.com
+origin-app2.sharkclean.com

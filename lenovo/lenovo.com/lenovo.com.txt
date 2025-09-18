@@ -1,0 +1,593 @@
+shop.lenovo.com
+www.lenovo.com
+pcsupport.lenovo.com
+lenovo.com
+support.lenovo.com
+privapp-permissions-udc.lenovo.com
+cn-www.lenovo.com
+www3.lenovo.com
+�▚▀▖▝▀▖▄ ▛▀▖▞▀▘
+	▚▄▌▐▐ ▖▌ ▌▌ ▌▌ ▌  ▝▀▖▌ ▌▌ ▌▌ ▌▌ ▌▌▐ ▌▞▀▌▐ ▌ ▌▝▀▖
+	▗▄▘▀▘▀ ▘ ▘▝▀▘▀▀   ▀▀ ▝▀▘▀▀ ▝▀▘▝▀ ▘▝ ▘▝▀▘▀▘▘ ▘▀▀
+	       by @gwendallecoguic                          
+
+[1;37m[12:15:59] Domain:lenovo.com, Output:/home/kali/Documents/bug_bounty/lenovo/lenovo.com/lenovo.com.txt[0m
+[1;37m[12:15:59] Tokens:1, Delay:2200ms[0m
+[1;37m[12:15:59] Token rehab:true, Quick mode:false[0m
+[1;37m[12:15:59] Languages:20, Noise:7[0m
+[1;38;5;245m[12:15:59] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:, noise:[][0m
+[1;38;5;245m[12:16:01] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22&page=1[0m
+[1;38;5;245m[12:16:02] current search returned 10440 results, language filter added for later search[0m
+[1;38;5;245m[12:16:10] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22&page=2[0m
+[1;33m[12:16:11] https://github.com/pde/tosback2-data/blob/15c5d28f3bd989e235ccf5b0135c73950a02dd30/crawls/shop.lenovo.com/Privacy-Policy/raw/www.lenovo.com/css/homepage.css[0m
+[1;32m[12:16:11] shop.lenovo.com[0m
+[1;32m[12:16:11] www.lenovo.com[0m
+[1;33m[12:16:12] https://github.com/sysang/article-body-recognizer/blob/53599aaa44030d45f5cc6d469716436378bc9f1a/article_body_recognizer/tmp/topm_s500_x50_n10/pcsupport.lenovo.com-ph-en.html[0m
+[1;32m[12:16:12] pcsupport.lenovo.com[0m
+[1;33m[12:16:13] https://github.com/ab/domain-analysis/blob/ff6442533a2a39beb6c4cfb255e17929391e3c69/whois/lenovo.com.json[0m
+[1;32m[12:16:13] lenovo.com[0m
+[1;31m[12:16:17] Get "https://raw.githubusercontent.com/blami/cheatsheets/4b75ba73a49d6da95277b5c15d030de35fceec8d/lenovo.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:17] Get "https://raw.githubusercontent.com/fkie-cad/nvd-json-data-feeds/4b4a8c9b314746649f6d3201977462715015bd7a/CVE-2019/CVE-2019-61xx/CVE-2019-6182.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:17] Get "https://raw.githubusercontent.com/chaslinux/pull-m72e-tiny/661cac1c6ce1d8802c754eab8f1ebe0d3cffd5ea/pull-m72e-bios.sh": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:17] Get "https://raw.githubusercontent.com/fkie-cad/nvd-json-data-feeds/4b4a8c9b314746649f6d3201977462715015bd7a/CVE-2017/CVE-2017-37xx/CVE-2017-3758.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:17] Get "https://raw.githubusercontent.com/pickfire/www/6c9a3527070eed9ac8216041e3285b7e065227f1/posts/linux/setup.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:17] Get "https://raw.githubusercontent.com/tech234a/annotation-urls/5c0300471b87c6a5f3dd8883484f8155b5ff33d7/xZ_urls.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/honwen/openwrt-dnsmasq-extra/183df9eecb6204f2e65d39f660a2b2cee81abe80/dnsmasq-extra/files/data/adblock.lite": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/cirosantilli/expired-domain-names-by-day-2016/0fc37ffa7608782dacf9e5f8bd82afd598c65ddf/11/14/33": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/cirosantilli/expired-domain-names-by-day-2016/0fc37ffa7608782dacf9e5f8bd82afd598c65ddf/03/05/30": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/uustory/u8-xiaohei.github.com/68cbca370f519a9fe458351135162f50bd43e165/u8server.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/fkie-cad/nvd-json-data-feeds/4b4a8c9b314746649f6d3201977462715015bd7a/CVE-2018/CVE-2018-161xx/CVE-2018-16104.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/rickhallett/big-ram/830383b0cc499a2022f2d0a83fa98cab70c7612d/lib/mini-pcs.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/chhans/tor-automation/6c336094e68b1467fd760fb0ef8d9d01f7c88c84/BasicResults/2015-04-20%2013:57:29.764123": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/chirag127/adblock/fe9df8f3013c4585634ff8fc9278520602e266f4/without_domains/easyprivacy.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/chhans/tor-automation/6c336094e68b1467fd760fb0ef8d9d01f7c88c84/BasicResults/2015-04-20%2013:57:10.641114": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/BlessedRebuS/DPDK-P4-Testbed/5d66dc447b9246b173493e97397958f9a8d48bd9/tesi.bib": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/5dbf758ede7c6efaf431bf8c1e9f7e72be206a1a/platforms/mac_v3/patches/18_optimized/18_optimized-s-1757275869-3600.patch": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/justakazh/CVE_Database/06bd07f32c89b43f30d59ff450dfbb661e471cbe/2017/CVE-2017-3757.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/justakazh/CVE_Database/06bd07f32c89b43f30d59ff450dfbb661e471cbe/2020/CVE-2020-8386.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/justakazh/CVE_Database/06bd07f32c89b43f30d59ff450dfbb661e471cbe/2020/CVE-2020-8370.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/AdguardTeam/AdguardBrowserExtension/ea4bb6bad7e9f8015a71ccf4bbd108e88c56eb74/Extension/filters/chromium/filter_17.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/trickest/cve/0a67f86c4cf22cfc1a286a1dde1c1902a71cf415/2019/CVE-2019-5665.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:18] Get "https://raw.githubusercontent.com/linuxboot/heads/440288edb32a69c9d08d75fe192a1a5e27d60855/blobs/xx20/readme.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;38;5;245m[12:16:21] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22&page=3[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/ruslangaifullin94/domains_to_allow/2dd4648db90729bbd18d960fde9fb104ef2274a1/list": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/justakazh/CVE_Database/06bd07f32c89b43f30d59ff450dfbb661e471cbe/2014/CVE-2014-8730.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/gdiaz384/ADKTools/e37f722f2668c06d9986ecb000daf11d531c999a/README.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/WebAppSecProj/ResExtractor/5c478567d7f4d5f25bcb3a0dadacc67e9d0328b6/db/benign_url/CN.csv": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/tholian-network/vulnerabilities/cd8798a37e6d58633681c9596bee14e4189ad0e9/database/vulnerability/CVE-2021-3617.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/tholian-network/vulnerabilities/cd8798a37e6d58633681c9596bee14e4189ad0e9/database/vulnerability/CVE-2017-3774.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/tholian-network/vulnerabilities/cd8798a37e6d58633681c9596bee14e4189ad0e9/database/vulnerability/CVE-2019-0121.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/k4io/trap/7deb79528185614cb68e811db37182bf656fcb3c/keksd/Methods/open%20redirects.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/MaiLiJian-CN/AllCode/89acfadd7eacc1808abcba7e658f94b86f163e2d/GoLang/medical_chaincode/write_ledger.go": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/Imlossss/mlcache_bandit/dc43fd3b84e1d7808b26024e7743e13f8a0e57eb/src/Documentation/laptops/thinkpad-acpi.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/yto9/gatsby-netlify-cms/4b135d8c2ac497aaa3703eecc963ec22b0032870/src/pages/blog/2019-06-18-thinkpad-a285-kannkyoukoutiku.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/opencve/opencve-kb/f53d62608934e2bf29a533e231fef8a4a446b691/2022/CVE-2022-3430.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/junkhack/junkhack.gpl.jp/9b59e62ddb3de4c461857b5e52ca814aa8a4d4b1/category/win10/index.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/betterkit/betterkit.github.io/c950d5ab2ccd8659929a3edf57d5fabaf03ade4a/static/fragment/soft.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/wustl-pctg/I-Cilk/27199bdd408750e7318a0d42aae88c620352987b/proxy_and_jsched/drivercode/sites/sizesource.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/alan0610/IT-Crowd/0e28c2731bfbdfde056ba4f214be9aba13fc5e9d/backend/seeders/20230906215517-demo-product.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/typesdk/TypeSDK/c98c958dd4b79ffc5551a80ee123afb9131c9fc4/TypeSDK_Package/share/SDK/Channel_SDK/Lenovo/2.6.5/SDK/res/values-zh-rTW/com.lenovo.lsf.strings.xml": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/common-repository/adsensei-b30/c9bfb8a97184ae7c3914b524f90017845d252e96/admin/includes/mobile-detect.php": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/SpecterShell/Dumplings/24f112e8cba3ba88a19204875cf2c1e7366c672f/Tasks/Lenovo.SLBrowser/Log_20250820T071338Z.yaml": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/marcvanandel/local-dev-env/047934f5207b47fcda9a7c385df4651caaf37d87/LenovoP52.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/nomi-sec/NVD-Database/6524b649186c1813ce0a582737ddd19ed81fe506/2023/CVE-2023-29057.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/codeurjc/linux-bugs/8323a9e4c778557b0e49d42827f9d1afd3c98062/lts-finder/cache/ChangeLog-4.19.190.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/heroanswer/vulnerability_library/b0feb30d584332ec3058495ec9860068cb10dfa1/%E5%9C%9F%E5%8F%B8.csv": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/Airuop/archive/5eb01bbc046670c72e6467f43242121763ab16ee/update/2311/231106_0656M.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/Airuop/archive/5eb01bbc046670c72e6467f43242121763ab16ee/update/2310/231027_0256M.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/Airuop/archive/5eb01bbc046670c72e6467f43242121763ab16ee/update/2310/231028_2001M.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:31] Get "https://raw.githubusercontent.com/nvanexan/nve2024/60be6a4fd414e6040a21928fe51e05c337cedcba/src/content/changelogs/2024-04.mdoc": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:32] Get "https://raw.githubusercontent.com/Airuop/archive/5eb01bbc046670c72e6467f43242121763ab16ee/update/2311/231104_1056M.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:32] Get "https://raw.githubusercontent.com/Airuop/archive/5eb01bbc046670c72e6467f43242121763ab16ee/update/2311/231104_0656M.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:36] Get "https://raw.githubusercontent.com/opencve/opencve-kb/f53d62608934e2bf29a533e231fef8a4a446b691/2022/CVE-2022-3611.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:36] Get "https://raw.githubusercontent.com/gmh5225/CVE-full_database/8bb23ee35fceed814616262943b02e50b21dde0a/humain/2020/CVE-2020-0594.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:36] Get "https://raw.githubusercontent.com/gmh5225/CVE-full_database/8bb23ee35fceed814616262943b02e50b21dde0a/humain/2020/CVE-2020-8317.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:36] Get "https://raw.githubusercontent.com/SulemanAhmadd/web-scraping-framework/2c4b3a6e6c48825abe9564f9edb404c86222f177/input_data_500.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:36] Get "https://raw.githubusercontent.com/Patrowl/PatrowlHearsData/351f20860453f7e0cb75a01f9e41757bd11c01ea/CVE/data/2019/CVE-2019-6156.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:36] Get "https://raw.githubusercontent.com/gmh5225/CVE-full_database/8bb23ee35fceed814616262943b02e50b21dde0a/humain/2018/CVE-2018-12224.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:36] Get "https://raw.githubusercontent.com/NetAppDocs/beegfs.de-de/716baeabfd1c4862f829fd4c506f5f41479f7022/second-gen/beegfs-deploy-setup-nodes.adoc": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:36] Get "https://raw.githubusercontent.com/NetAppDocs/beegfs.fr-fr/88fcf92bb3e0eb2cbd1b359ee525f4dcf8a1a418/second-gen/beegfs-deploy-setup-nodes.adoc": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:36] Get "https://raw.githubusercontent.com/mwrnd/innova2_flex_xcku15p_notes/0afe85110cf231eef42283eb208e81ebf1a25aff/README.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:36] Get "https://raw.githubusercontent.com/bopopescu/Cloud-User-Management/390988bf4915a276c7bf8d96b62c3051c17d9e6e/kolla-docker/zun/AUTHORS": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:37] Get "https://raw.githubusercontent.com/youmengxuefei/wooyun/dd3466ed9956a287dbcaf7b2f33bf5fc276e14e2/bugs/wooyun-2011-03384.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:37] Get "https://raw.githubusercontent.com/svmiller/svmiller.github.io/4d0d1165df375ce5183144e02b9a48f5aa0df64b/_posts/2019-07-09-notes-to-self-new-linux-installation-r-ubuntu.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:38] Get "https://raw.githubusercontent.com/MobyDick-CodeQLDB/moby-19.03.13/4956533d3846a5b44269adc93340c0315b81c38b/.mailmap": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:38] Get "https://raw.githubusercontent.com/ghostnothing/paper_file/8493cba9c221ed9cd82e08428900638a3f758b50/aqn_spider/%E8%81%94%E6%83%B3LSE%E5%AD%98%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E%20%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E4%B9%9F%E6%97%A0%E6%B3%95%E6%B6%88%E9%99%A4.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:38] Get "https://raw.githubusercontent.com/Noki3322/noki3322.github.io/248f43295ce795fbc8875809c2360871b1b71efc/en/caseDetail.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;38;5;245m[12:16:40] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22&page=4[0m
+[1;31m[12:16:48] Get "https://raw.githubusercontent.com/hirdyanshKanethia/hyprland_dotfiles/be9b33438065f0b08606d1553c3b0281c0cf79ae/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.lenovo.com_0.indexeddb.leveldb/LOG": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:16:49] Get "https://raw.githubusercontent.com/olbat/nvdcve/9a61e4c49747a1182b1d62e78449ba32334f76e9/nvdcve/CVE-2017-3750.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;38;5;245m[12:16:51] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22&page=5[0m
+[1;38;5;245m[12:16:59] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22&page=6[0m
+[1;38;5;245m[12:17:06] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22&page=7[0m
+[1;38;5;245m[12:17:12] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22&page=8[0m
+[1;38;5;245m[12:17:19] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22&page=9[0m
+[1;33m[12:17:22] https://github.com/sysang/article-body-recognizer/blob/53599aaa44030d45f5cc6d469716436378bc9f1a/article_body_recognizer/tmp/topm_s500_x50_n10/support.lenovo.com-vn-en%3FipromoID=ftv_espot4_Services.html[0m
+[1;32m[12:17:22] support.lenovo.com[0m
+[1;38;5;245m[12:17:30] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22&page=10[0m
+[1;38;5;245m[12:17:33] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:JavaScript, noise:[][0m
+[1;38;5;245m[12:17:36] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JavaScript&page=1[0m
+[1;38;5;245m[12:17:37] current search returned 368 results[0m
+[1;38;5;245m[12:17:41] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JavaScript&page=2[0m
+[1;38;5;245m[12:17:47] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JavaScript&page=3[0m
+[1;38;5;245m[12:17:55] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JavaScript&page=4[0m
+[1;38;5;245m[12:18:00] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Python, noise:[][0m
+[1;38;5;245m[12:18:03] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Python&page=1[0m
+[1;38;5;245m[12:18:04] current search returned 332 results[0m
+[1;38;5;245m[12:18:14] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Python&page=2[0m
+[1;38;5;245m[12:18:23] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Python&page=3[0m
+[1;38;5;245m[12:18:31] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Python&page=4[0m
+[1;38;5;245m[12:18:36] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Java, noise:[][0m
+[1;38;5;245m[12:18:39] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Java&page=1[0m
+[1;38;5;245m[12:18:40] current search returned 648 results[0m
+[1;38;5;245m[12:18:44] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Java&page=2[0m
+[1;38;5;245m[12:18:50] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Java&page=3[0m
+[1;38;5;245m[12:18:56] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Java&page=4[0m
+[1;38;5;245m[12:19:01] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Java&page=5[0m
+[1;38;5;245m[12:19:09] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Java&page=6[0m
+[1;38;5;245m[12:19:15] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Java&page=7[0m
+[1;38;5;245m[12:19:19] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Go, noise:[][0m
+[1;38;5;245m[12:19:21] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Go&page=1[0m
+[1;38;5;245m[12:19:23] current search returned 172 results[0m
+[1;38;5;245m[12:19:29] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Go&page=2[0m
+[1;38;5;245m[12:19:31] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Ruby, noise:[][0m
+[1;38;5;245m[12:19:33] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Ruby&page=1[0m
+[1;38;5;245m[12:19:34] current search returned 23 results[0m
+[1;38;5;245m[12:19:34] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:PHP, noise:[][0m
+[1;38;5;245m[12:19:37] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:PHP&page=1[0m
+[1;38;5;245m[12:19:39] current search returned 872 results[0m
+[1;38;5;245m[12:19:45] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:PHP&page=2[0m
+[1;38;5;245m[12:19:51] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:PHP&page=3[0m
+[1;38;5;245m[12:19:56] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:PHP&page=4[0m
+[1;38;5;245m[12:20:03] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:PHP&page=5[0m
+[1;38;5;245m[12:20:11] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:PHP&page=6[0m
+[1;38;5;245m[12:20:14] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:PHP&page=7[0m
+[1;38;5;245m[12:20:16] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:PHP&page=8[0m
+[1;38;5;245m[12:20:23] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:PHP&page=9[0m
+[1;38;5;245m[12:20:31] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Shell, noise:[][0m
+[1;38;5;245m[12:20:34] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Shell&page=1[0m
+[1;38;5;245m[12:20:35] current search returned 257 results[0m
+[1;38;5;245m[12:20:39] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Shell&page=2[0m
+[1;38;5;245m[12:20:46] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Shell&page=3[0m
+[1;38;5;245m[12:20:51] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:CSV, noise:[][0m
+[1;38;5;245m[12:20:53] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSV&page=1[0m
+[1;38;5;245m[12:20:55] current search returned 928 results[0m
+[1;38;5;245m[12:21:01] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSV&page=2[0m
+[1;38;5;245m[12:21:09] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSV&page=3[0m
+[1;38;5;245m[12:21:15] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSV&page=4[0m
+[1;38;5;245m[12:21:23] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSV&page=5[0m
+[1;38;5;245m[12:21:30] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSV&page=6[0m
+[1;38;5;245m[12:21:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSV&page=7[0m
+[1;38;5;245m[12:21:44] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSV&page=8[0m
+[1;38;5;245m[12:21:50] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSV&page=9[0m
+[1;38;5;245m[12:21:57] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSV&page=10[0m
+[1;38;5;245m[12:22:02] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[][0m
+[1;38;5;245m[12:22:04] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown&page=1[0m
+[1;38;5;245m[12:22:05] current search returned 3304 results, noise added for later search[0m
+[1;38;5;245m[12:22:12] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown&page=2[0m
+[1;38;5;245m[12:22:17] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown&page=3[0m
+[1;38;5;245m[12:22:24] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown&page=4[0m
+[1;38;5;245m[12:22:29] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown&page=5[0m
+[1;38;5;245m[12:22:36] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown&page=6[0m
+[1;38;5;245m[12:22:44] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown&page=7[0m
+[1;38;5;245m[12:22:54] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown&page=8[0m
+[1;38;5;245m[12:22:59] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown&page=9[0m
+[1;38;5;245m[12:23:07] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown&page=10[0m
+[1;38;5;245m[12:23:11] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:XML, noise:[][0m
+[1;38;5;245m[12:23:13] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:XML&page=1[0m
+[1;38;5;245m[12:23:15] current search returned 572 results[0m
+[1;33m[12:23:15] https://github.com/Jiovanni-dump/motorola_eqe_dump/blob/23a3b6d29aafb3a9aa7bf39575f5d88d0a806f0a/product/etc/permissions/privapp-permissions-udc.lenovo.com.udclient.xml[0m
+[1;32m[12:23:15] privapp-permissions-udc.lenovo.com[0m
+[1;38;5;245m[12:23:22] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:XML&page=2[0m
+[1;38;5;245m[12:23:30] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:XML&page=3[0m
+[1;38;5;245m[12:23:37] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:XML&page=4[0m
+[1;38;5;245m[12:23:44] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:XML&page=5[0m
+[1;38;5;245m[12:23:53] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:XML&page=6[0m
+[1;38;5;245m[12:23:59] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:JSON, noise:[][0m
+[1;38;5;245m[12:24:01] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON&page=1[0m
+[1;38;5;245m[12:24:02] current search returned 3316 results, noise added for later search[0m
+[1;38;5;245m[12:24:08] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON&page=2[0m
+[1;38;5;245m[12:24:13] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON&page=3[0m
+[1;38;5;245m[12:24:20] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON&page=4[0m
+[1;38;5;245m[12:24:26] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON&page=5[0m
+[1;38;5;245m[12:24:33] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON&page=6[0m
+[1;38;5;245m[12:24:42] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON&page=7[0m
+[1;38;5;245m[12:24:49] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON&page=8[0m
+[1;38;5;245m[12:24:54] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON&page=9[0m
+[1;38;5;245m[12:25:00] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON&page=10[0m
+[1;38;5;245m[12:25:03] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[][0m
+[1;38;5;245m[12:25:05] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text&page=1[0m
+[1;38;5;245m[12:25:07] current search returned 1760 results, noise added for later search[0m
+[1;38;5;245m[12:25:12] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text&page=2[0m
+[1;38;5;245m[12:25:16] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text&page=3[0m
+[1;38;5;245m[12:25:21] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text&page=4[0m
+[1;33m[12:25:24] https://github.com/tjesi/security-scan/blob/35a32974952e32d24417e6227e4cc0f7ddd28376/archive/Version1_Python/scan-08-july-2018/certificates/CN-www.lenovo.com.cn.txt[0m
+[1;32m[12:25:24] cn-www.lenovo.com[0m
+[1;38;5;245m[12:25:28] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text&page=5[0m
+[1;38;5;245m[12:25:30] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text&page=6[0m
+[1;38;5;245m[12:25:33] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text&page=7[0m
+[1;38;5;245m[12:25:36] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text&page=8[0m
+[1;38;5;245m[12:25:41] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text&page=9[0m
+[1;38;5;245m[12:25:46] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text&page=10[0m
+[1;38;5;245m[12:25:49] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:CSS, noise:[][0m
+[1;38;5;245m[12:25:52] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:CSS&page=1[0m
+[1;38;5;245m[12:25:54] current search returned 95 results[0m
+[1;38;5;245m[12:25:56] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:HTML, noise:[][0m
+[1;38;5;245m[12:25:58] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML&page=1[0m
+[1;38;5;245m[12:25:59] current search returned 2368 results, noise added for later search[0m
+[1;38;5;245m[12:26:03] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML&page=2[0m
+[1;38;5;245m[12:26:08] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML&page=3[0m
+[1;38;5;245m[12:26:13] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML&page=4[0m
+[1;38;5;245m[12:26:18] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML&page=5[0m
+[1;38;5;245m[12:26:23] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML&page=6[0m
+[1;38;5;245m[12:26:25] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML&page=7[0m
+[1;38;5;245m[12:26:28] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML&page=8[0m
+[1;38;5;245m[12:26:30] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML&page=9[0m
+[1;38;5;245m[12:26:33] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML&page=10[0m
+[1;38;5;245m[12:26:33] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Perl, noise:[][0m
+[1;38;5;245m[12:26:36] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Perl&page=1[0m
+[1;38;5;245m[12:26:36] current search returned 0 results[0m
+[1;38;5;245m[12:26:36] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:ActionScript, noise:[][0m
+[1;38;5;245m[12:26:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:ActionScript&page=1[0m
+[1;38;5;245m[12:26:39] current search returned 0 results[0m
+[1;38;5;245m[12:26:39] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Lua, noise:[][0m
+[1;38;5;245m[12:26:41] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Lua&page=1[0m
+[1;38;5;245m[12:26:42] current search returned 4 results[0m
+[1;38;5;245m[12:26:42] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:C, noise:[][0m
+[1;38;5;245m[12:26:44] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:C&page=1[0m
+[1;38;5;245m[12:26:45] current search returned 303 results[0m
+[1;38;5;245m[12:26:49] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:C&page=2[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/hacc1225/cix-linux/f23e892a27cbb83f6a34a3cc3fe10743fde9d8c6/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/jschang0215/CRZ-AM62X-Kernel/99af5b953e94642dda62171b47d4e1adc2ec1d6d/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/luckasfb/android_kernel_lenovo_a7000-a-1/c0c0a2184df9a6aa681f8eebcee0dacfe816e1a8/drivers/misc/mediatek/video/mt6752/videox/primary_display.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/spandruvada/linux-kernel/6dfe26cb1c290fa4b62e6fb8c05209fe5f7adb76/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/beagleboard/mirror-linux-stable/8ffd015db85fea3e15a77027fda6c02ced4d2444/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/minortex/android_kernel_zuk_msm8996/77d5667302e83c9d76b9ec3ecf2b098799d884fa/drivers/misc/cclogic/pi5usb30216d.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/LineageOS/android_kernel_zuk_msm8996/cc57cb4ee3b7918b74d30604735d353b9a5fa23b/drivers/misc/cclogic/pi5usb30216d.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/mahmoud-10th/android_kernel_mediatek_mt6582/69132d03d7407d6fe6056250b6adc2f3ea545f60/bsp/mediatek/kernel/drivers/leds/sn3199_leds.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/EncryptedCicada/android_kernel_lenovo_sisley2OFRL/05e1680825c67dde7e5ea0832f29e7f1cecc863a/drivers/misc/mediatek/video/mt6752/videox/primary_display.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/oppo-source/android_kernel_oppo_mt6835/9c93b939b3198a82775bbe3fb74f6e647b533825/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/sony-sm8550/android_kernel_sony_sm8550/872009f32d624d69f2017a819bba206fc6ec2675/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/brauner/ubuntu-unstable/14b18a47dfb4b2a469fc47240fe22ec1d1b23536/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/916BGAI/linux-v853/9803d7532018f2ff8991aa18134dd554fec07230/drivers/platform/x86/firmware_attributes_class.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/raspiduino/sm-a356e-kernel/e1b3f678ae568be021d54aa88f21003fa3adb65a/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/Theimposter65/kernel_motorola-sm6150-3/e68be03e9c9e004b9f4e3189abdf376ff739aba0/drivers/popup/aw8646/aw8646.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/AndroidBlobs/kernel_lenovo_sm8150/1a52f43b6e93aeba7d218cb7d8eacaf67c32b56a/net/netfilter/xt_tlv.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/cromulencellc/chess-aces/8ea5b0d75ddbf45fd74a7b8c5ca03fc4955eba8b/phase_3/example/alatka/reference_patch/MaraDNS/deadwood-github/tools/coLunacyDNS/coLunacyDNS.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/ThEMarD/android_kernel_lenovo_sm6150-opensource/6298d5f138d54548c334f8de5ae08f5d6b546f10/net/netfilter/xt_tlv.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/yyu168/linux_cet/761c6d7ec820f123b931e7b8ef7ec7c8564e450f/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/KenHV/kensur_kernel_liber/d66c89f2fda578b15eaa69cf5992fb83d3f7e02c/drivers/popup/aw8646/aw8646.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/PIPIPIG233666/android_kernel_oneplus_sm8450-6.6/a69267a7ab367de4e0c77dc0b4f536a9c66ea052/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/JAV-Team-qcom/android_kernel_lenovo_msm8x25q/54d020d28e1e8d49efbde145cee93c7c15420a72/drivers/gpu/msm/adreno_a3xx.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/estiko/android_kernel_lenovo_armani/1a8f3daa888e446b6908b297cf129a5adf5cc615/drivers/gpu/msm/adreno_a3xx.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/estiko/android_lenovo_a706_kinglplite/899eec4fc4860d77011edf98a89c0f4e28c898ac/drivers/gpu/msm/adreno_a3xx.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/OnePlus-11-Development/android_kernel_qcom_sm8550/cfc449e8b28aff296b612ea931bc33d8d9caded7/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/OnePlusOSS/android_kernel_common_oneplus_sm8750/9920459dfb0080dd8a81c41d95701483857f804a/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/physwizz/A065f-U-u1-A065m-s4/a09928c1be88d5cd885974e385696e282f2e0ffa/kernel-6.6/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:56] Get "https://raw.githubusercontent.com/xmoezzz/CMVS-Engine/a6bc9501d82264e228943f894af1b969ab98bee5/PurplePS3Packer/PurplePS3Packer/lzss.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:57] Get "https://raw.githubusercontent.com/physwizz/A145p-A145r/2f7a2498fc9245046adce612305db6f729fb3621/kernel-6.6/drivers/platform/x86/think-lmi.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:26:57] Get "https://raw.githubusercontent.com/jszhtian/Re_Call/be0af1b32e3abfccbd768a2d731d180bddc76d67/Eden%20Project/game%20tools/Niflheim-master/cmvs/ps3_encoder/lzss.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;38;5;245m[12:26:59] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:C&page=3[0m
+[1;38;5;245m[12:27:04] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:C&page=4[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/100Daisy/sunburn_v2/8f3d3218b1610b547224781d5cfbf6a20a892862/motorola/kernel/modules/drivers/misc/pen/bu520xx_pen.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/nift4/android_kernel_motorola_mt6853/330d2a87134a6ac1042da80ef74038b1814a3e01/drivers/misc/mediatek/cam_cal/src/mt6853/camera_project/kyoto/custom_eeprom_driver.h": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/deadman96385/android_kernel_lenovo_yeti/9e165f064a6d0285e450fce98e6b6b0c01647aad/sound/soc/intel/board/cht_bl_pinctrl.h": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/tttturtle-russ/KernelAnalysis/efd6a304ae66829421586c37e72d3f1473951fbe/linux/drivers/hwmon/lenovo-ec-sensors.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/nift4/android_kernel_motorola_mt6853/330d2a87134a6ac1042da80ef74038b1814a3e01/drivers/misc/mediatek/imgsensor/src/common/v1/mot_tonga_s5k4h7_mipi_raw/mot_tonga_s5k4h7mipiraw_otp.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/minortex/android_kernel_zuk_msm8996/77d5667302e83c9d76b9ec3ecf2b098799d884fa/drivers/misc/cclogic/cclogic-core.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/andreya108/bindu-kernel-mediatek/f76e658863b188e81484c30e26f88f5fab347ad8/platform/mt6589/kernel/drivers/videox/mtkfb.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/microsoft/OHCL-Linux-Kernel/0e378a8280db788c4dddb243e7feecd2b6072056/drivers/acpi/platform_profile.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/andreya108/bindu-kernel-mediatek/f76e658863b188e81484c30e26f88f5fab347ad8/custom/common/kernel/lcm/lenovo_lcm_debug.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/mahmoud-10th/Lenovo_s860/12200c94e35f0bcb93b474fee5b4333949acbd63/bsp/mediatek/custom/phaeton_row/kernel/leds/mt65xx/cust_leds.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/nift4/android_kernel_motorola_mt6853/330d2a87134a6ac1042da80ef74038b1814a3e01/drivers/misc/mediatek/imgsensor/src/mt6853/camera_project/kyoto/mot_s5k4h7_mipi_raw/mot_s5k4h7mipiraw_otp.h": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/andreya108/bindu-kernel-mediatek/f76e658863b188e81484c30e26f88f5fab347ad8/kernel/drivers/video/mtkfb.h": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/nift4/android_kernel_motorola_mt6853/330d2a87134a6ac1042da80ef74038b1814a3e01/drivers/misc/mediatek/imgsensor/src/common/v1/mot_tonga_s5k4h7_mipi_raw/mot_s5k4h7mipiraw_otp.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/alexzeitgeist/YT2/030e1c3eaa00a9432a3437634cf16d0f3bf070ec/Lenovo%20YT3-X90(Row&China)Open%20Source/kernel/cht/drivers/misc/uart_audiojack_sw.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:27:12] Get "https://raw.githubusercontent.com/sp8996/kernel_zuk_msm8996/79be3eb22818c78de6dc75fbbf623b43a586cce7/drivers/misc/cclogic/cclogic-core.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;38;5;245m[12:27:12] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:C%2B%2B, noise:[][0m
+[1;38;5;245m[12:27:14] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:C%2B%2B&page=1[0m
+[1;38;5;245m[12:27:16] current search returned 335 results[0m
+[1;38;5;245m[12:27:22] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:C%2B%2B&page=2[0m
+[1;38;5;245m[12:27:28] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:C%2B%2B&page=3[0m
+[1;38;5;245m[12:27:35] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:C%2B%2B&page=4[0m
+[1;38;5;245m[12:27:35] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:C%23, noise:[][0m
+[1;38;5;245m[12:27:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:C%23&page=1[0m
+[1;38;5;245m[12:27:38] current search returned 0 results[0m
+[1;38;5;245m[12:27:38] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[api][0m
+[1;38;5;245m[12:27:40] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api&page=1[0m
+[1;38;5;245m[12:27:42] current search returned 1232 results, noise added for later search[0m
+[1;38;5;245m[12:27:46] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api&page=2[0m
+[1;38;5;245m[12:27:50] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api&page=3[0m
+[1;38;5;245m[12:27:55] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api&page=4[0m
+[1;38;5;245m[12:28:00] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api&page=5[0m
+[1;38;5;245m[12:28:08] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api&page=6[0m
+[1;38;5;245m[12:28:14] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api&page=7[0m
+[1;38;5;245m[12:28:20] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api&page=8[0m
+[1;38;5;245m[12:28:25] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api&page=9[0m
+[1;38;5;245m[12:28:30] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api&page=10[0m
+[1;38;5;245m[12:28:30] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[private][0m
+[1;38;5;245m[12:28:32] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+private&page=1[0m
+[1;38;5;245m[12:28:33] current search returned 0 results[0m
+[1;38;5;245m[12:28:33] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[secret][0m
+[1;38;5;245m[12:28:35] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+secret&page=1[0m
+[1;38;5;245m[12:28:36] current search returned 0 results[0m
+[1;38;5;245m[12:28:36] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[internal][0m
+[1;38;5;245m[12:28:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+internal&page=1[0m
+[1;38;5;245m[12:28:38] current search returned 0 results[0m
+[1;38;5;245m[12:28:38] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[corp][0m
+[1;38;5;245m[12:28:41] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+corp&page=1[0m
+[1;38;5;245m[12:28:41] current search returned 0 results[0m
+[1;38;5;245m[12:28:41] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[development][0m
+[1;38;5;245m[12:28:43] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+development&page=1[0m
+[1;38;5;245m[12:28:45] current search returned 760 results[0m
+[1;38;5;245m[12:28:49] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+development&page=2[0m
+[1;38;5;245m[12:28:53] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+development&page=3[0m
+[1;38;5;245m[12:28:58] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+development&page=4[0m
+[1;38;5;245m[12:29:03] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+development&page=5[0m
+[1;38;5;245m[12:29:08] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+development&page=6[0m
+[1;38;5;245m[12:29:14] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+development&page=7[0m
+[1;38;5;245m[12:29:21] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+development&page=8[0m
+[1;38;5;245m[12:29:27] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[production][0m
+[1;38;5;245m[12:29:29] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+production&page=1[0m
+[1;38;5;245m[12:29:31] current search returned 752 results[0m
+[1;38;5;245m[12:29:33] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+production&page=2[0m
+[1;38;5;245m[12:29:36] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+production&page=3[0m
+[1;38;5;245m[12:29:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+production&page=4[0m
+[1;38;5;245m[12:29:41] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+production&page=5[0m
+[1;38;5;245m[12:29:44] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+production&page=6[0m
+[1;38;5;245m[12:29:46] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+production&page=7[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-updates/aad6dd160f3876d5c1d718cb4b906b06218184f1/source/_posts/lenovo-hardware-optimization-quick-and-simple-power-management-drivers-refresh.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-tips/60a8fd38902253479822c2ae3af12d822b013d7d/source/_posts/expert-reviews-by-toms-gear-guide-dive-into-new-technology.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-help/9d16e22069e269ec3df026fb7aa9d79eeda1d428/source/_posts/selecting-the-perfect-college-laptop-top-4-factors-and-10-recommended-models-insights.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-reviews/0b197e7d59a10bf1b7c3ae45824dcf35c813775f/source/_posts/top-4-factors-and-10-ideal-choices-when-selecting-your-perfect-college-laptop-insights-from-zdnet.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-help/9d16e22069e269ec3df026fb7aa9d79eeda1d428/source/_posts/college-students-guide-to-choosing-the-perfect-laptop-top-4-factors-and-10-recommended-models-insights-from-zdnet.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-extra-guidance/46c3330f346493b098d347bec4130420042775c9/source/_posts/enhance-performance-build-a-custom-mini-pc-with-direct-egpu-connection-and-speeds-that-outpace-thunderbolt-4.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-help/9d16e22069e269ec3df026fb7aa9d79eeda1d428/source/_posts/top-ranking-m2-ssds-comprehensive-reviews-by-tech-experts-techradar.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-updates/aad6dd160f3876d5c1d718cb4b906b06218184f1/source/_posts/keeping-your-lenovo-ideapad-100-running-smoothly-in-windows-11-driver-download-and-update-guide.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-updates/aad6dd160f3876d5c1d718cb4b906b06218184f1/source/_posts/top-rated-touchscreen-laptop-picks-thoroughly-evaluated-and-recommended-insights-from-tech-experts-zdnet.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-driver-error/ca2146010bae76d60317bd5bb7b5dd399ce46330/source/_posts/smart-1080p-touch-screen-msi-desktop-with-advanced-artificnial-intelligence-features.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-tips/60a8fd38902253479822c2ae3af12d822b013d7d/source/_posts/premium-choice-of-powered-compact-and-usb-type-c-hubs-for-optimal-connectivity.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-reviews/0b197e7d59a10bf1b7c3ae45824dcf35c813775f/source/_posts/top-picks-the-ideal-thinkpad-models-for-hybrid-professionals-excluding-the-latest-release-insights-from-zdnet.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-tips/60a8fd38902253479822c2ae3af12d822b013d7d/source/_posts/pioneering-reviews-by-tom-a-tech-odyssey.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-technical-tips/7ddcfd701c39724406a346d3b294f3552424c62c/source/_posts/high-performance-powerhouse-in-depth-analysis-of-the-ibuypower-y60-gaming-desktop.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-help/9d16e22069e269ec3df026fb7aa9d79eeda1d428/source/_posts/top-rated-college-laptops-expertly-tested-and-comprehensive-reviews-zdnet.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-tips/60a8fd38902253479822c2ae3af12d822b013d7d/source/_posts/discover-the-ultimate-guide-to-sustainable-mobiles-green-techs-finest-phones-of-2e24-by-zdnet.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-tips/60a8fd38902253479822c2ae3af12d822b013d7d/source/_posts/mastering-your-pc-build-wisdom-from-toms-hardware-community.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:29:56] Get "https://raw.githubusercontent.com/techidaily/site-hardware-tips/60a8fd38902253479822c2ae3af12d822b013d7d/source/_posts/the-ultimate-guide-to-selecting-the-best-cpu-coolers-liquid-and-airflow-varieties.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;38;5;245m[12:29:58] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+production&page=8[0m
+[1;38;5;245m[12:30:00] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:JSON, noise:[api][0m
+[1;38;5;245m[12:30:03] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+api&page=1[0m
+[1;38;5;245m[12:30:05] current search returned 820 results[0m
+[1;38;5;245m[12:30:08] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+api&page=2[0m
+[1;38;5;245m[12:30:13] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+api&page=3[0m
+[1;38;5;245m[12:30:17] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+api&page=4[0m
+[1;38;5;245m[12:30:23] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+api&page=5[0m
+[1;38;5;245m[12:30:29] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+api&page=6[0m
+[1;38;5;245m[12:30:34] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+api&page=7[0m
+[1;38;5;245m[12:30:40] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+api&page=8[0m
+[1;38;5;245m[12:30:42] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+api&page=9[0m
+[1;38;5;245m[12:30:42] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:JSON, noise:[private][0m
+[1;38;5;245m[12:30:45] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+private&page=1[0m
+[1;38;5;245m[12:30:45] current search returned 0 results[0m
+[1;38;5;245m[12:30:45] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:JSON, noise:[secret][0m
+[1;38;5;245m[12:30:47] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+secret&page=1[0m
+[1;38;5;245m[12:30:49] current search returned 612 results[0m
+[1;38;5;245m[12:30:54] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+secret&page=2[0m
+[1;38;5;245m[12:30:57] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+secret&page=3[0m
+[1;38;5;245m[12:31:02] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+secret&page=4[0m
+[1;38;5;245m[12:31:07] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+secret&page=5[0m
+[1;38;5;245m[12:31:13] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+secret&page=6[0m
+[1;38;5;245m[12:31:19] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+secret&page=7[0m
+[1;38;5;245m[12:31:23] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:JSON, noise:[internal][0m
+[1;38;5;245m[12:31:25] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+internal&page=1[0m
+[1;38;5;245m[12:31:27] current search returned 712 results[0m
+[1;38;5;245m[12:31:30] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+internal&page=2[0m
+[1;38;5;245m[12:31:35] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+internal&page=3[0m
+[1;38;5;245m[12:31:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+internal&page=4[0m
+[1;38;5;245m[12:31:40] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+internal&page=5[0m
+[1;38;5;245m[12:31:43] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+internal&page=6[0m
+[1;38;5;245m[12:31:45] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+internal&page=7[0m
+[1;38;5;245m[12:31:48] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+internal&page=8[0m
+[1;38;5;245m[12:31:52] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:JSON, noise:[corp][0m
+[1;38;5;245m[12:31:54] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+corp&page=1[0m
+[1;38;5;245m[12:31:55] current search returned 664 results[0m
+[1;38;5;245m[12:31:59] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+corp&page=2[0m
+[1;38;5;245m[12:32:03] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+corp&page=3[0m
+[1;38;5;245m[12:32:07] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+corp&page=4[0m
+[1;38;5;245m[12:32:12] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+corp&page=5[0m
+[1;38;5;245m[12:32:17] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+corp&page=6[0m
+[1;38;5;245m[12:32:21] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+corp&page=7[0m
+[1;38;5;245m[12:32:24] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:JSON, noise:[development][0m
+[1;38;5;245m[12:32:26] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+development&page=1[0m
+[1;38;5;245m[12:32:27] current search returned 378 results[0m
+[1;38;5;245m[12:32:31] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+development&page=2[0m
+[1;38;5;245m[12:32:33] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+development&page=3[0m
+[1;38;5;245m[12:32:36] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+development&page=4[0m
+[1;38;5;245m[12:32:36] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:JSON, noise:[production][0m
+[1;38;5;245m[12:32:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:JSON+production&page=1[0m
+[1;38;5;245m[12:32:39] current search returned 0 results[0m
+[1;38;5;245m[12:32:39] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[api][0m
+[1;38;5;245m[12:32:41] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api&page=1[0m
+[1;38;5;245m[12:32:41] current search returned 0 results[0m
+[1;38;5;245m[12:32:41] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[private][0m
+[1;38;5;245m[12:32:44] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+private&page=1[0m
+[1;38;5;245m[12:32:44] current search returned 0 results[0m
+[1;38;5;245m[12:32:44] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[secret][0m
+[1;38;5;245m[12:32:46] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+secret&page=1[0m
+[1;38;5;245m[12:32:47] current search returned 0 results[0m
+[1;38;5;245m[12:32:47] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[internal][0m
+[1;38;5;245m[12:32:49] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+internal&page=1[0m
+[1;38;5;245m[12:32:51] current search returned 752 results[0m
+[1;33m[12:32:52] https://github.com/arjunth2001/IIITH-Analytica/blob/409a4ba91e6488513b2ede206662acad8af9500c/analysis/GDPR/EU_output/www3.lenovo.com.txt[0m
+[1;32m[12:32:52] www3.lenovo.com[0m
+[1;38;5;245m[12:32:55] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+internal&page=2[0m
+[1;38;5;245m[12:33:00] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+internal&page=3[0m
+[1;38;5;245m[12:33:05] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+internal&page=4[0m
+[1;38;5;245m[12:33:11] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+internal&page=5[0m
+[1;38;5;245m[12:33:16] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+internal&page=6[0m
+[1;31m[12:33:22] Get "https://raw.githubusercontent.com/theSoberSobber/dotfiles/86320ade0c8c8c001378ef1476ddbe130686f35c/.config/google-chrome/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.49.0_1/assets/ublock/unbreak.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:22] Get "https://raw.githubusercontent.com/jxcjxcjzx/WebOsxm/df96ada4e49b5e52f0e309fdfdcc1d5bae4ae46d/src/WebOS_LBase/base_2013_12_6/content_13_12_01_22_44_42.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/5dbf758ede7c6efaf431bf8c1e9f7e72be206a1a/platforms/android/filters/104_optimized.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/psychosispy/router/3cdae306b9c2b10ab759839e9f3da49703db96e9/rules/adblockdnsmasqlite.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/CSL-KU/SpectreGuard/a7d551352968a33e29268140b201482c60d8f18c/linux-4.18.12/Documentation/laptops/thinkpad-acpi.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/5dbf758ede7c6efaf431bf8c1e9f7e72be206a1a/platforms/extension/firefox/filters/17_optimized.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/pengcu/Rules/776d5f83738b1ab1b9ec802411259c979c0e2bce/Reject.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/a-gordeev/linux/9637d517347e80ee2fe1c5d8ce45ba1b88d8b5cd/Documentation/laptops/thinkpad-acpi.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/5dbf758ede7c6efaf431bf8c1e9f7e72be206a1a/platforms/extension/firefox/filters/251_optimized.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/fffaraz/datasets/e1f8d1ce81bb9f988efe16a86829b68b6573e9af/Programming-Subreddit-Comments/data/rust/1551155991-1551396274.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/shabe3/Adobe-Summit-2025/65300378c6423cf100e3343f478e04debbb77fd8/S401%20Adobes%20Top%2010%20Generative%20AI%20Capabilities%20to%20Accelerate%20Your%20Content%20Supply%20Chain.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/vode/disentangle/37ea2b24773703f62caadea1e69bc28129b8289c/data/train/2013-10-04.train-a.ascii.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/rachancheet/DPBH/696d92a6799290e705c7949d40382fa9f75d767c/public/mylist.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/JJetmar/crawlee-with-chrome-extension/32a0b2f5a9e8f15c031ee3961644e86b1ebf8250/src/chrome-extensions/ublock/assets/ublock/privacy.min.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/hktalent/bug-bounty/9539efecf99dfe36f0eeda981da796f942a14f17/md/bounty-targets-data/data/wildcards.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/Android-Artisan/7420_upstream/1e3945a658f4aae9b84e377359b5ca52f9765396/Documentation/laptops/thinkpad-acpi.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/mainzelM/ddg-tr-as-easylist/cdafc57755a9881bd3e411ddb9ff01880afaf75c/easylist/NO/cookiesAny.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/Boris304/cname-cloaking/a57f73969cf3ae844b97e502c3f8cd82551e39ea/data/trackers/easyprivacy-justdomains-sorted.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/koddsson/easylist/fe101207ea978419f97bd9e1fd7c3513a0016a16/fanboy-addon/fanboy_annoyance_specific_hide.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/Dan-S-Lee/Chat-Disentangle/dba0a50d8c17ede6f853242f843f8f0937c7ef02/data/train/2013-10-04.train-a.ascii.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/fdac21/TeamTLS/43bd213e579afdabfa1a7cbae5dd7917480c2f06/missing.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/mainzelM/ddg-tr-as-easylist/cdafc57755a9881bd3e411ddb9ff01880afaf75c/easylist/CA/forEblocker.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/TeddLi/Disentangle/ac3a71abb582e86337c65daf1a5023712fc5f09f/DSTC8_DATA/Task_4/train/2013-10-04.ascii.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/fffaraz/datasets/e1f8d1ce81bb9f988efe16a86829b68b6573e9af/Programming-Subreddit-Comments/data/dotnet/1396553643-1399910653.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/tech234a/annotation-urls/5c0300471b87c6a5f3dd8883484f8155b5ff33d7/6b_urls.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/tech234a/annotation-urls/5c0300471b87c6a5f3dd8883484f8155b5ff33d7/xB_urls.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/tucommenceapousser/bounty-targets-data/53f027e0031044113363cc7f2ca4a8031acac247/data/wildcards.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/Iconology/nfiwe92u4r0rxcv/f9cecba7c4c860b04ed78df65c55268b5fe08c9f/Condensed.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:33:23] Get "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/5dbf758ede7c6efaf431bf8c1e9f7e72be206a1a/platforms/mac_v3/filters/17.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;38;5;245m[12:33:26] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+internal&page=7[0m
+[1;38;5;245m[12:33:34] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+internal&page=8[0m
+[1;31m[12:33:40] Get "https://raw.githubusercontent.com/tech234a/annotation-urls/5c0300471b87c6a5f3dd8883484f8155b5ff33d7/xC_urls.txt": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;38;5;245m[12:33:42] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[corp][0m
+[1;38;5;245m[12:33:44] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp&page=1[0m
+[1;38;5;245m[12:33:46] current search returned 1320 results, noise added for later search[0m
+[1;38;5;245m[12:33:49] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp&page=2[0m
+[1;38;5;245m[12:33:51] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp&page=3[0m
+[1;38;5;245m[12:33:56] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp&page=4[0m
+[1;38;5;245m[12:33:59] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp&page=5[0m
+[1;38;5;245m[12:34:04] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp&page=6[0m
+[1;38;5;245m[12:34:08] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp&page=7[0m
+[1;38;5;245m[12:34:13] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp&page=8[0m
+[1;38;5;245m[12:34:17] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp&page=9[0m
+[1;38;5;245m[12:34:22] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp&page=10[0m
+[1;38;5;245m[12:34:25] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[development][0m
+[1;38;5;245m[12:34:27] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+development&page=1[0m
+[1;38;5;245m[12:34:28] current search returned 450 results[0m
+[1;38;5;245m[12:34:32] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+development&page=2[0m
+[1;38;5;245m[12:34:35] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+development&page=3[0m
+[1;38;5;245m[12:34:37] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+development&page=4[0m
+[1;38;5;245m[12:34:40] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+development&page=5[0m
+[1;38;5;245m[12:34:40] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[production][0m
+[1;38;5;245m[12:34:43] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+production&page=1[0m
+[1;38;5;245m[12:34:43] current search returned 0 results[0m
+[1;38;5;245m[12:34:43] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:HTML, noise:[api][0m
+[1;38;5;245m[12:34:45] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+api&page=1[0m
+[1;38;5;245m[12:34:45] current search returned 0 results[0m
+[1;38;5;245m[12:34:45] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:HTML, noise:[private][0m
+[1;38;5;245m[12:34:48] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+private&page=1[0m
+[1;38;5;245m[12:34:48] current search returned 0 results[0m
+[1;38;5;245m[12:34:48] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:HTML, noise:[secret][0m
+[1;38;5;245m[12:34:50] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+secret&page=1[0m
+[1;38;5;245m[12:34:51] current search returned 0 results[0m
+[1;38;5;245m[12:34:51] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:HTML, noise:[internal][0m
+[1;38;5;245m[12:34:53] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+internal&page=1[0m
+[1;38;5;245m[12:34:55] current search returned 640 results[0m
+[1;38;5;245m[12:35:00] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+internal&page=2[0m
+[1;38;5;245m[12:35:05] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+internal&page=3[0m
+[1;38;5;245m[12:35:12] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+internal&page=4[0m
+[1;38;5;245m[12:35:18] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+internal&page=5[0m
+[1;38;5;245m[12:35:26] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+internal&page=6[0m
+[1;38;5;245m[12:35:33] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+internal&page=7[0m
+[1;38;5;245m[12:35:35] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:HTML, noise:[corp][0m
+[1;38;5;245m[12:35:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+corp&page=1[0m
+[1;38;5;245m[12:35:39] current search returned 614 results[0m
+[1;31m[12:35:44] Get "https://raw.githubusercontent.com/sonu-gupta/tosdr-terms-of-service-corpus/d50edf3560957b13c27b1601f25b774e23cf673f/corpus/html/Lenovo_Privacy%20Statement%20(Website).html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:35:45] Get "https://raw.githubusercontent.com/arkajyotiMukherjee/WT-Assignment-Website/a871c530964ced657dd7fff95e79c023caf662fa/pages/cloudcomp.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:35:45] Get "https://raw.githubusercontent.com/deeppavlov/demo-cisco/b542d733972482fcc0ecc0a629c77da4252de539/datacenter/introducing-cisco-hyperflex-systems.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:35:45] Get "https://raw.githubusercontent.com/MartinPulec/arch-wiki-snapshot/8a1bc9188ed83f967ad89a6db859cb38d681f6fc/html/en/Lenovo_ThinkPad_X240.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:35:45] Get "https://raw.githubusercontent.com/saveweb/tech-support-alert/cd31d577588eb66490a86f8ad2951ace03fe7a53/docs/content/got-lenovo-laptop-you-need-read.htm": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:35:45] Get "https://raw.githubusercontent.com/aaaronmiller/OBDistGit/b24a12e962437a3f66e8a19c8b9a702b0f897898/Lenovo%202025%20Laptop%20Lineup%20Report.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;31m[12:35:45] Get "https://raw.githubusercontent.com/aryanpatel05/Formula1/6e737acdec1c0b7268a2a7813e69afbd20bacf96/f1partners.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[1;38;5;245m[12:35:47] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+corp&page=2[0m
+[1;38;5;245m[12:35:52] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+corp&page=3[0m
+[1;38;5;245m[12:35:55] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+corp&page=4[0m
+[1;38;5;245m[12:36:02] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+corp&page=5[0m
+[1;38;5;245m[12:36:08] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+corp&page=6[0m
+[1;38;5;245m[12:36:12] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+corp&page=7[0m
+[1;38;5;245m[12:36:12] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:HTML, noise:[development][0m
+[1;38;5;245m[12:36:14] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+development&page=1[0m
+[1;38;5;245m[12:36:16] current search returned 406 results[0m
+[1;38;5;245m[12:36:20] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+development&page=2[0m
+[1;38;5;245m[12:36:25] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+development&page=3[0m
+[1;38;5;245m[12:36:31] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+development&page=4[0m
+[1;38;5;245m[12:36:36] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+development&page=5[0m
+[1;38;5;245m[12:36:37] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:HTML, noise:[production][0m
+[1;38;5;245m[12:36:39] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:HTML+production&page=1[0m
+[1;38;5;245m[12:36:40] current search returned 0 results[0m
+[1;38;5;245m[12:36:40] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[api private][0m
+[1;38;5;245m[12:36:42] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api+private&page=1[0m
+[1;38;5;245m[12:36:42] current search returned 0 results[0m
+[1;38;5;245m[12:36:42] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[api secret][0m
+[1;38;5;245m[12:36:45] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api+secret&page=1[0m
+[1;38;5;245m[12:36:45] current search returned 0 results[0m
+[1;38;5;245m[12:36:45] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[api internal][0m
+[1;38;5;245m[12:36:47] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api+internal&page=1[0m
+[1;38;5;245m[12:36:48] current search returned 0 results[0m
+[1;38;5;245m[12:36:48] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[api corp][0m
+[1;38;5;245m[12:36:50] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api+corp&page=1[0m
+[1;38;5;245m[12:36:50] current search returned 0 results[0m
+[1;38;5;245m[12:36:50] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[api development][0m
+[1;38;5;245m[12:36:52] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api+development&page=1[0m
+[1;38;5;245m[12:36:53] current search returned 0 results[0m
+[1;38;5;245m[12:36:53] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Markdown, noise:[api production][0m
+[1;38;5;245m[12:36:55] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Markdown+api+production&page=1[0m
+[1;38;5;245m[12:36:55] current search returned 0 results[0m
+[1;38;5;245m[12:36:55] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[api corp][0m
+[1;38;5;245m[12:36:57] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp&page=1[0m
+[1;38;5;245m[12:36:59] current search returned 1284 results, noise added for later search[0m
+[1;38;5;245m[12:37:02] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp&page=2[0m
+[1;38;5;245m[12:37:06] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp&page=3[0m
+[1;38;5;245m[12:37:10] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp&page=4[0m
+[1;38;5;245m[12:37:14] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp&page=5[0m
+[1;38;5;245m[12:37:17] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp&page=6[0m
+[1;38;5;245m[12:37:21] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp&page=7[0m
+[1;38;5;245m[12:37:25] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp&page=8[0m
+[1;38;5;245m[12:37:29] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp&page=9[0m
+[1;38;5;245m[12:37:33] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp&page=10[0m
+[1;38;5;245m[12:37:33] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[corp private][0m
+[1;38;5;245m[12:37:35] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp+private&page=1[0m
+[1;38;5;245m[12:37:36] current search returned 0 results[0m
+[1;38;5;245m[12:37:36] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[corp secret][0m
+[1;38;5;245m[12:37:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp+secret&page=1[0m
+[1;38;5;245m[12:37:38] current search returned 0 results[0m
+[1;38;5;245m[12:37:38] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[corp internal][0m
+[1;38;5;245m[12:37:41] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp+internal&page=1[0m
+[1;38;5;245m[12:37:41] current search returned 0 results[0m
+[1;38;5;245m[12:37:41] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[corp development][0m
+[1;38;5;245m[12:37:43] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp+development&page=1[0m
+[1;38;5;245m[12:37:44] current search returned 0 results[0m
+[1;38;5;245m[12:37:44] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[corp production][0m
+[1;38;5;245m[12:37:46] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+corp+production&page=1[0m
+[1;38;5;245m[12:37:46] current search returned 0 results[0m
+[1;38;5;245m[12:37:46] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[api corp private][0m
+[1;38;5;245m[12:37:48] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+private&page=1[0m
+[1;38;5;245m[12:37:49] current search returned 0 results[0m
+[1;38;5;245m[12:37:49] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[api corp secret][0m
+[1;38;5;245m[12:37:51] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+secret&page=1[0m
+[1;38;5;245m[12:37:51] current search returned 0 results[0m
+[1;38;5;245m[12:37:51] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[api corp internal][0m
+[1;38;5;245m[12:37:54] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+internal&page=1[0m
+[1;38;5;245m[12:37:54] current search returned 0 results[0m
+[1;38;5;245m[12:37:54] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[api corp development][0m
+[1;38;5;245m[12:37:56] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+development&page=1[0m
+[1;38;5;245m[12:37:57] current search returned 0 results[0m
+[1;38;5;245m[12:37:57] keyword:%22lenovo.com%22, sort:indexed, order:desc, language:Text, noise:[api corp production][0m
+[1;38;5;245m[12:37:59] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+production&page=1[0m
+[1;38;5;245m[12:38:01] current search returned 648 results[0m
+[1;38;5;245m[12:38:03] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+production&page=2[0m
+[1;38;5;245m[12:38:06] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+production&page=3[0m
+[1;38;5;245m[12:38:10] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+production&page=4[0m
+[1;38;5;245m[12:38:14] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+production&page=5[0m
+[1;38;5;245m[12:38:18] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+production&page=6[0m
+[1;38;5;245m[12:38:21] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovo.com%22+language:Text+api+corp+production&page=7[0m
+[1;37m[12:38:25] 66 searches performed[0m
+[1;37m[12:38:25] 8 subdomains found[0m

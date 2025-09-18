@@ -1,0 +1,21 @@
+
+               __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
+[[34mINF[0m] Loading provider config from /home/kali/.config/subfinder/provider-config.yaml
+[[34mINF[0m] Enumerating subdomains for motorola.com.br
+[[34mINF[0m] Found 8 subdomains for motorola.com.br in 1 hour 33 minutes
+www.motorola.com.br
+experiencia.motorola.com.br
+empresas.motorola.com.br
+colaborador.motorola.com.br
+boleto.motorola.com.br
+corporativo.motorola.com.br
+seguros.motorola.com.br
+motostore.motorola.com.br

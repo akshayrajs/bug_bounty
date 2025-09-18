@@ -1,0 +1,89 @@
+lenovomm.com
+ ▌     ▌          ▌    ▌          ▗
+	▞▀▌▄▜▀ ▛▀▖▌ ▌▛▀▖  ▞▀▘▌ ▌▛▀▖▞▀▌▞▀▖▛▚▀▖▝▀▖▄ ▛▀▖▞▀▘
+	▚▄▌▐▐ ▖▌ ▌▌ ▌▌ ▌  ▝▀▖▌ ▌▌ ▌▌ ▌▌ ▌▌▐ ▌▞▀▌▐ ▌ ▌▝▀▖
+	▗▄▘▀▘▀ ▘ ▘▝▀▘▀▀   ▀▀ ▝▀▘▀▀ ▝▀▘▝▀ ▘▝ ▘▝▀▘▀▘▘ ▘▀▀
+	       by @gwendallecoguic                          
+
+[1;37m[14:00:56] Domain:lenovomm.com, Output:/home/kali/Documents/bug_bounty/lenovo/lenovomm.com/lenovomm.com.txt[0m
+[1;37m[14:00:56] Tokens:1, Delay:2200ms[0m
+[1;37m[14:00:56] Token rehab:true, Quick mode:false[0m
+[1;37m[14:00:56] Languages:20, Noise:7[0m
+[1;38;5;245m[14:00:56] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:, noise:[][0m
+[1;38;5;245m[14:00:58] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22&page=1[0m
+[1;38;5;245m[14:01:00] current search returned 1472 results, language filter added for later search[0m
+[1;33m[14:01:01] https://github.com/duckduckgo/tracker-radar-wiki/blob/c58612da6423c97f111d595d3f1de02cd417e43d/docs/domains/lenovomm.com.html[0m
+[1;32m[14:01:01] lenovomm.com[0m
+[1;38;5;245m[14:01:05] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22&page=2[0m
+[1;38;5;245m[14:01:11] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22&page=3[0m
+[1;38;5;245m[14:01:18] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22&page=4[0m
+[1;38;5;245m[14:01:23] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22&page=5[0m
+[1;38;5;245m[14:01:27] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22&page=6[0m
+[1;38;5;245m[14:01:33] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22&page=7[0m
+[1;38;5;245m[14:01:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22&page=8[0m
+[1;38;5;245m[14:01:43] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22&page=9[0m
+[1;38;5;245m[14:01:48] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22&page=10[0m
+[1;38;5;245m[14:01:49] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:JavaScript, noise:[][0m
+[1;38;5;245m[14:01:51] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:JavaScript&page=1[0m
+[1;38;5;245m[14:01:51] current search returned 0 results[0m
+[1;38;5;245m[14:01:51] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:Python, noise:[][0m
+[1;38;5;245m[14:01:53] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:Python&page=1[0m
+[1;38;5;245m[14:01:54] current search returned 0 results[0m
+[1;38;5;245m[14:01:54] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:Java, noise:[][0m
+[1;38;5;245m[14:01:56] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:Java&page=1[0m
+[1;38;5;245m[14:01:56] current search returned 0 results[0m
+[1;38;5;245m[14:01:56] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:Go, noise:[][0m
+[1;38;5;245m[14:01:59] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:Go&page=1[0m
+[1;38;5;245m[14:01:59] current search returned 0 results[0m
+[1;38;5;245m[14:01:59] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:Ruby, noise:[][0m
+[1;38;5;245m[14:02:01] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:Ruby&page=1[0m
+[1;38;5;245m[14:02:02] current search returned 0 results[0m
+[1;38;5;245m[14:02:02] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:PHP, noise:[][0m
+[1;38;5;245m[14:02:04] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:PHP&page=1[0m
+[1;38;5;245m[14:02:05] current search returned 20 results[0m
+[1;38;5;245m[14:02:05] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:Shell, noise:[][0m
+[1;38;5;245m[14:02:08] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:Shell&page=1[0m
+[1;38;5;245m[14:02:08] current search returned 1 results[0m
+[1;38;5;245m[14:02:08] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:CSV, noise:[][0m
+[1;38;5;245m[14:02:10] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:CSV&page=1[0m
+[1;38;5;245m[14:02:12] current search returned 109 results[0m
+[1;38;5;245m[14:02:16] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:CSV&page=2[0m
+[1;38;5;245m[14:02:17] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:Markdown, noise:[][0m
+[1;38;5;245m[14:02:19] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:Markdown&page=1[0m
+[1;38;5;245m[14:02:19] current search returned 34 results[0m
+[1;38;5;245m[14:02:20] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:XML, noise:[][0m
+[1;38;5;245m[14:02:22] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:XML&page=1[0m
+[1;38;5;245m[14:02:23] current search returned 12 results[0m
+[1;38;5;245m[14:02:23] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:JSON, noise:[][0m
+[1;38;5;245m[14:02:25] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:JSON&page=1[0m
+[1;38;5;245m[14:02:27] current search returned 152 results[0m
+[1;38;5;245m[14:02:31] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:JSON&page=2[0m
+[1;38;5;245m[14:02:35] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:Text, noise:[][0m
+[1;38;5;245m[14:02:38] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:Text&page=1[0m
+[1;38;5;245m[14:02:38] current search returned 0 results[0m
+[1;38;5;245m[14:02:38] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:CSS, noise:[][0m
+[1;38;5;245m[14:02:40] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:CSS&page=1[0m
+[1;38;5;245m[14:02:41] current search returned 0 results[0m
+[1;38;5;245m[14:02:41] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:HTML, noise:[][0m
+[1;38;5;245m[14:02:43] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:HTML&page=1[0m
+[1;38;5;245m[14:02:43] current search returned 0 results[0m
+[1;38;5;245m[14:02:43] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:Perl, noise:[][0m
+[1;38;5;245m[14:02:45] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:Perl&page=1[0m
+[1;38;5;245m[14:02:46] current search returned 0 results[0m
+[1;38;5;245m[14:02:46] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:ActionScript, noise:[][0m
+[1;38;5;245m[14:02:48] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:ActionScript&page=1[0m
+[1;38;5;245m[14:02:48] current search returned 0 results[0m
+[1;38;5;245m[14:02:48] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:Lua, noise:[][0m
+[1;38;5;245m[14:02:50] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:Lua&page=1[0m
+[1;38;5;245m[14:02:51] current search returned 0 results[0m
+[1;38;5;245m[14:02:51] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:C, noise:[][0m
+[1;38;5;245m[14:02:53] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:C&page=1[0m
+[1;38;5;245m[14:02:53] current search returned 0 results[0m
+[1;38;5;245m[14:02:53] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:C%2B%2B, noise:[][0m
+[1;38;5;245m[14:02:56] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:C%2B%2B&page=1[0m
+[1;38;5;245m[14:02:56] current search returned 0 results[0m
+[1;38;5;245m[14:02:56] keyword:%22lenovomm.com%22, sort:indexed, order:desc, language:C%23, noise:[][0m
+[1;38;5;245m[14:02:58] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22lenovomm.com%22+language:C%23&page=1[0m
+[1;38;5;245m[14:02:59] current search returned 0 results[0m
+[1;37m[14:02:59] 21 searches performed[0m
+[1;37m[14:02:59] 1 subdomains found[0m

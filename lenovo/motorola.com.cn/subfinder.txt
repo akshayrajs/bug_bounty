@@ -1,0 +1,26 @@
+
+               __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
+[[34mINF[0m] Loading provider config from /home/kali/.config/subfinder/provider-config.yaml
+[[34mINF[0m] Enumerating subdomains for motorola.com.cn
+[[34mINF[0m] Found 13 subdomains for motorola.com.cn in 20 seconds 713 milliseconds
+motorola.com.cn
+a1600.motorola.com.cn
+bbs.motorola.com.cn
+join.motorola.com.cn
+accounts.motorola.com.cn
+wwwtest.motorola.com.cn
+help.motorola.com.cn
+v8.motorola.com.cn
+www.motorola.com.cn
+artifacts-cn.motorola.com.cn
+image.motorola.com.cn
+passport.motorola.com.cn
+sdc.motorola.com.cn

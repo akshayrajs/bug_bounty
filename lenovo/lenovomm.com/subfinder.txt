@@ -1,0 +1,74 @@
+
+               __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
+[[34mINF[0m] Loading provider config from /home/kali/.config/subfinder/provider-config.yaml
+[[34mINF[0m] Enumerating subdomains for lenovomm.com
+[[34mINF[0m] Found 61 subdomains for lenovomm.com in 1 hour 37 minutes
+aizone.lenovomm.com
+portal.lenovomm.com
+mbgtest.lenovomm.com
+uczui.lenovomm.com
+test.uc.zui.lenovomm.com
+voice-pre.mbgtest.lenovomm.com
+cloud-aigc.mbgtest.lenovomm.com
+ad-sdk.lenovomm.com
+gla.lenovomm.com
+uss.lenovomm.com
+appdaily-img-test.lenovomm.com
+service.lenovomm.com
+fsrfra.lenovomm.com
+legc-lenovo.lenovomm.com
+haowan-lenovo.lenovomm.com
+weather.lenovomm.com
+devshp.lenovomm.com
+fmota.lenovomm.com
+login.lenovomm.com
+susapi.lenovomm.com
+swireuat.lenovomm.com
+theme.lenovomm.com
+uki.lenovomm.com
+rag.mbgtest.lenovomm.com
+fus.lenovomm.com
+api.lenovomm.com
+appdaily-apk.lenovomm.com
+fsrhk.lenovomm.com
+uss-us.lenovomm.com
+cloud-ai-core.mbgtest.lenovomm.com
+calendar.lenovomm.com
+yixun.lenovomm.com
+voice.mbgtest.lenovomm.com
+cloud-biz.mbgtest.lenovomm.com
+mail.lenovomm.com
+cloud-rest.mbgtest.lenovomm.com
+me.lenovomm.com
+weatherbd1.lenovomm.com
+lenovomm.com
+dev.lenovomm.com
+dl.lenovomm.com
+moc-edge.lenovomm.com
+smtp.lenovomm.com
+appdaily-apk-test.lenovomm.com
+appdaily-img.lenovomm.com
+browser-lenovo.lenovomm.com
+thinkiot.lenovomm.com
+data.lenovomm.com
+chifsr.lenovomm.com
+sus.lenovomm.com
+xue.lenovomm.com
+apiuhealth.lenovomm.com
+m.lenovomm.com
+developer.zuk.lenovomm.com
+ad-trace.lenovomm.com
+fsrcn.lenovomm.com
+ue.lenovomm.com
+push.lenovomm.com
+api.sj.lenovomm.com
+weatherbd2.lenovomm.com
+sdac.lenovomm.com

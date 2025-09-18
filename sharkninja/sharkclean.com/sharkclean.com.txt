@@ -1,0 +1,27 @@
+sharkclean.com
+7cwww.sharkclean.com
+��    ▌          ▗
+	▞▀▌▄▜▀ ▛▀▖▌ ▌▛▀▖  ▞▀▘▌ ▌▛▀▖▞▀▌▞▀▖▛▚▀▖▝▀▖▄ ▛▀▖▞▀▘
+	▚▄▌▐▐ ▖▌ ▌▌ ▌▌ ▌  ▝▀▖▌ ▌▌ ▌▌ ▌▌ ▌▌▐ ▌▞▀▌▐ ▌ ▌▝▀▖
+	▗▄▘▀▘▀ ▘ ▘▝▀▘▀▀   ▀▀ ▝▀▘▀▀ ▝▀▘▝▀ ▘▝ ▘▝▀▘▀▘▘ ▘▀▀
+	       by @gwendallecoguic                          
+
+[1;37m[09:40:02] Domain:sharkclean.com, Output:/home/kali/Documents/bug_bounty/sharkninja/sharkclean.com/sharkclean.com.txt[0m
+[1;37m[09:40:02] Tokens:1, Delay:2200ms[0m
+[1;37m[09:40:02] Token rehab:true, Quick mode:false[0m
+[1;37m[09:40:02] Languages:20, Noise:7[0m
+[1;38;5;245m[09:40:02] keyword:%22sharkclean.com%22, sort:indexed, order:desc, language:, noise:[][0m
+[1;38;5;245m[09:40:04] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22sharkclean.com%22&page=1[0m
+[1;38;5;245m[09:40:06] current search returned 656 results[0m
+[1;33m[09:40:06] https://github.com/citp/privacy-policy-historical/blob/4002d8c5640023da70a24a63af63e4c17b74f6cd/s/sh/sha/sharkclean.com.md[0m
+[1;32m[09:40:06] sharkclean.com[0m
+[1;33m[09:40:07] https://github.com/Secure-Platforms-Lab-W-M/smart-home-privacy-policies/blob/588dc7a82497a2268bdabe30ed20f2297ade9466/privacy_policy_htmls/512-https:%7C%7Cwww.sharkclean.com%7Cprivacy-policy%7C.html[0m
+[1;32m[09:40:07] 7cwww.sharkclean.com[0m
+[1;38;5;245m[09:40:09] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22sharkclean.com%22&page=2[0m
+[1;38;5;245m[09:40:14] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22sharkclean.com%22&page=3[0m
+[1;38;5;245m[09:40:18] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22sharkclean.com%22&page=4[0m
+[1;38;5;245m[09:40:23] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22sharkclean.com%22&page=5[0m
+[1;38;5;245m[09:40:27] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22sharkclean.com%22&page=6[0m
+[1;38;5;245m[09:40:37] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22sharkclean.com%22&page=7[0m
+[1;37m[09:40:38] 1 searches performed[0m
+[1;37m[09:40:38] 2 subdomains found[0m
