@@ -1,0 +1,92 @@
+
+               __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
+[[34mINF[0m] Loading provider config from /home/kali/.config/subfinder/provider-config.yaml
+[[34mINF[0m] Enumerating subdomains for britishairways.com
+[[34mINF[0m] Found 79 subdomains for britishairways.com in 51 minutes 48 seconds
+alerts.simulator-collab.service.britishairways.com
+api.dev-collab.service.britishairways.com
+baads.britishairways.com
+memberservices.britishairways.com
+sit.cpm.service.britishairways.com
+api.staging.britishairways.com
+api.dev.britishairways.com
+www.concorde.britishairways.com
+www.worldtravellerplus.britishairways.com
+ecp-live-mirror.britishairways.com
+ns1.britishairways.com
+ns2.britishairways.com
+api.devone-collab.service.britishairways.com
+www.mediacentre.britishairways.com
+events.britishairways.com
+kr.britishairways.com
+holiday.britishairways.com
+worldtravellerplus.britishairways.com
+prd.cpm.service.britishairways.com
+dev.cpm.service.britishairways.com
+alerts.testone-collab.service.britishairways.com
+alerts.devone-collab.service.britishairways.com
+www-cloud.britishairways.com
+redeem.britishairways.com
+concorde.britishairways.com
+nft.cpm.service.britishairways.com
+hotline.britishairways.com
+www.worldtraveller.britishairways.com
+cpm.service.britishairways.com
+api.prod-collab.service.britishairways.com
+origin-www.britishairways.com
+api.britishairways.com
+www.disruptionclaim.britishairways.com
+api.test-collab.service.britishairways.com
+overnightaccommodation.britishairways.com
+www.clubworld.britishairways.com
+disruptionclaim.britishairways.com
+press.britishairways.com
+clubworld.britishairways.com
+onbusinesslive.britishairways.com
+uat.cpm.service.britishairways.com
+inspire-us.britishairways.com
+prestige.britishairways.com
+travelnews.britishairways.com
+api.collab.service.britishairways.com
+alerts.prod-collab.service.britishairways.com
+worldtraveller.britishairways.com
+www.first.britishairways.com
+onbusinessprod.britishairways.com
+accounts.britishairways.com
+www.holidays.britishairways.com
+alerts.uat-collab.service.britishairways.com
+api.simulator-collab.service.britishairways.com
+int.cpm.service.britishairways.com
+careers.britishairways.com
+api.uat-collab.service.britishairways.com
+wap.britishairways.com
+prelive-onbusiness.britishairways.com
+api.testone-collab.service.britishairways.com
+www.memberservices.britishairways.com
+onbusiness.britishairways.com
+alerts.collab.service.britishairways.com
+toflytoserve.britishairways.com
+baggageclaim.britishairways.com
+ecp-prd-dormant.britishairways.com
+www.prestige.britishairways.com
+alerts.test-collab.service.britishairways.com
+alerts.dev-collab.service.britishairways.com
+home.britishairways.com
+prl.cpm.service.britishairways.com
+book.britishairways.com
+avios.britishairways.com
+mediacentre.britishairways.com
+tagman.britishairways.com
+us.britishairways.com
+first.britishairways.com
+www.britishairways.com
+overnightaccomodation.britishairways.com
+packages.britishairways.com

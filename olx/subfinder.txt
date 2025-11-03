@@ -1,0 +1,51 @@
+
+               __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
+[[34mINF[0m] Loading provider config from /home/kali/.config/subfinder/provider-config.yaml
+[[34mINF[0m] Enumerating subdomains for olx.pl
+[[34mINF[0m] Found 38 subdomains for olx.pl in 33 seconds 485 milliseconds
+magic.olx.pl
+ns1.olx.pl
+www.blog.praca.olx.pl
+ads.olx.pl
+biznes.olx.pl
+info.olx.pl
+mta.info.olx.pl
+mta2.info.olx.pl
+ftp.praca.olx.pl
+autodemontaz.olx.pl
+mwmsqddo.marketing.olx.pl
+smtp.olx.pl
+smtp05.olx.pl
+smtp06.olx.pl
+v2.staging.ads.olx.pl
+www.biznes.olx.pl
+api.chat.olx.pl
+xrwh04wb.marketing.olx.pl
+praca.olx.pl
+pop.praca.olx.pl
+smtp.praca.olx.pl
+www.praca.olx.pl
+smtp04.olx.pl
+v2.dev.ads.olx.pl
+profil-pracodawcy.olx.pl
+smtp02.olx.pl
+smtp03.olx.pl
+login.olx.pl
+blog.praca.olx.pl
+adminpanel.olx.pl
+smtp01.olx.pl
+sprzedawcy.olx.pl
+manager.olx.pl
+ns2.olx.pl
+ns3.olx.pl
+ns4.olx.pl
+mail.praca.olx.pl
+zawodowo.olx.pl

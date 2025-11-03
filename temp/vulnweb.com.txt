@@ -1,0 +1,17 @@
+
+
+	   ▗▐  ▌     ▌          ▌    ▌          ▗
+	▞▀▌▄▜▀ ▛▀▖▌ ▌▛▀▖  ▞▀▘▌ ▌▛▀▖▞▀▌▞▀▖▛▚▀▖▝▀▖▄ ▛▀▖▞▀▘
+	▚▄▌▐▐ ▖▌ ▌▌ ▌▌ ▌  ▝▀▖▌ ▌▌ ▌▌ ▌▌ ▌▌▐ ▌▞▀▌▐ ▌ ▌▝▀▖
+	▗▄▘▀▘▀ ▘ ▘▝▀▘▀▀   ▀▀ ▝▀▘▀▀ ▝▀▘▝▀ ▘▝ ▘▝▀▘▀▘▘ ▘▀▀
+	       by @gwendallecoguic                          
+
+[1;37m[11:12:02] Domain:vulnweb.com, Output:/home/kali/Documents/bug_bounty/temp/vulnweb.com.txt[0m
+[1;37m[11:12:02] Tokens:1, Delay:2200ms[0m
+[1;37m[11:12:02] Token rehab:true, Quick mode:false[0m
+[1;37m[11:12:02] Languages:20, Noise:7[0m
+[1;38;5;245m[11:12:02] keyword:%22vulnweb.com%22, sort:indexed, order:desc, language:, noise:[][0m
+[1;38;5;245m[11:12:04] https://api.github.com/search/code?per_page=100&s=indexed&type=Code&o=desc&q=%22vulnweb.com%22&page=1[0m
+[1;38;5;245m[11:12:08] current search returned 0 results[0m
+[1;37m[11:12:08] 1 searches performed[0m
+[1;37m[11:12:08] 0 subdomains found[0m

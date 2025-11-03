@@ -10,18 +10,18 @@
 [[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
 [[34mINF[0m] Loading provider config from /home/kali/.config/subfinder/provider-config.yaml
 [[34mINF[0m] Enumerating subdomains for vulnweb.com
-[[34mINF[0m] Found 14 subdomains for vulnweb.com in 7 seconds 685 milliseconds
-testphp.vulnweb.com
-testhtml5.vulnweb.com
+[[34mINF[0m] Found 14 subdomains for vulnweb.com in 20 seconds 224 milliseconds
 testsp.vulnweb.com
 virus.vulnweb.com
-www.virus.vulnweb.com
-testasp.vulnweb.com
 antivirus1.vulnweb.com
-protocoltestphp.vulnweb.com
-rest.vulnweb.com
-testaspnet.vulnweb.com
 www.test.php.vulnweb.com
-tetphp.vulnweb.com
-viruswall.vulnweb.com
+testhtml5.vulnweb.com
+testasp.vulnweb.com
+rest.vulnweb.com
 www.vulnweb.com
+testphp.vulnweb.com
+viruswall.vulnweb.com
+tetphp.vulnweb.com
+www.virus.vulnweb.com
+protocoltestphp.vulnweb.com
+testaspnet.vulnweb.com
